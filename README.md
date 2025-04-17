@@ -74,7 +74,3 @@ Run the SFA simulation with SFA_SIM1.py.
 ## Citation
 If you use this pipeline in your work, please cite the following paper:
 Signal Flow Analysis (SFA): [Topological estimation of signal flow in complex signaling networks](https://www.nature.com/articles/s41598-018-23643-5)
-
--- This README provides a clear description of your repository's structure, the functionality of each script, and the steps to get started. 
-
-# Thank you!

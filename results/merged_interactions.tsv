@@ -1,0 +1,3219 @@
+Gene1	Gene2	interaction	Annotation	Regulation	TRRUST_Annotation	TRRUST_Direction	TRRUST_Score
+A2M	BMP1	-|	inhibit	Inhibition			
+A2M	MMP3	->	complex; input (Complex interaction)	Activation			
+ABI2	CYFIP2	->	complex (Complex interaction)	Activation			
+ABL1	BAX	->			Activation	->	1.0
+ABL1	BCL2	-|			Repression	-|	1.0
+ABL1	BCL6	-|			Repression	-|	1.0
+ABL1	CBL	->	PPrel: activation, phosphorylation	Activation			
+ABL1	CCND2	->			Activation	->	1.0
+ABL1	CDKN1A	->			Activation	->	1.0
+ABL1	CDON	->	complex; input (Complex interaction)	Activation			
+ABL1	CSF1	->			Activation	->	1.0
+ABL1	CYFIP2	->	activate; catalyze	Activation			
+ABL1	ENAH	->	PPrel: activation; PPrel: activation, phosphorylation	Activation			
+ABL1	FOXO3	->			Activation	->	1.0
+ABL1	JUN	->			Activation	->	1.0
+ABL1	NTRK2	->	PPrel: binding/association; interaction (Binding/Association)	Activation			
+ABL1	PDGFB	->	activate	Activation			
+ABL1	PIM1	->			Activation	->	1.0
+ABL1	PLCG1	->	activate; activated by (Bidirectional Activation)	Activation			
+ABL1	RAC3	->	PPrel: activation	Activation			
+ABL1	ROBO1	->	PPrel: activation, phosphorylation; complex; input	Activation			
+ABL1	SHC3	->	PPrel: activation, phosphorylation	Activation			
+ABL1	SPAG9	->	complex; input (Complex interaction)	Activation			
+ABL1	TP53	->			Activation	->	1.0
+ACTBL2	CDH1	->	complex; input (Complex interaction)	Activation			
+ACTBL2	CDH11	->	complex; input (Complex interaction)	Activation			
+ACTBL2	CDH19	->	complex; input (Complex interaction)	Activation			
+ACTBL2	CDH4	->	complex; input (Complex interaction)	Activation			
+ACTBL2	CELSR1	->	complex; input (Complex interaction)	Activation			
+ACTBL2	COL12A1	->	complex; input (Complex interaction)	Activation			
+ACTBL2	COL17A1	->	complex; input (Complex interaction)	Activation			
+ACTBL2	COL27A1	->	complex; input (Complex interaction)	Activation			
+ACTBL2	COL3A1	->	complex; input (Complex interaction)	Activation			
+ACTBL2	COL4A3	->	complex; input (Complex interaction)	Activation			
+ACTBL2	COL4A4	->	complex; input (Complex interaction)	Activation			
+ACTBL2	COL4A5	->	complex; input (Complex interaction)	Activation			
+ACTBL2	COL4A6	->	complex; input (Complex interaction)	Activation			
+ACTBL2	COL5A1	->	complex; input (Complex interaction)	Activation			
+ACTBL2	COL6A2	->	complex; input (Complex interaction)	Activation			
+ACTBL2	COL6A3	->	complex; input (Complex interaction)	Activation			
+ACTBL2	COL8A1	->	complex; input (Complex interaction)	Activation			
+ACTBL2	DMBT1	->	complex; input (Complex interaction)	Activation			
+ACTBL2	FLNB	->	complex; input (Complex interaction)	Activation			
+ACTBL2	FN1	->	complex; input (Complex interaction)	Activation			
+ACTBL2	HIP1	->	complex; input (Complex interaction)	Activation			
+ACTBL2	ITGA2	->	complex; input (Complex interaction)	Activation			
+ACTBL2	ITGA6	->	complex; input (Complex interaction)	Activation			
+ACTBL2	ITGB8	->	complex; input (Complex interaction)	Activation			
+ACTBL2	ITGBL1	->	complex; input (Complex interaction)	Activation			
+ACTBL2	JUP	->	complex (Complex interaction)	Activation			
+ACTBL2	LAMA1	->	complex; input (Complex interaction)	Activation			
+ACTBL2	LAMA3	->	complex; input (Complex interaction)	Activation			
+ACTBL2	LAMA5	->	complex; input (Complex interaction)	Activation			
+ACTBL2	LAMB2	->	complex; input (Complex interaction)	Activation			
+ACTBL2	LAMC2	->	complex; input (Complex interaction)	Activation			
+ACTBL2	PCDH1	->	complex; input (Complex interaction)	Activation			
+ACTBL2	PCDH7	->	complex; input (Complex interaction)	Activation			
+ACTBL2	PCDH9	->	complex; input (Complex interaction)	Activation			
+ACTC1	CDH1	->	complex; input (Complex interaction)	Activation			
+ACTC1	CDH11	->	complex; input (Complex interaction)	Activation			
+ACTC1	CDH19	->	complex; input (Complex interaction)	Activation			
+ACTC1	CDH4	->	complex; input (Complex interaction)	Activation			
+ACTC1	CELSR1	->	complex; input (Complex interaction)	Activation			
+ACTC1	HIP1	->	complex; input (Complex interaction)	Activation			
+ACTC1	JUP	->	complex (Complex interaction)	Activation			
+ACTC1	PCDH1	->	complex; input (Complex interaction)	Activation			
+ACTC1	PCDH7	->	complex; input (Complex interaction)	Activation			
+ACTC1	PCDH9	->	complex; input (Complex interaction)	Activation			
+ACVR1C	SMAD3	->	PPrel: activation; PPrel: activation, phosphorylation; catalyze	Activation			
+ADAMTS3	COL27A1	->	catalyze	Activation			
+ADAMTS3	COL3A1	->	catalyze	Activation			
+ADAMTS3	COL5A1	->	catalyze	Activation			
+ADM	CALCR	->	PPrel: activation	Activation			
+ADM	RAMP1	->	PPrel: activation	Activation			
+ADRA1B	EDN1	->	complex; input (Complex interaction)	Activation			
+ADRA1B	GNA15	->	PPrel: activation; complex; input	Activation			
+ADRA1B	TGM2	->	activate	Activation			
+ADRB2	DNAJC6	->	complex; input (Complex interaction)	Activation			
+ADRB2	HIP1	->	complex; input (Complex interaction)	Activation			
+ADRB2	HIP1R	->	complex; input (Complex interaction)	Activation			
+ADRB2	ITSN1	->	complex; input (Complex interaction)	Activation			
+ADRB2	SLC9A3R1	->	complex; reaction (Input/Compound interaction)	Activation			
+ADRB2	SYNJ1	->	complex; input (Complex interaction)	Activation			
+ADRB2	SYNJ2	->	complex; input (Complex interaction)	Activation			
+ADRB2	USP33	->	complex (Complex interaction)	Activation			
+AGRN	DAG1	->	PPrel: activation; complex; input	Activation			
+AGRN	LAMA1	->	complex; input (Complex interaction)	Activation			
+AGRN	LAMA3	->	complex; input (Complex interaction)	Activation			
+AGRN	LAMA5	->	complex; input (Complex interaction)	Activation			
+AGRN	LAMB2	->	complex; input (Complex interaction)	Activation			
+AGRN	LRP4	->	complex; input (Complex interaction)	Activation			
+AGRN	MUSK	->	complex; input (Complex interaction)	Activation			
+AGRN	PTPRS	->	complex; input (Complex interaction)	Activation			
+AHCYL2	SLC4A4	->	activate	Activation			
+AHRR	CYP1A1	-|	inhibit	Inhibition			
+AKAP5	CACNG4	->	input (Input/Compound interaction)	Activation			
+AKAP5	CACNG8	->	input (Input/Compound interaction)	Activation			
+AKAP5	EPB41L1	->	input (Input/Compound interaction)	Activation			
+AKAP5	ROBO3	->	complex; input (Complex interaction)	Activation			
+ALCAM	L1CAM	->	complex; input (Complex interaction)	Activation			
+ALDH3A2	CYB5A	->	catalyze; catalyzed by; input (Bidirectional Activation)	Activation			
+ANGPT1	ERBB3	->	PPrel: activation	Activation			
+ANGPT1	ERBB4	->	PPrel: activation	Activation			
+ANGPT1	FGFR2	->	PPrel: activation	Activation			
+ANGPT1	FLT1	->	PPrel: activation	Activation			
+ANGPT1	FOXO1	-|	activated by; inhibite (Source inhibits Target)	Inhibition			
+ANGPT1	GRB14	->	catalyze; complex; input	Activation			
+ANGPT1	GRB7	->	catalyze; complex; input	Activation			
+ANGPT1	KDR	->	PPrel: activation	Activation			
+ANGPT1	NGFR	->	PPrel: activation	Activation			
+ANGPT1	NTRK2	->	PPrel: activation	Activation			
+ANGPT1	PTPRB	->	activate	Activation			
+ANK1	CD44	->	PPrel: binding/association (Binding/Association)	Activation			
+ANK1	CD59	->	complex; input (Complex interaction)	Activation			
+ANK1	FOLR1	->	complex; input (Complex interaction)	Activation			
+ANK1	L1CAM	->	complex; input (Complex interaction)	Activation			
+ANK1	NRCAM	->	complex; input (Complex interaction)	Activation			
+ANK1	SCN5A	->	complex; input (Complex interaction)	Activation			
+ANK1	SPTB	->	complex; input (Complex interaction)	Activation			
+ANK1	SPTBN5	->	complex; input (Complex interaction)	Activation			
+ANK3	CD44	->	PPrel: binding/association (Binding/Association)	Activation			
+ANK3	CD59	->	complex; input (Complex interaction)	Activation			
+ANK3	FOLR1	->	complex; input (Complex interaction)	Activation			
+ANK3	SPTB	->	complex; input (Complex interaction)	Activation			
+ANK3	SPTBN5	->	complex; input (Complex interaction)	Activation			
+ANXA1	DYSF	->	complex; input (Complex interaction)	Activation			
+ANXA1	GNA15	->	complex; input (Complex interaction)	Activation			
+AP1G2	HLA-A	->	PPrel: binding/association (Binding/Association)	Activation			
+AP1G2	HLA-B	->	PPrel: binding/association (Binding/Association)	Activation			
+AP1G2	HLA-F	->	PPrel: binding/association (Binding/Association)	Activation			
+AP1G2	HLA-G	->	PPrel: binding/association (Binding/Association)	Activation			
+AP1S3	CD74	->	complex; input (Complex interaction)	Activation			
+AP1S3	DNAJC6	->	input (Input/Compound interaction)	Activation			
+AP1S3	HLA-A	->	PPrel: binding/association; complex; reaction (Binding/Association)	Activation			
+AP1S3	HLA-B	->	PPrel: binding/association (Binding/Association)	Activation			
+AP1S3	HLA-DPA1	->	complex; input (Complex interaction)	Activation			
+AP1S3	HLA-DPB1	->	complex; input (Complex interaction)	Activation			
+AP1S3	HLA-DRA	->	complex; input (Complex interaction)	Activation			
+AP1S3	HLA-DRB1	->	complex; input (Complex interaction)	Activation			
+AP1S3	HLA-DRB5	->	complex; input (Complex interaction)	Activation			
+AP1S3	HLA-F	->	PPrel: binding/association (Binding/Association)	Activation			
+AP1S3	HLA-G	->	PPrel: binding/association (Binding/Association)	Activation			
+APBB1IP	ENAH	->	PPrel: activation	Activation			
+APBB1IP	FN1	->	complex; input (Complex interaction)	Activation			
+APBB1IP	ITGB3	->	complex; input (Complex interaction)	Activation			
+APBB1IP	PFN2	->	PPrel: activation	Activation			
+APLF	XRCC4	->	complex; input (Complex interaction)	Activation			
+APOBEC3G	HMGA1	-|	complex; inhibite; input	Inhibition			
+AQP3	AQP5	->	input (Input/Compound interaction)	Activation			
+AR	ACTA1	->			Activation	->	1.0
+AR	AKR1C3	-|			Repression	-|	1.0
+AR	AKT1	-|			Repression	-|	1.0
+AR	ARG1	->			Activation	->	1.0
+AR	ARG2	->			Activation	->	1.0
+AR	BTG1	-|			Repression	-|	1.0
+AR	BTG2	-|			Repression	-|	1.0
+AR	CCND3	->	activate; complex; input	Activation			
+AR	CDC6	->			Activation	->	1.0
+AR	CDH1	-|			Repression	-|	1.0
+AR	CDH2	->			Activation	->	1.0
+AR	CDK20	->			Activation	->	1.0
+AR	CDKN1A	-|			Repression	-|	1.0
+AR	CLK3	-|			Repression	-|	1.0
+AR	CRH	-|			Repression	-|	1.0
+AR	CTNNB1	->			Activation	->	1.0
+AR	CYP7B1	-|			Repression	-|	1.0
+AR	ECM1	->	expression regulates	Activation			
+AR	EGFR	->			Activation	->	1.0
+AR	EP300	->			Activation	->	1.0
+AR	ERBB2	->			Activation	->	1.0
+AR	ERBB3	->			Activation	->	1.0
+AR	ETV1	->			Activation	->	1.0
+AR	FOXO1	->	activate; inhibited by (Source activates Target)	Activation			
+AR	GSN	->	reaction (Complex interaction)	Activation			
+AR	HEY1	->	complex; input (Complex interaction)	Activation			
+AR	HIP1	->	reaction (Complex interaction)	Activation			
+AR	HMOX1	->			Activation	->	1.0
+AR	IGF1R	->			Activation	->	1.0
+AR	JUN	->	reaction (Complex interaction)	Activation	Activation	->	1.0
+AR	KISS1	->			Activation	->	1.0
+AR	KISS1R	->			Activation	->	1.0
+AR	KLK3	-|			Repression	-|	1.0
+AR	LCP1	->	expression regulates	Activation			
+AR	MUC1	-|			Repression	-|	1.0
+AR	MYC	->	expression regulates	Activation			
+AR	NAT1	->			Activation	->	1.0
+AR	NFKB1	-|			Repression	-|	1.0
+AR	NKX3-1	->			Activation	->	1.0
+AR	NR3C1	->	complex; input (Complex interaction)	Activation			
+AR	NR3C2	->	input (Input/Compound interaction)	Activation			
+AR	NRAS	-|			Repression	-|	1.0
+AR	PC	->			Activation	->	1.0
+AR	PGC	->	expression regulates	Activation			
+AR	PLAU	->	expression regulates	Activation			
+AR	PTEN	->			Activation	->	1.0
+AR	PTGS2	-|			Repression	-|	1.0
+AR	PTK2B	->	activate; inhibited by (Source activates Target)	Activation			
+AR	RELA	-|			Repression	-|	1.0
+AR	REST	-|			Repression	-|	1.0
+AR	SEPT7	-|			Repression	-|	1.0
+AR	SERPINB5	-|			Repression	-|	1.0
+AR	SPDEF	->	reaction (Complex interaction)	Activation			
+AR	TCF4	->	activate; inhibited by (Source activates Target)	Activation			
+AR	TCF7L2	->	input (Input/Compound interaction)	Activation			
+AR	TGFA	->			Activation	->	1.0
+AR	TH	->			Activation	->	1.0
+AR	TJP1	->			Activation	->	1.0
+AR	TMPRSS2	->			Activation	->	1.0
+AR	TSC1	-|			Repression	-|	1.0
+AR	TSC2	-|			Repression	-|	1.0
+AR	UCN	-|			Repression	-|	1.0
+AR	VEGFA	->			Activation	->	1.0
+AR	VIM	-|			Repression	-|	1.0
+AR	WEE1	-|			Repression	-|	1.0
+AR	WNT7B	->			Activation	->	1.0
+AR	XIAP	-|			Repression	-|	1.0
+ARHGAP31	RHOU	->	complex; input (Complex interaction)	Activation			
+ARHGAP32	NGF	->	complex; input (Complex interaction)	Activation			
+ARHGAP32	RHOD	->	catalyze	Activation			
+ARHGDIB	NGFR	->	PPrel: binding/association (Binding/Association)	Activation			
+ARHGEF16	RHOB	->	catalyze	Activation			
+ARHGEF4	RAC3	->	PPrel: activation	Activation			
+ARHGEF4	RHOB	->	catalyze	Activation			
+ARHGEF5	RHOB	->	catalyze	Activation			
+ARHGEF6	DAG1	->	complex (Complex interaction)	Activation			
+ARHGEF6	DMD	->	complex (Complex interaction)	Activation			
+ARHGEF6	LAMA1	->	complex; input (Complex interaction)	Activation			
+ARHGEF6	LAMA3	->	complex; input (Complex interaction)	Activation			
+ARHGEF6	LAMA5	->	complex; input (Complex interaction)	Activation			
+ARHGEF6	RAC3	->	PPrel: activation	Activation			
+ARHGEF6	RHOB	->	catalyze	Activation			
+ARL6IP5	SLC1A1	-|	inhibit	Inhibition			
+ARL6IP5	SLC1A3	-|	inhibit	Inhibition			
+ARL6IP5	SLC1A7	-|	inhibite	Inhibition			
+ARNTL	BHLHE40	->			Activation	->	1.0
+ARNTL	CRY1	->			Activation	->	1.0
+ARNTL	CRY2	->			Activation	->	1.0
+ARNTL	PER1	->			Activation	->	1.0
+ARNTL	PER2	->			Activation	->	1.0
+ARNTL	PER3	->			Activation	->	1.0
+ASAH1	PDGFA	->	reaction (Complex interaction)	Activation			
+ATF1	AQP3	->	expression regulated by (Swapped)	Activation			
+ATF1	CCNA1	-|			Repression	-|	1.0
+ATF1	CFTR	->			Activation	->	1.0
+ATF1	CGA	->	expression regulates	Activation			
+ATF1	CIITA	->	expression regulates	Activation			
+ATF1	CREB3L1	->	complex (Complex interaction)	Activation			
+ATF1	EGR1	->	expression regulates; reaction	Activation			
+ATF1	FLT1	->	expression regulates	Activation			
+ATF1	FTH1	-|			Repression	-|	1.0
+ATF1	HLA-G	->	expression regulates	Activation			
+ATF1	IL10	->			Activation	->	1.0
+ATF1	IL1B	->	expression regulates	Activation			
+ATF1	IL6	->	expression regulates	Activation			
+ATF1	INHBA	->	expression regulates	Activation			
+ATF1	JUN	->	expression regulates	Activation			
+ATF1	MAP1LC3B	->			Activation	->	1.0
+ATF1	MITF	->			Activation	->	1.0
+ATF1	NT5E	->	expression regulates	Activation			
+ATF1	PCSK1	->			Activation	->	1.0
+ATF1	SLC20A1	->	expression regulates	Activation	Activation	->	1.0
+ATF1	TGFB2	->	expression regulates	Activation	Activation	->	1.0
+ATF1	VIPR1	->	expression regulates	Activation			
+ATP1A3	ATP1B1	->	complex; reaction (Input/Compound interaction)	Activation			
+ATP6AP1	ATP6V0A4	->	complex; input (Complex interaction)	Activation			
+ATP6AP1	ATP6V0D2	->	complex; input (Complex interaction)	Activation			
+ATP6AP1	ATP6V0E1	->	complex; input (Complex interaction)	Activation			
+ATP6AP1	PRKCG	->	PPrel: binding/association (Binding/Association)	Activation			
+ATP6V0A4	ATP6V0D2	->	complex (Complex interaction)	Activation			
+ATP6V0A4	ATP6V0E1	->	complex (Complex interaction)	Activation			
+ATP6V0D2	ATP6V0E1	->	complex (Complex interaction)	Activation			
+AXIN2	LEF1	->	GErel: expression by; PPrel: activation (Bidirectional Activation)	Activation			
+AXIN2	TCF7	->	GErel: expression by; PPrel: activation (Bidirectional Activation)	Activation			
+AXIN2	TCF7L2	->	GErel: expression by; PPrel: activation; expression regulated by (Bidirectional Activation)	Activation			
+B3GNT3	LUM	->	catalyze	Activation			
+B3GNT7	LUM	->	catalyze	Activation			
+B4GALT4	LUM	->	catalyze	Activation			
+BACH2	XBP1	-|			Repression	-|	1.0
+BHLHE40	ID1	->	expression regulates	Activation			
+BHLHE40	NR1D1	->	expression regulates	Activation			
+BHLHE40	ZNF175	->	expression regulates	Activation			
+BID	BAK1	->	PPrel: activated by; complex; input (Swapped)	Activation			
+BID	GSN	->	activate; inhibited by (Source activates Target)	Activation			
+BIRC3	BID	->	activated by (Swapped)	Activation			
+BIRC3	CD14	->	catalyze	Activation			
+BIRC3	CD40	->	complex; input; reaction (Complex interaction)	Activation			
+BIRC3	CFLAR	-|	activated by; inhibite (Source inhibits Target)	Inhibition			
+BIRC3	CRADD	->	complex; input (Complex interaction)	Activation			
+BIRC3	MADD	->	complex; input (Complex interaction)	Activation			
+BIRC3	RIPK2	->	PPrel: activation, ubiquitination	Activation			
+BIRC3	SMPD1	->	activate	Activation			
+BIRC3	SMPD3	->	activate	Activation			
+BIRC3	TLR4	->	catalyze	Activation			
+BIRC3	TNFAIP3	->	activate; catalyzed by; complex; inhibited by; input	Activation			
+BIRC3	TNFRSF1A	->	PPrel: activated by; activated by; catalyze; catalyzed by; complex; input; reaction (Bidirectional Activation)	Activation			
+BIRC3	TNFRSF1B	->	complex; input; reaction (Complex interaction)	Activation			
+BMP1	COL27A1	->	catalyze	Activation			
+BMP1	COL3A1	->	catalyze	Activation			
+BMP1	COL5A1	->	catalyze	Activation			
+BMP1	HSPG2	->	catalyze	Activation			
+BMP1	LAMA3	->	catalyze	Activation			
+BMP1	LAMC2	->	catalyze	Activation			
+BMP1	LOX	->	catalyze	Activation			
+BMP1	LOXL1	->	catalyze	Activation			
+BMP5	BMPR1B	->	PPrel: activation	Activation			
+BMP6	BMPR1B	->	PPrel: activation; complex; input	Activation			
+BMPR1B	CHRDL1	->	input (Input/Compound interaction)	Activation			
+BMPR1B	FST	->	complex; input (Complex interaction)	Activation			
+BMPR1B	MAPK13	-|	PPrel: inhibition, indirect effect	Inhibition			
+BMPR1B	NOG	->	input (Input/Compound interaction)	Activation			
+BMPR1B	RAC3	->	PPrel: activation, indirect effect	Activation			
+BMPR1B	RGMB	->	PPrel: binding/association; complex; input (Binding/Association)	Activation			
+BMPR1B	SMAD6	->	activate; complex; inhibited by; input (Source activates Target)	Activation			
+BMPR1B	SMAD7	->	complex; input (Complex interaction)	Activation			
+BNIP3L	GABARAPL1	->	PPrel: binding/association (Binding/Association)	Activation			
+BNIP3L	STEAP3	->	complex; input (Complex interaction)	Activation			
+BTG2	CCND1	-|			Repression	-|	1.0
+BTG2	HRAS	-|			Repression	-|	1.0
+BTG2	KLK3	-|			Repression	-|	1.0
+BTG2	SPHK1	->			Activation	->	1.0
+C2	C4BPB	->	complex; input (Complex interaction)	Activation			
+CACNA2D1	RASGRF2	->	PPrel: compound (Input/Compound interaction)	Activation			
+CACNA2D1	RASGRP1	->	PPrel: compound (Input/Compound interaction)	Activation			
+CACNA2D1	RASGRP2	->	PPrel: compound (Input/Compound interaction)	Activation			
+CACNB4	RASGRF2	->	PPrel: compound (Input/Compound interaction)	Activation			
+CACNB4	RASGRP1	->	PPrel: compound (Input/Compound interaction)	Activation			
+CACNB4	RASGRP2	->	PPrel: compound (Input/Compound interaction)	Activation			
+CACNG4	EPB41L1	->	input (Input/Compound interaction)	Activation			
+CACNG4	RASGRF2	->	PPrel: compound (Input/Compound interaction)	Activation			
+CACNG4	RASGRP1	->	PPrel: compound (Input/Compound interaction)	Activation			
+CACNG4	RASGRP2	->	PPrel: compound (Input/Compound interaction)	Activation			
+CACNG6	RASGRF2	->	PPrel: compound (Input/Compound interaction)	Activation			
+CACNG6	RASGRP1	->	PPrel: compound (Input/Compound interaction)	Activation			
+CACNG6	RASGRP2	->	PPrel: compound (Input/Compound interaction)	Activation			
+CACNG7	RASGRF2	->	PPrel: compound (Input/Compound interaction)	Activation			
+CACNG7	RASGRP1	->	PPrel: compound (Input/Compound interaction)	Activation			
+CACNG7	RASGRP2	->	PPrel: compound (Input/Compound interaction)	Activation			
+CACNG8	EPB41L1	->	input (Input/Compound interaction)	Activation			
+CACNG8	RASGRF2	->	PPrel: compound (Input/Compound interaction)	Activation			
+CACNG8	RASGRP1	->	PPrel: compound (Input/Compound interaction)	Activation			
+CACNG8	RASGRP2	->	PPrel: compound (Input/Compound interaction)	Activation			
+CALCR	RAMP1	->	complex (Complex interaction)	Activation			
+CAMK1D	ATF1	->	PPrel: activated by, phosphorylation (Swapped)	Activation			
+CAMK1D	CREB3L1	->	PPrel: activation, phosphorylation	Activation			
+CAMK2D	AKAP5	->	catalyzed by (Swapped)	Activation			
+CAMK2D	ATF1	->	PPrel: activated by, phosphorylation (Swapped)	Activation			
+CAMK2D	CACNA2D1	->	PPrel: activated by, phosphorylation (Swapped)	Activation			
+CAMK2D	CACNB4	->	PPrel: activated by, phosphorylation (Swapped)	Activation			
+CAMK2D	CACNG4	->	PPrel: activated by, phosphorylation; catalyzed by (Swapped)	Activation			
+CAMK2D	CACNG6	->	PPrel: activated by, phosphorylation (Swapped)	Activation			
+CAMK2D	CACNG7	->	PPrel: activated by, phosphorylation (Swapped)	Activation			
+CAMK2D	CACNG8	->	PPrel: activated by, phosphorylation; catalyzed by (Swapped)	Activation			
+CAMK2D	CREB3L1	->	PPrel: activation; PPrel: activation, phosphorylation	Activation			
+CAMK2D	EPB41L1	->	catalyze	Activation			
+CAMK2D	FLNB	->	PPrel: phosphorylation	Activation			
+CAMK2D	FLNC	->	PPrel: phosphorylation	Activation			
+CAMK2D	FOXO1	->	PPrel: activation, phosphorylation, indirect effect	Activation			
+CAMK2D	IFNGR2	->	catalyze	Activation			
+CAMK2D	JAK1	->	activated by; catalyze (Bidirectional Activation)	Activation			
+CAMK2D	MEF2C	->	activate	Activation			
+CAMK2D	PDE10A	-|	PPrel: inhibition, phosphorylation	Inhibition			
+CAMK2D	PDE3A	-|	PPrel: inhibition, phosphorylation	Inhibition			
+CAMK2D	PDE3B	-|	PPrel: inhibition, phosphorylation	Inhibition			
+CAMK2D	PLCG1	->	PPrel: compound (Input/Compound interaction)	Activation			
+CAMK2D	TLE1	->	activate	Activation			
+CARD11	MALT1	->	complex; input (Complex interaction)	Activation			
+CASK	CLIC5	->	complex (Complex interaction)	Activation			
+CASK	EPB41L1	->	complex (Complex interaction)	Activation			
+CASK	GSN	->	complex (Complex interaction)	Activation			
+CASK	MPP1	->	complex (Complex interaction)	Activation			
+CASK	MSN	->	complex (Complex interaction)	Activation			
+CASK	MYO7A	->	complex (Complex interaction)	Activation			
+CASK	NRXN3	->	complex; input (Complex interaction)	Activation			
+CASK	PPFIA2	->	activate	Activation			
+CASK	RAB3A	->	activate	Activation			
+CASK	RIMS1	->	activate	Activation			
+CASK	SDC2	->	complex; input (Complex interaction)	Activation			
+CASK	SDC3	->	complex; input (Complex interaction)	Activation			
+CASK	UNC13B	->	activate	Activation			
+CAV1	COL12A1	->	complex; input (Complex interaction)	Activation			
+CAV1	COL17A1	->	complex; input (Complex interaction)	Activation			
+CAV1	COL27A1	->	complex; input (Complex interaction)	Activation			
+CAV1	COL3A1	->	complex; input (Complex interaction)	Activation			
+CAV1	COL4A3	->	complex; input (Complex interaction)	Activation			
+CAV1	COL4A4	->	complex; input (Complex interaction)	Activation			
+CAV1	COL4A5	->	complex; input (Complex interaction)	Activation			
+CAV1	COL4A6	->	complex; input (Complex interaction)	Activation			
+CAV1	COL5A1	->	complex; input (Complex interaction)	Activation			
+CAV1	COL6A2	->	complex; input (Complex interaction)	Activation			
+CAV1	COL6A3	->	complex; input (Complex interaction)	Activation			
+CAV1	COL8A1	->	complex; input (Complex interaction)	Activation			
+CAV1	DMBT1	->	complex; input (Complex interaction)	Activation			
+CAV1	FN1	->	complex; input (Complex interaction)	Activation			
+CAV1	FZD5	->	activate; complex	Activation			
+CAV1	ITGA2	->	complex; input (Complex interaction)	Activation			
+CAV1	ITGA6	->	complex; input (Complex interaction)	Activation			
+CAV1	ITGB3	->	PPrel: binding/association (Binding/Association)	Activation			
+CAV1	ITGB8	->	PPrel: binding/association; complex; input (Binding/Association)	Activation			
+CAV1	ITGBL1	->	complex; input (Complex interaction)	Activation			
+CAV1	LAMA1	->	complex; input (Complex interaction)	Activation			
+CAV1	LAMA3	->	complex; input (Complex interaction)	Activation			
+CAV1	LAMA5	->	complex; input (Complex interaction)	Activation			
+CAV1	LAMB2	->	complex; input (Complex interaction)	Activation			
+CAV1	LAMC2	->	complex; input (Complex interaction)	Activation			
+CAV1	SMAD3	->	input (Input/Compound interaction)	Activation			
+CAV1	SMAD7	->	complex; input (Complex interaction)	Activation			
+CAV1	TNFRSF1A	->	activate	Activation			
+CBL	DNAJC6	->	complex; input (Complex interaction)	Activation			
+CBL	ERBB4	->	catalyze	Activation			
+CBL	EREG	->	complex; input (Complex interaction)	Activation			
+CBL	FGF20	->	complex; input (Complex interaction)	Activation			
+CBL	FGF5	->	complex; input (Complex interaction)	Activation			
+CBL	FGFR2	->	PPrel: binding/association; PPrel: ubiquitination; complex; input (Binding/Association)	Activation			
+CBL	FLT1	->	complex; input (Complex interaction)	Activation			
+CBL	HIP1	->	complex; input (Complex interaction)	Activation			
+CBL	HIP1R	->	complex; input (Complex interaction)	Activation			
+CBL	HLA-A	->	complex; input (Complex interaction)	Activation			
+CBL	IL6	->	complex; input (Complex interaction)	Activation			
+CBL	IL6R	->	complex; input (Complex interaction)	Activation			
+CBL	ITGB3	->	complex; input (Complex interaction)	Activation			
+CBL	KITLG	->	complex; input (Complex interaction)	Activation			
+CBL	KL	->	complex; input (Complex interaction)	Activation			
+CBL	MYC	-|	PPrel: inhibition, indirect effect	Inhibition			
+CBL	PDGFB	->	complex; input (Complex interaction)	Activation			
+CBL	PLCG1	->	activate; input	Activation			
+CBL	REPS2	->	complex (Complex interaction)	Activation			
+CBL	SDC2	->	complex; input (Complex interaction)	Activation			
+CBL	SH3KBP1	->	activate; complex; input	Activation			
+CBL	SPRY1	->	catalyze; complex; inhibited by; input (Source activates Target)	Activation			
+CBL	STAM	->	complex; input (Complex interaction)	Activation			
+CBL	SYNJ1	->	complex; input (Complex interaction)	Activation			
+CBL	SYNJ2	->	complex; input (Complex interaction)	Activation			
+CBL	TGFA	->	complex; input (Complex interaction)	Activation			
+CBLB	CD40	->	complex; input (Complex interaction)	Activation			
+CBLB	ERBB4	->	catalyze	Activation			
+CBLB	FGFR2	->	PPrel: binding/association; PPrel: ubiquitination (Binding/Association)	Activation			
+CBLB	SH3KBP1	->	complex (Complex interaction)	Activation			
+CCL26	CCR1	->	PPrel: activation, binding/association; complex; input	Activation			
+CCL26	CXCR4	->	PPrel: activation, binding/association; complex; input	Activation			
+CCL26	GNA15	->	complex; input (Complex interaction)	Activation			
+CCND3	CDKN1C	->	PPrel: binding/association (Binding/Association)	Activation			
+CCND3	PPARG	->	reaction (Complex interaction)	Activation			
+CCND3	PPARGC1A	->	reaction (Complex interaction)	Activation			
+CCR1	GNA15	->	complex (Complex interaction)	Activation			
+CD14	SARM1	->	complex; input; reaction (Complex interaction)	Activation			
+CD14	TLR1	->	activate; complex; input	Activation			
+CD14	TLR4	->	PPrel: activation; activate; complex; input	Activation			
+CD14	TLR6	->	activate; complex; input	Activation			
+CD177	PECAM1	->	complex; input (Complex interaction)	Activation			
+CD180	CD14	-|	inhibited by (Target inhibits Source)	Inhibition			
+CD180	TLR4	-|	inhibite	Inhibition			
+CD24	L1CAM	->	complex; input (Complex interaction)	Activation			
+CD274	HLA-DPA1	->	catalyze	Activation			
+CD274	HLA-DPB1	->	catalyze	Activation			
+CD274	HLA-DRA	->	catalyze	Activation			
+CD274	HLA-DRB1	->	catalyze	Activation			
+CD274	HLA-DRB5	->	catalyze	Activation			
+CD274	PTPN6	->	complex; input (Complex interaction)	Activation			
+CD59	SPTB	->	complex; input (Complex interaction)	Activation			
+CD59	SPTBN5	->	complex; input (Complex interaction)	Activation			
+CD74	HLA-DMA	->	input (Input/Compound interaction)	Activation			
+CDH1	CDH11	->	input (Input/Compound interaction)	Activation			
+CDH1	CDH19	->	input (Input/Compound interaction)	Activation			
+CDH1	CDH4	->	input (Input/Compound interaction)	Activation			
+CDH1	CELSR1	->	input (Input/Compound interaction)	Activation			
+CDH1	EFNA1	->	activate	Activation			
+CDH1	ENAH	->	activate	Activation			
+CDH1	F2RL2	->	complex (Complex interaction)	Activation			
+CDH1	JUP	->	PPrel: binding/association; complex; input (Binding/Association)	Activation			
+CDH1	LIMA1	->	complex; input (Complex interaction)	Activation			
+CDH1	PARD6A	->	complex (Complex interaction)	Activation			
+CDH1	PCDH1	->	input (Input/Compound interaction)	Activation			
+CDH1	PCDH7	->	input (Input/Compound interaction)	Activation			
+CDH1	PCDH9	->	input (Input/Compound interaction)	Activation			
+CDH1	PLEKHA7	->	activate	Activation			
+CDH11	CDH19	->	input (Input/Compound interaction)	Activation			
+CDH11	CDH4	->	input (Input/Compound interaction)	Activation			
+CDH11	CELSR1	->	input (Input/Compound interaction)	Activation			
+CDH11	JUP	->	complex; input (Complex interaction)	Activation			
+CDH11	PCDH1	->	input (Input/Compound interaction)	Activation			
+CDH11	PCDH7	->	input (Input/Compound interaction)	Activation			
+CDH11	PCDH9	->	input (Input/Compound interaction)	Activation			
+CDH19	CDH4	->	input (Input/Compound interaction)	Activation			
+CDH19	CELSR1	->	input (Input/Compound interaction)	Activation			
+CDH19	PCDH1	->	input (Input/Compound interaction)	Activation			
+CDH19	PCDH7	->	input (Input/Compound interaction)	Activation			
+CDH19	PCDH9	->	input (Input/Compound interaction)	Activation			
+CDH4	CELSR1	->	input (Input/Compound interaction)	Activation			
+CDH4	JUP	->	complex; input (Complex interaction)	Activation			
+CDH4	PCDH1	->	input (Input/Compound interaction)	Activation			
+CDH4	PCDH7	->	input (Input/Compound interaction)	Activation			
+CDH4	PCDH9	->	input (Input/Compound interaction)	Activation			
+CDON	GAS8	->	reaction (Complex interaction)	Activation			
+CDON	GLI2	->	activate	Activation			
+CDON	KIF3A	->	reaction (Complex interaction)	Activation			
+CDON	PTCH2	->	PPrel: binding/association (Binding/Association)	Activation			
+CDON	SPAG9	->	complex; input (Complex interaction)	Activation			
+CEACAM1	FN1	->	activate	Activation			
+CELSR1	PCDH1	->	input (Input/Compound interaction)	Activation			
+CELSR1	PCDH7	->	input (Input/Compound interaction)	Activation			
+CELSR1	PCDH9	->	input (Input/Compound interaction)	Activation			
+CFLAR	BIRC3	->	activated by; inhibite (Target activates Source)	Activation			
+CFLAR	TNFSF10	-|	activated by; complex; inhibit; input; reaction (Source inhibits Target)	Inhibition			
+CGA	GIPR	->	PPrel: activation	Activation			
+CGA	HSD17B3	->	activate	Activation			
+CGA	HSD3B1	->	activate	Activation			
+CGA	PTGER2	->	PPrel: activation	Activation			
+CGN	F11R	->	complex (Complex interaction)	Activation			
+CGN	PARD6A	->	complex (Complex interaction)	Activation			
+CHML	RAB27A	->	complex (Complex interaction)	Activation			
+CHML	RAB3A	->	complex; input (Complex interaction)	Activation			
+CHPF	CSPG4	->	catalyze	Activation			
+CHRDL1	RGMB	->	input (Input/Compound interaction)	Activation			
+CHST11	CSPG4	->	catalyze	Activation			
+CHST2	LUM	->	catalyze	Activation			
+CIITA	COL1A1	-|			Repression	-|	1.0
+CIITA	COL1A2	-|			Repression	-|	1.0
+CIITA	HLA-A	->			Activation	->	1.0
+CIITA	HLA-B	->			Activation	->	1.0
+CIITA	HLA-C	->			Activation	->	1.0
+CIITA	HLA-DMA	->			Activation	->	1.0
+CIITA	HLA-DMB	->	GErel: expression	Activation	Activation	->	1.0
+CIITA	HLA-DOA	->	GErel: expression	Activation	Activation	->	1.0
+CIITA	HLA-DOB	->			Activation	->	1.0
+CIITA	HLA-DPA1	->	GErel: expression	Activation			
+CIITA	HLA-DPB1	->	GErel: expression	Activation			
+CIITA	HLA-DRA	->	GErel: expression	Activation	Activation	->	1.0
+CIITA	HLA-DRB1	->	GErel: expression	Activation			
+CIITA	HLA-DRB5	->	GErel: expression	Activation			
+CIITA	IL4	-|			Repression	-|	1.0
+CIITA	MMP9	-|			Repression	-|	1.0
+CIITA	PSMC5	->			Activation	->	1.0
+CIITA	S100A4	-|			Repression	-|	1.0
+CIITA	SIRT1	-|			Repression	-|	1.0
+CITED2	BNIP3L	-|	GErel: repressed by (Target inhibits Source)	Inhibition			
+CITED2	JUN	->	activate; inhibited by (Source activates Target)	Activation			
+CITED2	MMP1	-|			Repression	-|	1.0
+CITED2	MMP13	-|			Repression	-|	1.0
+CITED2	TFAP2C	->	complex; input (Complex interaction)	Activation			
+CLDN1	F11R	->	complex; input (Complex interaction)	Activation			
+CLDN1	TJP3	->	PPrel: binding/association (Binding/Association)	Activation			
+CLDN4	TJP3	->	PPrel: binding/association (Binding/Association)	Activation			
+CLIC5	EPB41L1	->	complex (Complex interaction)	Activation			
+CLIC5	GSN	->	complex (Complex interaction)	Activation			
+CLIC5	MPP1	->	complex (Complex interaction)	Activation			
+CLIC5	MSN	->	complex (Complex interaction)	Activation			
+CLIC5	MYO7A	->	complex (Complex interaction)	Activation			
+CLU	SEMG1	->	complex (Complex interaction)	Activation			
+CNTN1	L1CAM	->	complex; input (Complex interaction)	Activation			
+CNTN1	NOTCH2	->	complex; input (Complex interaction)	Activation			
+CNTN1	NRCAM	->	PPrel: activation	Activation			
+COL12A1	DMBT1	->	complex; input (Complex interaction)	Activation			
+COL12A1	FLNB	->	complex; input (Complex interaction)	Activation			
+COL12A1	FN1	->	complex (Complex interaction)	Activation			
+COL12A1	ITGA2	->	complex; input (Complex interaction)	Activation			
+COL12A1	ITGA6	->	complex; input (Complex interaction)	Activation			
+COL12A1	ITGB8	->	complex; input (Complex interaction)	Activation			
+COL12A1	ITGBL1	->	complex; input (Complex interaction)	Activation			
+COL12A1	LAMA1	->	complex (Complex interaction)	Activation			
+COL12A1	LAMA3	->	complex (Complex interaction)	Activation			
+COL12A1	LAMA5	->	complex (Complex interaction)	Activation			
+COL12A1	LAMB2	->	complex (Complex interaction)	Activation			
+COL12A1	LAMC2	->	complex (Complex interaction)	Activation			
+COL17A1	DMBT1	->	complex; input (Complex interaction)	Activation			
+COL17A1	FLNB	->	complex; input (Complex interaction)	Activation			
+COL17A1	FN1	->	complex (Complex interaction)	Activation			
+COL17A1	ITGA2	->	complex; input (Complex interaction)	Activation			
+COL17A1	ITGA6	->	complex; input (Complex interaction)	Activation			
+COL17A1	ITGB8	->	complex; input (Complex interaction)	Activation			
+COL17A1	ITGBL1	->	complex; input (Complex interaction)	Activation			
+COL17A1	LAMA1	->	complex (Complex interaction)	Activation			
+COL17A1	LAMA3	->	complex; input (Complex interaction)	Activation			
+COL17A1	LAMA5	->	complex (Complex interaction)	Activation			
+COL17A1	LAMB2	->	complex (Complex interaction)	Activation			
+COL17A1	LAMC2	->	complex; input (Complex interaction)	Activation			
+COL27A1	DMBT1	->	complex; input (Complex interaction)	Activation			
+COL27A1	FLNB	->	complex; input (Complex interaction)	Activation			
+COL27A1	FN1	->	complex (Complex interaction)	Activation			
+COL27A1	ITGA2	->	complex; input (Complex interaction)	Activation			
+COL27A1	ITGA6	->	complex; input (Complex interaction)	Activation			
+COL27A1	ITGB8	->	complex; input (Complex interaction)	Activation			
+COL27A1	ITGBL1	->	complex; input (Complex interaction)	Activation			
+COL27A1	LAMA1	->	complex (Complex interaction)	Activation			
+COL27A1	LAMA3	->	complex (Complex interaction)	Activation			
+COL27A1	LAMA5	->	complex (Complex interaction)	Activation			
+COL27A1	LAMB2	->	complex (Complex interaction)	Activation			
+COL27A1	LAMC2	->	complex (Complex interaction)	Activation			
+COL3A1	DMBT1	->	complex; input (Complex interaction)	Activation			
+COL3A1	FLNB	->	complex; input (Complex interaction)	Activation			
+COL3A1	FN1	->	complex (Complex interaction)	Activation			
+COL3A1	ITGA2	->	PPrel: activation; complex; input	Activation			
+COL3A1	ITGA6	->	complex; input (Complex interaction)	Activation			
+COL3A1	ITGB8	->	complex; input (Complex interaction)	Activation			
+COL3A1	ITGBL1	->	complex; input (Complex interaction)	Activation			
+COL3A1	LAMA1	->	complex (Complex interaction)	Activation			
+COL3A1	LAMA3	->	complex (Complex interaction)	Activation			
+COL3A1	LAMA5	->	complex (Complex interaction)	Activation			
+COL3A1	LAMB2	->	complex (Complex interaction)	Activation			
+COL3A1	LAMC2	->	complex (Complex interaction)	Activation			
+COL4A3	CD44	->	PPrel: activated by (Swapped)	Activation			
+COL4A3	COL4A4	->	complex; input (Complex interaction)	Activation			
+COL4A3	COL4A5	->	complex; input (Complex interaction)	Activation			
+COL4A3	COL4A6	->	complex; input (Complex interaction)	Activation			
+COL4A3	DMBT1	->	complex; input (Complex interaction)	Activation			
+COL4A3	FLNB	->	complex; input (Complex interaction)	Activation			
+COL4A3	FN1	->	complex (Complex interaction)	Activation			
+COL4A3	ITGA2	->	PPrel: activation; complex; input	Activation			
+COL4A3	ITGA6	->	PPrel: activation; complex; input	Activation			
+COL4A3	ITGB3	->	PPrel: activation; complex; input	Activation			
+COL4A3	ITGB8	->	PPrel: activation; complex; input	Activation			
+COL4A3	ITGBL1	->	complex; input (Complex interaction)	Activation			
+COL4A3	LAMA1	->	complex (Complex interaction)	Activation			
+COL4A3	LAMA3	->	complex (Complex interaction)	Activation			
+COL4A3	LAMA5	->	complex (Complex interaction)	Activation			
+COL4A3	LAMB2	->	complex (Complex interaction)	Activation			
+COL4A3	LAMC2	->	complex (Complex interaction)	Activation			
+COL4A3	PDGFA	->	complex; input (Complex interaction)	Activation			
+COL4A3	PDGFB	->	complex; input (Complex interaction)	Activation			
+COL4A4	CD44	->	PPrel: activated by (Swapped)	Activation			
+COL4A4	COL4A5	->	complex; input (Complex interaction)	Activation			
+COL4A4	COL4A6	->	complex; input (Complex interaction)	Activation			
+COL4A4	DMBT1	->	complex; input (Complex interaction)	Activation			
+COL4A4	FLNB	->	complex; input (Complex interaction)	Activation			
+COL4A4	FN1	->	complex (Complex interaction)	Activation			
+COL4A4	ITGA2	->	PPrel: activation; complex; input	Activation			
+COL4A4	ITGA6	->	PPrel: activation; complex; input	Activation			
+COL4A4	ITGB3	->	PPrel: activation; complex; input	Activation			
+COL4A4	ITGB8	->	PPrel: activation; complex; input	Activation			
+COL4A4	ITGBL1	->	complex; input (Complex interaction)	Activation			
+COL4A4	LAMA1	->	complex (Complex interaction)	Activation			
+COL4A4	LAMA3	->	complex (Complex interaction)	Activation			
+COL4A4	LAMA5	->	complex (Complex interaction)	Activation			
+COL4A4	LAMB2	->	complex (Complex interaction)	Activation			
+COL4A4	LAMC2	->	complex (Complex interaction)	Activation			
+COL4A4	PDGFA	->	complex; input (Complex interaction)	Activation			
+COL4A4	PDGFB	->	complex; input (Complex interaction)	Activation			
+COL4A5	CD44	->	PPrel: activated by (Swapped)	Activation			
+COL4A5	COL4A6	->	complex; input (Complex interaction)	Activation			
+COL4A5	DMBT1	->	complex; input (Complex interaction)	Activation			
+COL4A5	FLNB	->	complex; input (Complex interaction)	Activation			
+COL4A5	FN1	->	complex (Complex interaction)	Activation			
+COL4A5	ITGA2	->	PPrel: activation; complex; input	Activation			
+COL4A5	ITGA6	->	PPrel: activation; complex; input	Activation			
+COL4A5	ITGB3	->	PPrel: activation; complex; input	Activation			
+COL4A5	ITGB8	->	PPrel: activation; complex; input	Activation			
+COL4A5	ITGBL1	->	complex; input (Complex interaction)	Activation			
+COL4A5	LAMA1	->	complex (Complex interaction)	Activation			
+COL4A5	LAMA3	->	complex (Complex interaction)	Activation			
+COL4A5	LAMA5	->	complex (Complex interaction)	Activation			
+COL4A5	LAMB2	->	complex (Complex interaction)	Activation			
+COL4A5	LAMC2	->	complex (Complex interaction)	Activation			
+COL4A5	PDGFA	->	complex; input (Complex interaction)	Activation			
+COL4A5	PDGFB	->	complex; input (Complex interaction)	Activation			
+COL4A6	CD44	->	PPrel: activated by (Swapped)	Activation			
+COL4A6	DMBT1	->	complex; input (Complex interaction)	Activation			
+COL4A6	FLNB	->	complex; input (Complex interaction)	Activation			
+COL4A6	FN1	->	complex (Complex interaction)	Activation			
+COL4A6	ITGA2	->	PPrel: activation; complex; input	Activation			
+COL4A6	ITGA6	->	PPrel: activation; complex; input	Activation			
+COL4A6	ITGB3	->	PPrel: activation; complex; input	Activation			
+COL4A6	ITGB8	->	PPrel: activation; complex; input	Activation			
+COL4A6	ITGBL1	->	complex; input (Complex interaction)	Activation			
+COL4A6	LAMA1	->	complex (Complex interaction)	Activation			
+COL4A6	LAMA3	->	complex (Complex interaction)	Activation			
+COL4A6	LAMA5	->	complex (Complex interaction)	Activation			
+COL4A6	LAMB2	->	complex (Complex interaction)	Activation			
+COL4A6	LAMC2	->	complex (Complex interaction)	Activation			
+COL5A1	DMBT1	->	complex; input (Complex interaction)	Activation			
+COL5A1	FLNB	->	complex; input (Complex interaction)	Activation			
+COL5A1	FN1	->	complex (Complex interaction)	Activation			
+COL5A1	ITGA2	->	complex; input (Complex interaction)	Activation			
+COL5A1	ITGA6	->	complex; input (Complex interaction)	Activation			
+COL5A1	ITGB8	->	complex; input (Complex interaction)	Activation			
+COL5A1	ITGBL1	->	complex; input (Complex interaction)	Activation			
+COL5A1	LAMA1	->	complex (Complex interaction)	Activation			
+COL5A1	LAMA3	->	complex (Complex interaction)	Activation			
+COL5A1	LAMA5	->	complex (Complex interaction)	Activation			
+COL5A1	LAMB2	->	complex (Complex interaction)	Activation			
+COL5A1	LAMC2	->	complex (Complex interaction)	Activation			
+COL6A2	CD44	->	PPrel: activated by (Swapped)	Activation			
+COL6A2	COL6A3	->	complex; input (Complex interaction)	Activation			
+COL6A2	DMBT1	->	complex; input (Complex interaction)	Activation			
+COL6A2	FLNB	->	complex; input (Complex interaction)	Activation			
+COL6A2	FN1	->	complex (Complex interaction)	Activation			
+COL6A2	ITGA2	->	PPrel: activation; complex; input	Activation			
+COL6A2	ITGA6	->	PPrel: activation; complex; input	Activation			
+COL6A2	ITGB3	->	PPrel: activation	Activation			
+COL6A2	ITGB8	->	PPrel: activation; complex; input	Activation			
+COL6A2	ITGBL1	->	complex; input (Complex interaction)	Activation			
+COL6A2	LAMA1	->	complex (Complex interaction)	Activation			
+COL6A2	LAMA3	->	complex (Complex interaction)	Activation			
+COL6A2	LAMA5	->	complex (Complex interaction)	Activation			
+COL6A2	LAMB2	->	complex (Complex interaction)	Activation			
+COL6A2	LAMC2	->	complex (Complex interaction)	Activation			
+COL6A2	PDGFA	->	complex; input (Complex interaction)	Activation			
+COL6A2	PDGFB	->	complex; input (Complex interaction)	Activation			
+COL6A3	CD44	->	PPrel: activated by (Swapped)	Activation			
+COL6A3	DMBT1	->	complex; input (Complex interaction)	Activation			
+COL6A3	FLNB	->	complex; input (Complex interaction)	Activation			
+COL6A3	FN1	->	complex (Complex interaction)	Activation			
+COL6A3	ITGA2	->	PPrel: activation; complex; input	Activation			
+COL6A3	ITGA6	->	PPrel: activation; complex; input	Activation			
+COL6A3	ITGB3	->	PPrel: activation	Activation			
+COL6A3	ITGB8	->	PPrel: activation; complex; input	Activation			
+COL6A3	ITGBL1	->	complex; input (Complex interaction)	Activation			
+COL6A3	LAMA1	->	complex (Complex interaction)	Activation			
+COL6A3	LAMA3	->	complex (Complex interaction)	Activation			
+COL6A3	LAMA5	->	complex (Complex interaction)	Activation			
+COL6A3	LAMB2	->	complex (Complex interaction)	Activation			
+COL6A3	LAMC2	->	complex (Complex interaction)	Activation			
+COL6A3	PDGFA	->	complex; input (Complex interaction)	Activation			
+COL6A3	PDGFB	->	complex; input (Complex interaction)	Activation			
+COL8A1	DMBT1	->	complex; input (Complex interaction)	Activation			
+COL8A1	FLNB	->	complex; input (Complex interaction)	Activation			
+COL8A1	FN1	->	complex (Complex interaction)	Activation			
+COL8A1	ITGA2	->	complex; input (Complex interaction)	Activation			
+COL8A1	ITGA6	->	complex; input (Complex interaction)	Activation			
+COL8A1	ITGB8	->	complex; input (Complex interaction)	Activation			
+COL8A1	ITGBL1	->	complex; input (Complex interaction)	Activation			
+COL8A1	LAMA1	->	complex (Complex interaction)	Activation			
+COL8A1	LAMA3	->	complex (Complex interaction)	Activation			
+COL8A1	LAMA5	->	complex (Complex interaction)	Activation			
+COL8A1	LAMB2	->	complex (Complex interaction)	Activation			
+COL8A1	LAMC2	->	complex (Complex interaction)	Activation			
+COQ10B	NDUFC2	->	activate	Activation			
+CRADD	BID	->	activated by (Swapped)	Activation			
+CRADD	MADD	->	complex; input (Complex interaction)	Activation			
+CRADD	SMPD1	->	activate	Activation			
+CRADD	SMPD3	->	activate	Activation			
+CRADD	TNFRSF1A	->	complex; input; reaction (Complex interaction)	Activation			
+CRB3	PARD6A	->	PPrel: binding/association (Binding/Association)	Activation			
+CREB3L1	EGR1	->	GErel: expression	Activation			
+CREB3L1	JUN	->	GErel: expression	Activation			
+CREB3L1	NCEH1	->	GErel: expression	Activation			
+CREB3L1	PPARGC1A	->	GErel: expression; PPrel: activation, indirect effect	Activation			
+CREB3L1	SLC1A4	-|			Repression	-|	1.0
+CREB3L1	TAF4B	->	complex (Complex interaction)	Activation			
+CREB3L1	VEGFA	->	GErel: expression	Activation			
+CREG1	HSPA4	-|			Repression	-|	1.0
+CSF3	EPOR	->	PPrel: activation	Activation			
+CSF3	IFNAR2	->	PPrel: activation	Activation			
+CSF3	IFNGR2	->	PPrel: activation	Activation			
+CSF3	IFNLR1	->	PPrel: activation	Activation			
+CSF3	IL6R	->	PPrel: activation	Activation			
+CSF3	JAK1	->	PPrel: activation; catalyze; catalyzed by; complex; input (Bidirectional Activation)	Activation			
+CSF3	LIFR	->	PPrel: activation	Activation			
+CSF3	SOCS3	->	complex; input; reaction (Complex interaction)	Activation			
+CTSC	BID	->	PPrel: activated by (Swapped)	Activation			
+CTSC	BIRC3	-|	PPrel: inhibited by (Target inhibits Source)	Inhibition			
+CTSS	BID	->	PPrel: activated by (Swapped)	Activation			
+CTSS	BIRC3	-|	PPrel: inhibited by (Target inhibits Source)	Inhibition			
+CTSS	CD74	->	PPrel: activated by; catalyzed by (Swapped)	Activation			
+CTSS	HLA-DPA1	->	catalyze	Activation			
+CTSS	HLA-DPB1	->	catalyze	Activation			
+CTSS	HLA-DRA	->	catalyze	Activation			
+CTSS	HLA-DRB1	->	catalyze	Activation			
+CTSS	HLA-DRB5	->	catalyze	Activation			
+CTSS	HSPG2	->	catalyze	Activation			
+CUL4B	ERCC6	->	complex; input (Complex interaction)	Activation			
+CXCL16	CCR1	->	PPrel: activated binding/association (Swapped)	Activation			
+CXCL16	CXCR4	->	PPrel: activation, binding/association	Activation			
+CXCR4	EDN1	->	complex; input (Complex interaction)	Activation			
+CXCR4	GNA15	->	PPrel: activation; complex	Activation			
+CXCR4	PTPN6	->	complex; input (Complex interaction)	Activation			
+CXCR4	ROBO1	->	complex; input (Complex interaction)	Activation			
+CYB5A	ALDH3A2	->	catalyze; catalyzed by; input (Bidirectional Activation)	Activation			
+CYFIP2	ACTR3C	->	PPrel: activated by (Swapped)	Activation			
+CYFIP2	WASF3	->	complex (Complex interaction)	Activation			
+CYP1A1	EPHX1	->	ECrel: compound (Input/Compound interaction)	Activation			
+CYP1A1	GSTM1	->	ECrel: compound (Input/Compound interaction)	Activation			
+CYP1A1	GSTM2	->	ECrel: compound (Input/Compound interaction)	Activation			
+CYP1A1	GSTM3	->	ECrel: compound (Input/Compound interaction)	Activation			
+CYP1A1	GSTM4	->	ECrel: compound (Input/Compound interaction)	Activation			
+CYP1A1	GSTP1	->	ECrel: compound (Input/Compound interaction)	Activation			
+CYP1A1	MGST1	->	ECrel: compound (Input/Compound interaction)	Activation			
+CYP2C18	EPHX1	->	ECrel: compound (Input/Compound interaction)	Activation			
+CYP2C18	GSTM1	->	ECrel: compound (Input/Compound interaction)	Activation			
+CYP2C18	GSTM2	->	ECrel: compound (Input/Compound interaction)	Activation			
+CYP2C18	GSTM3	->	ECrel: compound (Input/Compound interaction)	Activation			
+CYP2C18	GSTM4	->	ECrel: compound (Input/Compound interaction)	Activation			
+CYP2C18	GSTP1	->	ECrel: compound (Input/Compound interaction)	Activation			
+CYP2C18	MGST1	->	ECrel: compound (Input/Compound interaction)	Activation			
+DAAM1	RHOB	->	complex; input (Complex interaction)	Activation			
+DAB2	DNAJC6	->	complex; input (Complex interaction)	Activation			
+DAB2	HIP1	->	complex; input (Complex interaction)	Activation			
+DAB2	HIP1R	->	complex; input (Complex interaction)	Activation			
+DAB2	ITSN1	->	complex; input (Complex interaction)	Activation			
+DAB2	SMAD3	->	activate	Activation			
+DAB2	SYNJ1	->	complex; input (Complex interaction)	Activation			
+DAB2	SYNJ2	->	complex; input (Complex interaction)	Activation			
+DACH1	FOS	-|			Repression	-|	1.0
+DACH1	TNFSF11	-|			Repression	-|	1.0
+DAG1	DMD	->	PPrel: binding/association; complex; input (Binding/Association)	Activation			
+DAG1	PAK2	->	complex (Complex interaction)	Activation			
+DAG1	PAK6	->	complex (Complex interaction)	Activation			
+DENND1B	CHML	->	catalyzed by (Swapped)	Activation			
+DENND2A	CHML	->	catalyzed by (Swapped)	Activation			
+DKK1	FZD1	-|	inhibit; input	Inhibition			
+DKK1	FZD8	->	input (Input/Compound interaction)	Activation			
+DKK1	KREMEN1	->	complex; input (Complex interaction)	Activation			
+DKK1	LRP5	-|	PPrel: inhibition; complex; input	Inhibition			
+DKK1	SFRP1	->	reaction (Complex interaction)	Activation			
+DKK1	SOST	->	reaction (Complex interaction)	Activation			
+DKK1	WNT7B	-|	PPrel: inhibition	Inhibition			
+DKK1	WNT8B	-|	PPrel: inhibition; inhibit	Inhibition			
+DMBT1	FLNB	->	complex; input (Complex interaction)	Activation			
+DMBT1	FN1	->	complex; input (Complex interaction)	Activation			
+DMBT1	ITGB8	->	complex (Complex interaction)	Activation			
+DMBT1	ITGBL1	->	complex (Complex interaction)	Activation			
+DMBT1	LAMA1	->	complex; input (Complex interaction)	Activation			
+DMBT1	LAMA3	->	complex; input (Complex interaction)	Activation			
+DMBT1	LAMA5	->	complex; input (Complex interaction)	Activation			
+DMBT1	LAMB2	->	complex; input (Complex interaction)	Activation			
+DMBT1	LAMC2	->	complex; input (Complex interaction)	Activation			
+DMD	LAMA1	->	complex; input (Complex interaction)	Activation			
+DMD	LAMA3	->	complex; input (Complex interaction)	Activation			
+DMD	LAMA5	->	complex; input (Complex interaction)	Activation			
+DMD	PAK2	->	complex (Complex interaction)	Activation			
+DMD	PAK6	->	complex (Complex interaction)	Activation			
+DNAJC6	EREG	->	complex; input (Complex interaction)	Activation			
+DNAJC6	HIP1	->	complex; input (Complex interaction)	Activation			
+DNAJC6	HIP1R	->	complex; input (Complex interaction)	Activation			
+DNAJC6	IGF2R	->	complex; input (Complex interaction)	Activation			
+DNAJC6	ITSN1	->	complex; input (Complex interaction)	Activation			
+DNAJC6	KIAA0319	->	complex; input (Complex interaction)	Activation			
+DNAJC6	REPS2	->	complex; input (Complex interaction)	Activation			
+DNAJC6	SCARB2	->	complex; input (Complex interaction)	Activation			
+DNAJC6	SH3KBP1	->	complex; input (Complex interaction)	Activation			
+DNAJC6	STAM	->	complex; input (Complex interaction)	Activation			
+DNAJC6	SYNJ1	->	complex; input (Complex interaction)	Activation			
+DNAJC6	SYNJ2	->	complex; input (Complex interaction)	Activation			
+DNAJC6	SYT2	->	complex; input (Complex interaction)	Activation			
+DNAJC6	TGFA	->	complex; input (Complex interaction)	Activation			
+DNM1	CXCR4	->	activated by (Swapped)	Activation			
+DNM1	EPHB2	->	complex; input (Complex interaction)	Activation			
+DNM1	F2R	->	activate	Activation			
+DNM1	GNA15	->	activate; inhibited by (Source activates Target)	Activation			
+DNM1	NGF	->	activate	Activation			
+DNM1	SH3KBP1	->	reaction (Complex interaction)	Activation			
+DNM1	SLC9A3R1	->	activate; inhibited by (Source activates Target)	Activation			
+DNM1	SYNJ1	->	reaction (Complex interaction)	Activation			
+DOCK2	RAC3	->	PPrel: activation	Activation			
+DPF3	PPARG	->	PPrel: binding/association (Binding/Association)	Activation			
+DPYSL2	L1CAM	->	complex; input (Complex interaction)	Activation			
+DSCAM	MAPK13	->	catalyze	Activation			
+DSG2	FLG	->	complex; input (Complex interaction)	Activation			
+DSG2	JUP	->	complex (Complex interaction)	Activation			
+DSG2	PKP3	->	complex (Complex interaction)	Activation			
+EDN1	ADORA1	->	PPrel: activated by (Swapped)	Activation			
+EDN1	ADRB2	->	PPrel: activated by; complex; reaction (Swapped)	Activation			
+EDN1	EDNRB	->	PPrel: activation; complex; input	Activation			
+EDN1	GNA15	->	complex; input (Complex interaction)	Activation			
+EDN1	HCAR1	->	PPrel: activation	Activation			
+EDN1	HTR1D	->	PPrel: activation	Activation			
+EDN1	NPY1R	->	PPrel: activation	Activation			
+EDN1	SLC9A3R1	->	complex; input (Complex interaction)	Activation			
+EDN1	SSTR1	->	PPrel: activation	Activation			
+EDN1	SSTR2	->	PPrel: activation	Activation			
+EDN2	ADORA1	->	PPrel: activated by (Swapped)	Activation			
+EDN2	ADRB2	->	PPrel: activated by (Swapped)	Activation			
+EDN2	EDNRB	->	PPrel: activation; complex; input	Activation			
+EDN2	GNA15	->	complex; input (Complex interaction)	Activation			
+EDN2	HCAR1	->	PPrel: activation	Activation			
+EDN2	HTR1D	->	PPrel: activation	Activation			
+EDN2	NPY1R	->	PPrel: activation	Activation			
+EDN2	SSTR1	->	PPrel: activation	Activation			
+EDN2	SSTR2	->	PPrel: activation	Activation			
+EDNRB	GNA15	->	PPrel: activation; complex; input	Activation			
+EEF1A2	PTPN6	->	PPrel: activation	Activation			
+EFEMP1	VTN	->	complex; input (Complex interaction)	Activation			
+EFNA1	CBL	->	activated by (Swapped)	Activation			
+EFNA1	EPHA10	->	complex; input (Complex interaction)	Activation			
+EFNA1	EPHA5	->	PPrel: activation; complex; input	Activation			
+EFNA1	EPHB2	->	input (Input/Compound interaction)	Activation			
+EFNA1	ERBB3	->	PPrel: activation	Activation			
+EFNA1	ERBB4	->	PPrel: activation	Activation			
+EFNA1	FGFR2	->	PPrel: activation	Activation			
+EFNA1	FLT1	->	PPrel: activation	Activation			
+EFNA1	KDR	->	PPrel: activation	Activation			
+EFNA1	NGFR	->	PPrel: activation	Activation			
+EFNA1	NTRK2	->	PPrel: activation	Activation			
+EGR1	ABCB1	->			Activation	->	1.0
+EGR1	ACE	->			Activation	->	1.0
+EGR1	ADIRF	->	expression regulated by (Swapped)	Activation			
+EGR1	ADORA1	->	expression regulated by (Swapped)	Activation			
+EGR1	AFAP1L2	->	expression regulated by (Swapped)	Activation			
+EGR1	AKR1B1	->	expression regulated by (Swapped)	Activation			
+EGR1	ALOX5	->			Activation	->	1.0
+EGR1	AR	->	expression regulated by; reaction (Swapped)	Activation	Repression	-|	1.0
+EGR1	ATF3	->			Activation	->	1.0
+EGR1	BCAR1	->			Activation	->	1.0
+EGR1	BHLHE40	->	expression regulated by (Swapped)	Activation			
+EGR1	CCND1	->			Activation	->	1.0
+EGR1	CCND3	->	expression regulated by (Swapped)	Activation			
+EGR1	CD44	->	expression regulated by (Swapped)	Activation			
+EGR1	CDK5R1	->			Activation	->	1.0
+EGR1	CDKN1A	->			Activation	->	1.0
+EGR1	CHGA	->			Activation	->	1.0
+EGR1	CNTN1	->	expression regulated by (Swapped)	Activation			
+EGR1	CXCL8	-|			Repression	-|	1.0
+EGR1	CYP2B6	->			Activation	->	1.0
+EGR1	EAPP	->			Activation	->	1.0
+EGR1	EGFR	->			Activation	->	1.0
+EGR1	EHF	->	expression regulates	Activation			
+EGR1	EP300	->			Activation	->	1.0
+EGR1	ERBB3	->	expression regulates	Activation			
+EGR1	ETV4	->	expression regulates	Activation			
+EGR1	FAP	->			Activation	->	1.0
+EGR1	FAS	-|			Repression	-|	1.0
+EGR1	FCER2	-|			Repression	-|	1.0
+EGR1	FGF2	->			Activation	->	1.0
+EGR1	FLT1	->	expression regulates	Activation			
+EGR1	FN1	->	expression regulates	Activation	Activation	->	1.0
+EGR1	GDF15	->	expression regulates	Activation	Activation	->	1.0
+EGR1	HIF1A	->			Activation	->	1.0
+EGR1	HMGA1	->	expression regulates	Activation			
+EGR1	HPSE	->			Activation	->	1.0
+EGR1	HSD11B2	-|			Repression	-|	1.0
+EGR1	HYAL1	->			Activation	->	1.0
+EGR1	IGF2	->			Activation	->	1.0
+EGR1	IL1A	->	expression regulates	Activation			
+EGR1	IL1B	->	expression regulates	Activation			
+EGR1	IL3	->			Activation	->	1.0
+EGR1	IL6	->	expression regulates	Activation	Repression	-|	1.0
+EGR1	JUN	->	activate; expression regulates; inhibited by (Source activates Target)	Activation			
+EGR1	KLK3	-|			Repression	-|	1.0
+EGR1	LDLR	->			Activation	->	1.0
+EGR1	LHB	->			Activation	->	1.0
+EGR1	LMTK2	->			Activation	->	1.0
+EGR1	MECOM	->	activate; inhibited by (Source activates Target)	Activation			
+EGR1	MMP14	->			Activation	->	1.0
+EGR1	MYB	-|			Repression	-|	1.0
+EGR1	NAB2	->			Activation	->	1.0
+EGR1	NFATC1	->	complex; input (Complex interaction)	Activation			
+EGR1	PCSK2	->			Activation	->	1.0
+EGR1	PDGFB	->	expression regulates	Activation	Activation	->	1.0
+EGR1	PDGFC	->			Activation	->	1.0
+EGR1	PECAM1	->	expression regulates	Activation			
+EGR1	PLAU	->	expression regulates	Activation	Activation	->	1.0
+EGR1	PLAUR	->			Activation	->	1.0
+EGR1	POR	->	expression regulates	Activation			
+EGR1	POU2F2	->	expression regulated by; expression regulates (Bidirectional Activation)	Activation			
+EGR1	PPARG	->	expression regulates; reaction	Activation			
+EGR1	PTEN	->			Activation	->	1.0
+EGR1	PTGES	->			Activation	->	1.0
+EGR1	PTGS2	-|			Repression	-|	1.0
+EGR1	RBL2	->			Activation	->	1.0
+EGR1	SLC4A2	->			Activation	->	1.0
+EGR1	SLC9A3	->			Activation	->	1.0
+EGR1	SNAI2	->	activate; inhibited by (Source activates Target)	Activation			
+EGR1	SOD1	->			Activation	->	1.0
+EGR1	SP140	->	expression regulates	Activation			
+EGR1	SPINT1	->	expression regulates	Activation			
+EGR1	STIM1	->			Activation	->	1.0
+EGR1	SYN1	->			Activation	->	1.0
+EGR1	TCF4	->			Activation	->	1.0
+EGR1	TFPI2	->	expression regulates	Activation			
+EGR1	TMPO	->			Activation	->	1.0
+EGR1	TNF	->			Activation	->	1.0
+EGR1	TNFSF10	-|			Repression	-|	1.0
+EGR1	TP53	->			Activation	->	1.0
+EGR1	TSTD1	->	expression regulates	Activation			
+EGR1	UBE2S	->			Activation	->	1.0
+EGR1	VEGFA	->	expression regulates	Activation	Repression	-|	1.0
+EGR1	WNT4	-|			Repression	-|	1.0
+EHF	DCDC2	-|			Repression	-|	1.0
+EHF	SPRR1B	->			Activation	->	1.0
+ELK3	MYH6	-|			Repression	-|	1.0
+ENAH	ROBO1	->	complex; input (Complex interaction)	Activation			
+EPB41L1	GSN	->	complex (Complex interaction)	Activation			
+EPB41L1	MPP1	->	complex (Complex interaction)	Activation			
+EPB41L1	MSN	->	complex (Complex interaction)	Activation			
+EPB41L1	MYO7A	->	complex (Complex interaction)	Activation			
+EPHA10	EPHA5	->	input (Input/Compound interaction)	Activation			
+EPHA10	EPHB2	->	input (Input/Compound interaction)	Activation			
+EPHA5	ABL1	->	PPrel: activated by (Swapped)	Activation			
+EPHA5	EPHB2	->	input (Input/Compound interaction)	Activation			
+EPHB2	ABL1	->	PPrel: activated by (Swapped)	Activation			
+EPHB2	ITSN1	->	complex; input (Complex interaction)	Activation			
+EPHB2	L1CAM	->	catalyze; complex; input	Activation			
+EPHB2	NCK2	->	complex; input (Complex interaction)	Activation			
+EPHB2	SDC2	->	activate	Activation			
+EPHB2	SYNJ1	->	activate	Activation			
+EPHX1	GSTM1	->	ECrel: compound (Input/Compound interaction)	Activation			
+EPHX1	GSTM2	->	ECrel: compound (Input/Compound interaction)	Activation			
+EPHX1	GSTM3	->	ECrel: compound (Input/Compound interaction)	Activation			
+EPHX1	GSTM4	->	ECrel: compound (Input/Compound interaction)	Activation			
+EPHX1	GSTP1	->	ECrel: compound (Input/Compound interaction)	Activation			
+EPHX1	MGST1	->	ECrel: compound (Input/Compound interaction)	Activation			
+EPN3	FGFR2	->	PPrel: binding/association (Binding/Association)	Activation			
+EPOR	CBL	->	activated by (Swapped)	Activation			
+EPOR	JAK1	->	PPrel: activation; PPrel: binding/association; complex	Activation			
+EPOR	KITLG	->	complex; input; reaction (Complex interaction)	Activation			
+EPOR	PDGFA	->	PPrel (Input/Compound interaction)	Activation			
+EPOR	PDGFB	->	PPrel (Input/Compound interaction)	Activation			
+EPOR	PLCG1	->	activate; complex; input	Activation			
+EPOR	PTPN6	->	activate; inhibited by (Source activates Target)	Activation			
+EPOR	SOCS3	->	complex; input (Complex interaction)	Activation			
+ERBB3	ERBB4	->	complex; input (Complex interaction)	Activation			
+ERBB3	GRB7	->	complex; input (Complex interaction)	Activation			
+ERBB3	IRS1	->	PPrel: activation	Activation			
+ERBB3	ITGA6	->	reaction (Complex interaction)	Activation			
+ERBB3	JAK1	->	PPrel: activation	Activation			
+ERBB3	MYC	-|	PPrel: inhibition, indirect effect; expression regulated by (Source inhibits Target)	Inhibition			
+ERBB3	PLCG1	->	PPrel: activation	Activation			
+ERBB3	SHC3	->	PPrel: activation; PPrel: activation, phosphorylation	Activation			
+ERBB4	GRIN2A	-|	inhibite	Inhibition			
+ERBB4	IRS1	->	PPrel: activation	Activation			
+ERBB4	MYC	-|	PPrel: inhibition, indirect effect	Inhibition			
+ERBB4	PLCG1	->	PPrel: activation; complex; input	Activation			
+ERBB4	PRKCG	->	catalyze	Activation			
+ERBB4	SHC3	->	PPrel: activation, phosphorylation; complex; input	Activation			
+ERBB4	SPRY1	->	catalyze	Activation			
+ERBB4	STAT4	->	complex; input (Complex interaction)	Activation			
+EREG	ERBB3	->	PPrel: activated by; complex; input (Swapped)	Activation			
+EREG	ERBB4	->	PPrel: activated by; complex; input (Swapped)	Activation			
+EREG	FGFR2	->	PPrel: activation	Activation			
+EREG	FLT1	->	PPrel: activation	Activation			
+EREG	HIP1	->	complex; input (Complex interaction)	Activation			
+EREG	HIP1R	->	complex; input (Complex interaction)	Activation			
+EREG	ITSN1	->	complex; input (Complex interaction)	Activation			
+EREG	KDR	->	PPrel: activation	Activation			
+EREG	NGFR	->	PPrel: activation	Activation			
+EREG	NRG2	->	complex; input (Complex interaction)	Activation			
+EREG	NTRK2	->	PPrel: activation	Activation			
+EREG	PAG1	->	catalyze	Activation			
+EREG	PLCG1	->	complex; input (Complex interaction)	Activation			
+EREG	REPS2	->	complex (Complex interaction)	Activation			
+EREG	SH3KBP1	->	complex; input (Complex interaction)	Activation			
+EREG	SPRY1	->	catalyze; complex; input	Activation			
+EREG	STAM	->	complex; input (Complex interaction)	Activation			
+EREG	SYNJ1	->	complex; input (Complex interaction)	Activation			
+EREG	SYNJ2	->	complex; input (Complex interaction)	Activation			
+ESRP1	ESRP2	->	complex; input (Complex interaction)	Activation			
+ETV4	AGTR1	->			Activation	->	1.0
+ETV4	BCHE	->	expression regulated by (Swapped)	Activation			
+ETV4	CCND2	->			Activation	->	1.0
+ETV4	CCND3	->			Activation	->	1.0
+ETV4	CETP	->	expression regulated by (Swapped)	Activation			
+ETV4	ERBB2	-|			Repression	-|	1.0
+ETV4	ETS1	->			Activation	->	1.0
+ETV4	HPGD	->	expression regulates	Activation			
+ETV4	MMP14	->			Activation	->	1.0
+ETV4	MMP3	->	expression regulates	Activation			
+ETV4	MMP7	->			Activation	->	1.0
+ETV4	MUC4	->			Activation	->	1.0
+ETV4	PTGS2	->			Activation	->	1.0
+ETV4	TERT	->			Activation	->	1.0
+ETV4	VIM	->			Activation	->	1.0
+F11R	ITGB3	->	complex; input; reaction (Complex interaction)	Activation			
+F11R	PARD6A	->	complex; input (Complex interaction)	Activation			
+F2R	F2RL2	->	complex (Complex interaction)	Activation			
+F2R	F2RL3	->	complex (Complex interaction)	Activation			
+F2R	GNA15	->	PPrel: activation; activate; complex; input	Activation			
+F2RL1	GNA15	->	complex; input (Complex interaction)	Activation			
+F2RL2	F2RL3	->	activate; catalyze; catalyzed by; input (Bidirectional Activation)	Activation			
+F2RL2	GNA15	->	catalyze; complex; input	Activation			
+F2RL2	PAK2	->	activate	Activation			
+F2RL2	PARD6A	->	complex (Complex interaction)	Activation			
+F2RL3	F2RL2	->	activate; catalyze; catalyzed by; input (Bidirectional Activation)	Activation			
+F2RL3	GNA15	->	activate; catalyze; complex; input	Activation			
+FBLIM1	FLNC	->	complex; input (Complex interaction)	Activation			
+FBLN1	VTN	->	complex; input (Complex interaction)	Activation			
+FBN1	ITGB3	->	complex; input (Complex interaction)	Activation			
+FBXO2	FBXO27	->	catalyze; catalyzed by; input (Bidirectional Activation)	Activation			
+FBXO2	FBXO44	->	catalyze; catalyzed by; input (Bidirectional Activation)	Activation			
+FBXO2	FBXO6	->	catalyze; catalyzed by; input (Bidirectional Activation)	Activation			
+FBXO2	NEDD4L	->	catalyze; catalyzed by; input (Bidirectional Activation)	Activation			
+FBXO2	RNF115	->	catalyze; catalyzed by; input (Bidirectional Activation)	Activation			
+FBXO27	FBXO2	->	catalyze; catalyzed by; input (Bidirectional Activation)	Activation			
+FBXO27	FBXO44	->	catalyze; catalyzed by; input (Bidirectional Activation)	Activation			
+FBXO27	FBXO6	->	catalyze; catalyzed by; input (Bidirectional Activation)	Activation			
+FBXO27	NEDD4L	->	catalyze; catalyzed by; input (Bidirectional Activation)	Activation			
+FBXO27	RNF115	->	catalyze; catalyzed by; input (Bidirectional Activation)	Activation			
+FBXO44	FBXO2	->	catalyze; catalyzed by; input (Bidirectional Activation)	Activation			
+FBXO44	FBXO27	->	catalyze; catalyzed by; input (Bidirectional Activation)	Activation			
+FBXO44	FBXO6	->	catalyze; catalyzed by; input (Bidirectional Activation)	Activation			
+FBXO44	NEDD4L	->	catalyze; catalyzed by; input (Bidirectional Activation)	Activation			
+FBXO44	RNF115	->	catalyze; catalyzed by; input (Bidirectional Activation)	Activation			
+FBXO6	FBXO2	->	catalyze; catalyzed by; input (Bidirectional Activation)	Activation			
+FBXO6	FBXO27	->	catalyze; catalyzed by; input (Bidirectional Activation)	Activation			
+FBXO6	FBXO44	->	catalyze; catalyzed by; input (Bidirectional Activation)	Activation			
+FBXO6	NEDD4L	->	catalyze; catalyzed by; input (Bidirectional Activation)	Activation			
+FBXO6	RNF115	->	catalyze; catalyzed by; input (Bidirectional Activation)	Activation			
+FGD4	RHOB	->	catalyze	Activation			
+FGF20	ERBB3	->	PPrel: activated by (Swapped)	Activation			
+FGF20	ERBB4	->	PPrel: activated by (Swapped)	Activation			
+FGF20	FGF5	->	catalyze; catalyzed by; input (Bidirectional Activation)	Activation			
+FGF20	FGFR2	->	PPrel: activation; catalyze; catalyzed by; complex; input (Bidirectional Activation)	Activation			
+FGF20	FLT1	->	PPrel: activation	Activation			
+FGF20	KDR	->	PPrel: activation	Activation			
+FGF20	MST1R	->	PPrel: activation	Activation			
+FGF20	NGFR	->	PPrel: activation	Activation			
+FGF20	NTRK2	->	PPrel: activation	Activation			
+FGF20	PLCG1	->	complex; input (Complex interaction)	Activation			
+FGF5	ERBB3	->	PPrel: activated by (Swapped)	Activation			
+FGF5	ERBB4	->	PPrel: activated by (Swapped)	Activation			
+FGF5	FGF20	->	catalyze; catalyzed by; input (Bidirectional Activation)	Activation			
+FGF5	FGFR2	->	PPrel: activation; catalyze; catalyzed by; complex; input (Bidirectional Activation)	Activation			
+FGF5	FLT1	->	PPrel: activation	Activation			
+FGF5	KDR	->	PPrel: activation	Activation			
+FGF5	MST1R	->	PPrel: activation	Activation			
+FGF5	NGFR	->	PPrel: activation	Activation			
+FGF5	NTRK2	->	PPrel: activation	Activation			
+FGF5	PLCG1	->	complex; input (Complex interaction)	Activation			
+FGFR2	FGF20	->	PPrel: activation; catalyze; catalyzed by; complex; input (Bidirectional Activation)	Activation			
+FGFR2	FGF5	->	PPrel: activation; catalyze; catalyzed by; complex; input (Bidirectional Activation)	Activation			
+FGFR2	IRS1	->	PPrel: activation	Activation			
+FGFR2	JAK1	->	PPrel: activation	Activation			
+FGFR2	PLCG1	->	PPrel: activation; complex; input	Activation			
+FGFR2	PRKCG	->	catalyze	Activation			
+FGFR2	SH3KBP1	->	PPrel: binding/association (Binding/Association)	Activation			
+FGFR2	SHC3	->	PPrel: activation; complex; input	Activation			
+FKBP5	NR3C1	->	complex (Complex interaction)	Activation			
+FLG	JUP	->	complex; input (Complex interaction)	Activation			
+FLG	PKP3	->	complex; input (Complex interaction)	Activation			
+FLI1	CCND3	->	expression regulated by (Swapped)	Activation			
+FLI1	COL1A2	-|			Repression	-|	1.0
+FLI1	ERG	->			Activation	->	1.0
+FLI1	EYA3	->			Activation	->	1.0
+FLI1	FLI1	->			Activation	->	1.0
+FLI1	FOXM1	->			Activation	->	1.0
+FLI1	GATA1	->			Activation	->	1.0
+FLI1	GP6	->			Activation	->	1.0
+FLI1	GP9	->			Activation	->	1.0
+FLI1	ID2	->			Activation	->	1.0
+FLI1	IGFBP3	->	expression regulates	Activation	Repression	-|	1.0
+FLI1	IL10	->			Activation	->	1.0
+FLI1	LEF1	->	reaction (Complex interaction)	Activation			
+FLI1	MIR708	-|			Repression	-|	1.0
+FLI1	MMP1	-|			Repression	-|	1.0
+FLI1	MMP3	->	expression regulates	Activation			
+FLI1	MPL	->			Activation	->	1.0
+FLI1	PHLDA1	-|			Repression	-|	1.0
+FLI1	TERT	->			Activation	->	1.0
+FLI1	TGFBR2	->			Activation	->	1.0
+FLNB	FN1	->	complex; input (Complex interaction)	Activation			
+FLNB	ITGA2	->	PPrel: binding/association; complex; input (Binding/Association)	Activation			
+FLNB	ITGA6	->	PPrel: binding/association; complex; input (Binding/Association)	Activation			
+FLNB	ITGB3	->	PPrel: binding/association (Binding/Association)	Activation			
+FLNB	ITGB8	->	PPrel: binding/association; complex; input (Binding/Association)	Activation			
+FLNB	ITGBL1	->	complex; input (Complex interaction)	Activation			
+FLNB	LAMA1	->	complex; input (Complex interaction)	Activation			
+FLNB	LAMA3	->	complex; input (Complex interaction)	Activation			
+FLNB	LAMA5	->	complex; input (Complex interaction)	Activation			
+FLNB	LAMB2	->	complex; input (Complex interaction)	Activation			
+FLNB	LAMC2	->	complex; input (Complex interaction)	Activation			
+FLNC	ITGA2	->	PPrel: binding/association (Binding/Association)	Activation			
+FLNC	ITGA6	->	PPrel: binding/association (Binding/Association)	Activation			
+FLNC	ITGB3	->	PPrel: binding/association (Binding/Association)	Activation			
+FLNC	ITGB8	->	PPrel: binding/association (Binding/Association)	Activation			
+FLT1	GPC1	->	complex; input (Complex interaction)	Activation			
+FLT1	IRS1	->	PPrel: activation	Activation			
+FLT1	KDR	->	complex; input (Complex interaction)	Activation			
+FLT1	PLCG1	->	PPrel: activation; activate	Activation			
+FLT1	SHC3	->	PPrel: activation	Activation			
+FMNL1	SRGAP2	->	complex; input (Complex interaction)	Activation			
+FN1	ANGPT1	->	activated by (Swapped)	Activation			
+FN1	CD44	->	PPrel: activated by (Swapped)	Activation			
+FN1	IRS1	->	activate	Activation			
+FN1	ITGA2	->	PPrel: activation; complex; input	Activation			
+FN1	ITGA6	->	PPrel: activation; complex; input	Activation			
+FN1	ITGB3	->	PPrel: activation; complex; input; reaction	Activation			
+FN1	ITGB8	->	PPrel: activation; complex; input	Activation			
+FN1	ITGBL1	->	complex; input (Complex interaction)	Activation			
+FN1	LAMA1	->	complex (Complex interaction)	Activation			
+FN1	LAMA3	->	complex (Complex interaction)	Activation			
+FN1	LAMA5	->	complex (Complex interaction)	Activation			
+FN1	LAMB2	->	complex (Complex interaction)	Activation			
+FN1	LAMC2	->	complex (Complex interaction)	Activation			
+FN1	PLAU	->	complex; input (Complex interaction)	Activation			
+FN1	SDC2	->	PPrel: activation; complex; input	Activation			
+FOLR1	SPTB	->	complex; input (Complex interaction)	Activation			
+FOLR1	SPTBN5	->	complex; input (Complex interaction)	Activation			
+FOXA2	ABCA1	-|			Repression	-|	1.0
+FOXA2	CDH1	->			Activation	->	1.0
+FOXA2	CFTR	-|			Repression	-|	1.0
+FOXA2	CITED2	->	expression regulated by (Swapped)	Activation			
+FOXA2	EFNA1	->	expression regulated by (Swapped)	Activation			
+FOXA2	ETV4	->	expression regulated by (Swapped)	Activation			
+FOXA2	FGFR2	->	expression regulated by (Swapped)	Activation			
+FOXA2	FOXO1	->	activate; inhibited by (Source activates Target)	Activation			
+FOXA2	FST	->	expression regulates	Activation			
+FOXA2	ID1	->	expression regulates	Activation			
+FOXA2	LEF1	->	reaction (Complex interaction)	Activation			
+FOXA2	MMP7	->			Activation	->	1.0
+FOXA2	NR1D1	->	expression regulates	Activation			
+FOXA2	NR3C1	->	reaction (Complex interaction)	Activation			
+FOXA2	NR5A2	->			Activation	->	1.0
+FOXA2	PAX6	-|			Repression	-|	1.0
+FOXA2	PBX1	->	expression regulates	Activation			
+FOXA2	SARM1	->	expression regulates	Activation			
+FOXA2	SERPINC1	-|			Repression	-|	1.0
+FOXA2	SLC40A1	->	expression regulates	Activation			
+FOXA2	SOX14	->			Activation	->	1.0
+FOXA2	TCF7	->	reaction (Complex interaction)	Activation			
+FOXA2	TPO	->			Activation	->	1.0
+FOXA2	ZNF175	->	expression regulates	Activation			
+FOXC1	FGF19	->			Activation	->	1.0
+FOXF2	BAMBI	->			Activation	->	1.0
+FOXF2	CXCL12	->			Activation	->	1.0
+FOXF2	ITGB1	-|			Repression	-|	1.0
+FOXF2	MT1E	-|			Repression	-|	1.0
+FOXF2	MT1F	-|			Repression	-|	1.0
+FOXF2	PDGFA	-|			Repression	-|	1.0
+FOXF2	PSG7	-|			Repression	-|	1.0
+FOXF2	WASF2	->			Activation	->	1.0
+FOXO1	ADIPOR1	->			Activation	->	1.0
+FOXO1	ANGPT1	->	activated by; inhibite (Target activates Source)	Activation			
+FOXO1	AR	-|	activate; inhibited by (Target inhibits Source)	Inhibition	Repression	-|	1.0
+FOXO1	BCL2L11	->	GErel: expression by (Swapped)	Activation			
+FOXO1	CDKN1B	->			Activation	->	1.0
+FOXO1	CXCR4	->			Activation	->	1.0
+FOXO1	EGR1	-|			Repression	-|	1.0
+FOXO1	FABP4	->			Activation	->	1.0
+FOXO1	FOXA2	-|	activate; inhibited by (Target inhibits Source)	Inhibition			
+FOXO1	FSHB	-|			Repression	-|	1.0
+FOXO1	GABARAPL1	->	GErel: expression	Activation			
+FOXO1	GADD45B	->	GErel: expression	Activation			
+FOXO1	IGFBP1	->			Activation	->	1.0
+FOXO1	IL6	->			Activation	->	1.0
+FOXO1	KLF2	->	GErel: expression	Activation			
+FOXO1	NR3C1	->	complex; input; reaction (Complex interaction)	Activation			
+FOXO1	S1PR1	->	GErel: expression	Activation			
+FOXO1	SMAD3	->	PPrel: binding/association; complex; input; reaction (Binding/Association)	Activation			
+FOXO1	TNFSF10	->	GErel: expression	Activation	Activation	->	1.0
+FOXO1	TXNIP	-|			Repression	-|	1.0
+FOXP2	CNTNAP2	-|			Repression	-|	1.0
+FOXP2	MET	-|			Repression	-|	1.0
+FOXP2	NKX2-1	-|			Repression	-|	1.0
+FOXP2	PLAUR	->			Activation	->	1.0
+FOXP2	SRPX	->			Activation	->	1.0
+FOXQ1	BCL11A	->			Activation	->	1.0
+FOXQ1	RSPO2	->			Activation	->	1.0
+FOXQ1	TWIST1	->			Activation	->	1.0
+FOXQ1	VEGFA	->			Activation	->	1.0
+FOXQ1	WNT3A	->			Activation	->	1.0
+FST	INHBA	-|	PPrel: inhibition; complex; input	Inhibition			
+FST	INHBB	-|	PPrel: inhibition; complex; input	Inhibition			
+FST	RGMB	->	complex; input (Complex interaction)	Activation			
+FURIN	AGRN	->	catalyzed by (Swapped)	Activation			
+FURIN	FBN1	->	catalyzed by (Swapped)	Activation			
+FURIN	FLG	->	catalyzed by (Swapped)	Activation			
+FURIN	GPC1	->	catalyze	Activation			
+FURIN	GPC6	->	catalyze	Activation			
+FURIN	HSPG2	->	catalyze	Activation			
+FURIN	NGF	->	activate; catalyze	Activation			
+FURIN	NOTCH2	->	catalyze	Activation			
+FURIN	PDGFA	->	catalyze	Activation			
+FURIN	PDGFB	->	catalyze	Activation			
+FURIN	SDC2	->	catalyze	Activation			
+FURIN	SDC3	->	catalyze	Activation			
+FZD1	LRP5	->	PPrel: binding/association; complex; input (Binding/Association)	Activation			
+FZD3	LRP5	->	PPrel: binding/association; complex; input (Binding/Association)	Activation			
+FZD5	LRP5	->	PPrel: binding/association; complex; input (Binding/Association)	Activation			
+FZD5	PARD6A	->	activate	Activation			
+FZD8	LRP5	->	PPrel: binding/association; complex; input (Binding/Association)	Activation			
+GABARAPL1	GABRE	->	PPrel: binding/association (Binding/Association)	Activation			
+GABARAPL1	SQSTM1	->	PPrel: binding/association (Binding/Association)	Activation			
+GABRE	PLCL1	->	PPrel: binding/association (Binding/Association)	Activation			
+GAD1	RAB3A	->	complex (Complex interaction)	Activation			
+GAD1	RIMS1	->	catalyze; complex; input	Activation			
+GAS8	KIF3A	->	reaction (Complex interaction)	Activation			
+GATA2	ABL1	->	expression regulated by (Swapped)	Activation			
+GATA2	ADH1A	->			Activation	->	1.0
+GATA2	AR	->			Activation	->	1.0
+GATA2	BEND3	->	expression regulated by (Swapped)	Activation			
+GATA2	BTG2	->	expression regulated by (Swapped)	Activation			
+GATA2	CLU	->	expression regulated by (Swapped)	Activation			
+GATA2	CYBB	-|			Repression	-|	1.0
+GATA2	DKK1	->	expression regulated by (Swapped)	Activation			
+GATA2	EDN1	->	expression regulated by (Swapped)	Activation			
+GATA2	EGFL7	->	expression regulated by (Swapped)	Activation			
+GATA2	EGR1	->	expression regulated by (Swapped)	Activation			
+GATA2	EPO	-|			Repression	-|	1.0
+GATA2	ERBB3	->	expression regulated by (Swapped)	Activation			
+GATA2	ERVW-1	->			Activation	->	1.0
+GATA2	ETV4	->	expression regulated by (Swapped)	Activation			
+GATA2	FAXDC2	->	expression regulated by (Swapped)	Activation			
+GATA2	FCER1A	->			Activation	->	1.0
+GATA2	FLI1	->	complex; expression regulated by; input (Swapped)	Activation			
+GATA2	FN1	->	expression regulated by (Swapped)	Activation			
+GATA2	GATA1	->			Activation	->	1.0
+GATA2	GATA6	->	expression regulates	Activation			
+GATA2	ITGA2	->	expression regulates	Activation			
+GATA2	JUN	->	complex; input; reaction (Complex interaction)	Activation			
+GATA2	JUP	->	expression regulates	Activation			
+GATA2	LEF1	->	reaction (Complex interaction)	Activation			
+GATA2	LMO2	->	complex (Complex interaction)	Activation			
+GATA2	LPAR1	->	expression regulates	Activation			
+GATA2	MMD	->	expression regulates	Activation			
+GATA2	MS4A2	->			Activation	->	1.0
+GATA2	MYC	->	expression regulates	Activation			
+GATA2	MYCT1	->	expression regulates	Activation			
+GATA2	NOS3	->			Activation	->	1.0
+GATA2	NR3C1	->	expression regulates	Activation			
+GATA2	PECAM1	->	expression regulates	Activation			
+GATA2	PKIG	->	expression regulates	Activation			
+GATA2	PPARG	-|			Repression	-|	1.0
+GATA2	PPM1F	->	expression regulates	Activation			
+GATA2	PRG2	-|			Repression	-|	1.0
+GATA2	RHOJ	->	expression regulates	Activation			
+GATA2	S1PR1	->	expression regulates	Activation			
+GATA2	SEMA3A	->	expression regulates	Activation			
+GATA2	SERPINE1	->	expression regulates	Activation			
+GATA2	SLC40A1	->	expression regulates	Activation			
+GATA2	SMAD7	->	expression regulates	Activation			
+GATA2	SOCS2	->	expression regulates	Activation			
+GATA2	SPI1	-|			Repression	-|	1.0
+GATA2	TLR4	->	expression regulates	Activation			
+GATA2	TNFRSF1A	->	expression regulates	Activation			
+GATA2	WT1	->			Activation	->	1.0
+GATA2	ZEB1	->	expression regulates	Activation			
+GATA3	CD40LG	->			Activation	->	1.0
+GATA3	CD8A	->			Activation	->	1.0
+GATA3	CDH1	->			Activation	->	1.0
+GATA3	CDH3	-|			Repression	-|	1.0
+GATA3	CDX2	->			Activation	->	1.0
+GATA3	CHST4	->			Activation	->	1.0
+GATA3	CXCL1	-|			Repression	-|	1.0
+GATA3	EDN1	->	expression regulated by (Swapped)	Activation			
+GATA3	EPO	-|			Repression	-|	1.0
+GATA3	ERG	->			Activation	->	1.0
+GATA3	ERVW-1	->			Activation	->	1.0
+GATA3	FOXC1	-|			Repression	-|	1.0
+GATA3	FOXC2	-|			Repression	-|	1.0
+GATA3	HSD17B1	-|			Repression	-|	1.0
+GATA3	IL12RB2	-|			Repression	-|	1.0
+GATA3	IL5	->			Activation	->	1.0
+GATA3	KRT18	->	expression regulates	Activation			
+GATA3	KRT19	->	expression regulates	Activation			
+GATA3	LMO2	->	complex (Complex interaction)	Activation			
+GATA3	LOX	-|			Repression	-|	1.0
+GATA3	MUC1	->			Activation	->	1.0
+GATA3	NR3C1	->	activate; inhibited by (Source activates Target)	Activation			
+GATA3	PAEP	->			Activation	->	1.0
+GATA3	SMAD3	->	complex; input (Complex interaction)	Activation			
+GATA3	STAT4	-|			Repression	-|	1.0
+GATA3	TEK	->			Activation	->	1.0
+GATA3	TLE3	->	complex; input (Complex interaction)	Activation			
+GATA3	ZEB1	->			Activation	->	1.0
+GATA6	CAV1	-|			Repression	-|	1.0
+GATA6	CYP11A1	->			Activation	->	1.0
+GATA6	CYP17A1	->			Activation	->	1.0
+GATA6	DAB2	->			Activation	->	1.0
+GATA6	HEY1	->	complex; input (Complex interaction)	Activation			
+GATA6	PLAU	-|			Repression	-|	1.0
+GATA6	SULT2A1	->			Activation	->	1.0
+GFI1	BAX	-|			Repression	-|	1.0
+GFI1	CYP27B1	-|			Repression	-|	1.0
+GFI1	MYC	->	complex; input (Complex interaction)	Activation			
+GFRA1	CDH1	->	activated by (Swapped)	Activation			
+GFRA1	GRB7	->	complex; input (Complex interaction)	Activation			
+GFRA1	IRS1	->	complex; input (Complex interaction)	Activation			
+GFRA1	PLCG1	->	complex; input (Complex interaction)	Activation			
+GFRA1	RAP1GAP	->	complex; input (Complex interaction)	Activation			
+GFRA1	SHC3	->	complex; input (Complex interaction)	Activation			
+GLCE	AGRN	->	catalyzed by (Swapped)	Activation			
+GLCE	GPC1	->	catalyze	Activation			
+GLCE	GPC6	->	catalyze	Activation			
+GLCE	HSPG2	->	catalyze	Activation			
+GLCE	SDC2	->	catalyze	Activation			
+GLCE	SDC3	->	catalyze	Activation			
+GLI2	BCL2	->			Activation	->	1.0
+GLI2	CDH1	-|			Repression	-|	1.0
+GLI2	FAS	-|			Repression	-|	1.0
+GLI2	FOXA2	->	expression regulated by (Swapped)	Activation			
+GLI2	FOXF1	->			Activation	->	1.0
+GLI2	FST	->			Activation	->	1.0
+GLI2	H2AFX	-|			Repression	-|	1.0
+GLI2	IFITM5	->			Activation	->	1.0
+GLI2	MUC5AC	->			Activation	->	1.0
+GLI2	PDGFRA	->			Activation	->	1.0
+GLI2	SOCS1	->			Activation	->	1.0
+GLI2	TNFRSF10B	-|			Repression	-|	1.0
+GLI2	WNT2B	->			Activation	->	1.0
+GLI2	WNT7B	->	GErel: expression	Activation			
+GLI2	WNT8B	->	GErel: expression	Activation			
+GNA15	DNM1	-|	activate; inhibited by (Target inhibits Source)	Inhibition			
+GNA15	GPR17	->	complex; input (Complex interaction)	Activation			
+GNA15	GPR68	->	complex; input (Complex interaction)	Activation			
+GNA15	KISS1	->	complex; input (Complex interaction)	Activation			
+GNA15	LPAR1	->	complex; input (Complex interaction)	Activation			
+GNA15	LPAR4	->	complex; input (Complex interaction)	Activation			
+GNA15	LPAR5	->	complex; input (Complex interaction)	Activation			
+GNA15	NMB	->	complex; input (Complex interaction)	Activation			
+GNA15	P2RY6	->	complex; input (Complex interaction)	Activation			
+GNA15	PLCG1	->	activate; catalyze	Activation			
+GNA15	RGS4	->	complex; input (Complex interaction)	Activation			
+GNA15	RGS5	->	complex; input (Complex interaction)	Activation			
+GNA15	S1PR2	->	complex; input (Complex interaction)	Activation			
+GNA15	SAA1	->	complex; input (Complex interaction)	Activation			
+GNA15	SLC9A3R1	->	complex; input (Complex interaction)	Activation			
+GNA15	TAC3	->	complex; input (Complex interaction)	Activation			
+GPC1	CAV1	->	PPrel: activated, indirect effect (Swapped)	Activation			
+GPC1	LAMA1	->	complex; input (Complex interaction)	Activation			
+GPC1	PRNP	->	complex; input (Complex interaction)	Activation			
+GPC1	PSG1	->	complex; input (Complex interaction)	Activation			
+GPC1	VEGFA	->	complex; input (Complex interaction)	Activation			
+GPR37	PSAP	->	complex; input (Complex interaction)	Activation			
+GPSM3	ADORA1	-|	inhibited by (Target inhibits Source)	Inhibition			
+GPSM3	ANXA1	-|	inhibited by (Target inhibits Source)	Inhibition			
+GPSM3	C3AR1	-|	inhibited by (Target inhibits Source)	Inhibition			
+GPSM3	CCR1	-|	inhibited by (Target inhibits Source)	Inhibition			
+GPSM3	CXCL16	-|	inhibited by (Target inhibits Source)	Inhibition			
+GPSM3	CXCR4	-|	inhibited by (Target inhibits Source)	Inhibition			
+GPSM3	GPER1	-|	inhibited by (Target inhibits Source)	Inhibition			
+GPSM3	GPR17	-|	inhibited by (Target inhibits Source)	Inhibition			
+GPSM3	GPR37	-|	inhibited by (Target inhibits Source)	Inhibition			
+GPSM3	HCAR1	-|	inhibite	Inhibition			
+GPSM3	HTR1D	-|	inhibite	Inhibition			
+GPSM3	LPAR1	-|	inhibite	Inhibition			
+GPSM3	LPAR2	-|	inhibite	Inhibition			
+GPSM3	LPAR5	-|	inhibite	Inhibition			
+GPSM3	NPY1R	-|	inhibite	Inhibition			
+GPSM3	PSAP	-|	inhibite	Inhibition			
+GPSM3	S1PR2	-|	inhibite	Inhibition			
+GPSM3	SAA1	-|	inhibite	Inhibition			
+GPSM3	SSTR1	-|	inhibite	Inhibition			
+GPSM3	SSTR2	-|	inhibite	Inhibition			
+GPSM3	TAS2R1	-|	inhibite	Inhibition			
+GRB14	SGK1	->	activate	Activation			
+GRB7	KITLG	->	complex; input (Complex interaction)	Activation			
+GRB7	NRG2	->	complex; input (Complex interaction)	Activation			
+GRB7	PDGFA	->	complex; input (Complex interaction)	Activation			
+GRB7	PDGFB	->	complex; input (Complex interaction)	Activation			
+GRIK4	GRIN2A	->	complex (Complex interaction)	Activation			
+GRIK4	RHOJ	->	catalyze	Activation			
+GRIN2A	PDLIM5	->	complex; input (Complex interaction)	Activation			
+GRIN2A	RHOJ	->	catalyze	Activation			
+GRIN2A	SIPA1L1	->	complex; input (Complex interaction)	Activation			
+GRIP1	MEF2C	->	activate; reaction	Activation			
+GRIP1	NFATC1	->	reaction (Complex interaction)	Activation			
+GRIP1	NR3C1	->	activate	Activation			
+GSN	BID	-|	activate; inhibited by (Target inhibits Source)	Inhibition			
+GSN	MPP1	->	complex (Complex interaction)	Activation			
+GSN	MSN	->	complex (Complex interaction)	Activation			
+GSN	MYO7A	->	complex (Complex interaction)	Activation			
+HEY1	ACTA2	-|			Repression	-|	1.0
+HEY1	BMP2	-|			Repression	-|	1.0
+HEY1	CEACAM1	->	expression regulated by (Swapped)	Activation			
+HEY1	GATA4	-|			Repression	-|	1.0
+HEY1	GATA6	-|			Repression	-|	1.0
+HEY1	KDR	-|			Repression	-|	1.0
+HEY1	MYC	->	GErel: expression	Activation			
+HEY1	OCLN	->			Activation	->	1.0
+HEY1	PROX1	-|			Repression	-|	1.0
+HEY1	ZNF175	->	expression regulates	Activation			
+HHIP	IHH	-|	PPrel: inhibition; complex; input	Inhibition			
+HIP1	HIP1R	->	complex; input (Complex interaction)	Activation			
+HIP1	IGF2R	->	complex; input (Complex interaction)	Activation			
+HIP1	ITSN1	->	complex; input (Complex interaction)	Activation			
+HIP1	KIAA0319	->	complex; input (Complex interaction)	Activation			
+HIP1	REPS2	->	complex; input (Complex interaction)	Activation			
+HIP1	SCARB2	->	complex; input (Complex interaction)	Activation			
+HIP1	SH3KBP1	->	complex; input (Complex interaction)	Activation			
+HIP1	STAM	->	complex; input (Complex interaction)	Activation			
+HIP1	SYNJ1	->	complex; input (Complex interaction)	Activation			
+HIP1	SYNJ2	->	complex; input (Complex interaction)	Activation			
+HIP1	SYT2	->	complex; input (Complex interaction)	Activation			
+HIP1	TGFA	->	complex; input (Complex interaction)	Activation			
+HIP1R	IGF2R	->	complex; input (Complex interaction)	Activation			
+HIP1R	ITSN1	->	complex; input (Complex interaction)	Activation			
+HIP1R	KIAA0319	->	complex; input (Complex interaction)	Activation			
+HIP1R	REPS2	->	complex; input (Complex interaction)	Activation			
+HIP1R	SCARB2	->	complex; input (Complex interaction)	Activation			
+HIP1R	SH3KBP1	->	complex; input (Complex interaction)	Activation			
+HIP1R	STAM	->	complex; input (Complex interaction)	Activation			
+HIP1R	SYNJ1	->	complex; input (Complex interaction)	Activation			
+HIP1R	SYNJ2	->	complex; input (Complex interaction)	Activation			
+HIP1R	SYT2	->	complex; input (Complex interaction)	Activation			
+HIP1R	TGFA	->	complex; input (Complex interaction)	Activation			
+HIPK2	CDKN1A	->			Activation	->	1.0
+HIPK2	HIF1A	-|			Repression	-|	1.0
+HIPK2	MEF2C	-|			Repression	-|	1.0
+HIPK2	NOX1	-|			Repression	-|	1.0
+HIPK2	VEGFA	-|			Repression	-|	1.0
+HIPK2	VIM	-|			Repression	-|	1.0
+HLA-A	HLA-B	->	input (Input/Compound interaction)	Activation			
+HLA-A	HLA-F	->	input (Input/Compound interaction)	Activation			
+HLA-A	HLA-G	->	input (Input/Compound interaction)	Activation			
+HLA-A	JUN	->	activate	Activation			
+HLA-A	LNPEP	->	complex (Complex interaction)	Activation			
+HLA-A	PAG1	->	activate	Activation			
+HLA-A	PTPN6	->	activate	Activation			
+HLA-A	TAP1	->	complex; input (Complex interaction)	Activation			
+HLA-B	HLA-F	->	input (Input/Compound interaction)	Activation			
+HLA-B	HLA-G	->	input (Input/Compound interaction)	Activation			
+HLA-B	LNPEP	->	complex (Complex interaction)	Activation			
+HLA-B	TAP1	->	complex; input (Complex interaction)	Activation			
+HLA-DMA	HLA-DMB	->	complex (Complex interaction)	Activation			
+HLA-DMA	HLA-DOA	->	complex (Complex interaction)	Activation			
+HLA-DMA	HLA-DPA1	->	complex; input (Complex interaction)	Activation			
+HLA-DMA	HLA-DPB1	->	complex; input (Complex interaction)	Activation			
+HLA-DMA	HLA-DRA	->	complex; input (Complex interaction)	Activation			
+HLA-DMA	HLA-DRB1	->	complex; input (Complex interaction)	Activation			
+HLA-DMA	HLA-DRB5	->	complex; input (Complex interaction)	Activation			
+HLA-DMB	CD74	->	PPrel: activated by; PPrel: binding/association; input (Swapped)	Activation			
+HLA-DMB	HLA-DOA	->	complex (Complex interaction)	Activation			
+HLA-DMB	HLA-DPA1	->	complex; input (Complex interaction)	Activation			
+HLA-DMB	HLA-DPB1	->	complex; input (Complex interaction)	Activation			
+HLA-DMB	HLA-DRA	->	complex; input (Complex interaction)	Activation			
+HLA-DMB	HLA-DRB1	->	complex; input (Complex interaction)	Activation			
+HLA-DMB	HLA-DRB5	->	complex; input (Complex interaction)	Activation			
+HLA-DOA	CD74	->	PPrel: activated by; PPrel: binding/association; input (Swapped)	Activation			
+HLA-DOA	HLA-DPA1	->	complex; input (Complex interaction)	Activation			
+HLA-DOA	HLA-DPB1	->	complex; input (Complex interaction)	Activation			
+HLA-DOA	HLA-DRA	->	complex; input (Complex interaction)	Activation			
+HLA-DOA	HLA-DRB1	->	complex; input (Complex interaction)	Activation			
+HLA-DOA	HLA-DRB5	->	complex; input (Complex interaction)	Activation			
+HLA-DPA1	CD74	->	PPrel: activated by; PPrel: binding/association; complex; input (Swapped)	Activation			
+HLA-DPA1	HLA-DPB1	->	catalyze; catalyzed by; complex; input (Bidirectional Activation)	Activation			
+HLA-DPA1	HLA-DRA	->	catalyze; catalyzed by; input (Bidirectional Activation)	Activation			
+HLA-DPA1	HLA-DRB1	->	catalyze; catalyzed by; complex; input (Bidirectional Activation)	Activation			
+HLA-DPA1	HLA-DRB5	->	catalyze; catalyzed by; complex; input (Bidirectional Activation)	Activation			
+HLA-DPA1	KIF3A	->	input (Input/Compound interaction)	Activation			
+HLA-DPA1	PLCG1	->	catalyze	Activation			
+HLA-DPB1	CD74	->	PPrel: activated by; PPrel: binding/association; complex; input (Swapped)	Activation			
+HLA-DPB1	HLA-DPA1	->	catalyze; catalyzed by; complex; input (Bidirectional Activation)	Activation			
+HLA-DPB1	HLA-DRA	->	catalyze; catalyzed by; complex; input (Bidirectional Activation)	Activation			
+HLA-DPB1	HLA-DRB1	->	catalyze; catalyzed by; input (Bidirectional Activation)	Activation			
+HLA-DPB1	HLA-DRB5	->	catalyze; catalyzed by; input (Bidirectional Activation)	Activation			
+HLA-DPB1	KIF3A	->	input (Input/Compound interaction)	Activation			
+HLA-DPB1	PLCG1	->	catalyze	Activation			
+HLA-DRA	CBL	->	activated by; complex; input (Swapped)	Activation			
+HLA-DRA	CD74	->	PPrel: activated by; PPrel: binding/association; complex; input (Swapped)	Activation			
+HLA-DRA	HLA-DPA1	->	catalyze; catalyzed by; input (Bidirectional Activation)	Activation			
+HLA-DRA	HLA-DPB1	->	catalyze; catalyzed by; complex; input (Bidirectional Activation)	Activation			
+HLA-DRA	HLA-DRB1	->	catalyze; catalyzed by; complex; input (Bidirectional Activation)	Activation			
+HLA-DRA	HLA-DRB5	->	catalyze; catalyzed by; complex; input (Bidirectional Activation)	Activation			
+HLA-DRA	KIF3A	->	input (Input/Compound interaction)	Activation			
+HLA-DRA	PAG1	->	activate; catalyzed by (Bidirectional Activation)	Activation			
+HLA-DRA	PLCG1	->	catalyze	Activation			
+HLA-DRA	PTPN6	->	activate; activated by; catalyzed by (Bidirectional Activation)	Activation			
+HLA-DRA	STAT4	->	reaction (Complex interaction)	Activation			
+HLA-DRB1	CBL	->	activated by; complex; input (Swapped)	Activation			
+HLA-DRB1	CD74	->	PPrel: activated by; PPrel: binding/association; complex; input (Swapped)	Activation			
+HLA-DRB1	HLA-DPA1	->	catalyze; catalyzed by; complex; input (Bidirectional Activation)	Activation			
+HLA-DRB1	HLA-DPB1	->	catalyze; catalyzed by; input (Bidirectional Activation)	Activation			
+HLA-DRB1	HLA-DRA	->	catalyze; catalyzed by; complex; input (Bidirectional Activation)	Activation			
+HLA-DRB1	HLA-DRB5	->	catalyze; catalyzed by; input (Bidirectional Activation)	Activation			
+HLA-DRB1	KIF3A	->	input (Input/Compound interaction)	Activation			
+HLA-DRB1	PAG1	->	activate; catalyzed by (Bidirectional Activation)	Activation			
+HLA-DRB1	PLCG1	->	catalyze	Activation			
+HLA-DRB1	PTPN6	->	activate; activated by; catalyzed by (Bidirectional Activation)	Activation			
+HLA-DRB1	STAT4	->	reaction (Complex interaction)	Activation			
+HLA-DRB5	CD74	->	PPrel: activated by; PPrel: binding/association; complex; input (Swapped)	Activation			
+HLA-DRB5	HLA-DPA1	->	catalyze; catalyzed by; complex; input (Bidirectional Activation)	Activation			
+HLA-DRB5	HLA-DPB1	->	catalyze; catalyzed by; input (Bidirectional Activation)	Activation			
+HLA-DRB5	HLA-DRA	->	catalyze; catalyzed by; complex; input (Bidirectional Activation)	Activation			
+HLA-DRB5	HLA-DRB1	->	catalyze; catalyzed by; input (Bidirectional Activation)	Activation			
+HLA-DRB5	KIF3A	->	input (Input/Compound interaction)	Activation			
+HLA-DRB5	PLCG1	->	catalyze	Activation			
+HLA-F	HLA-G	->	input (Input/Compound interaction)	Activation			
+HLA-F	LNPEP	->	complex (Complex interaction)	Activation			
+HLA-F	TAP1	->	complex; input (Complex interaction)	Activation			
+HLA-G	LNPEP	->	complex (Complex interaction)	Activation			
+HLA-G	TAP1	->	complex; input (Complex interaction)	Activation			
+HMGA1	BRCA1	-|			Repression	-|	1.0
+HMGA1	CD44	->			Activation	->	1.0
+HMGA1	CDC25A	->			Activation	->	1.0
+HMGA1	CDH1	-|			Repression	-|	1.0
+HMGA1	HMGA2	->	complex; input (Complex interaction)	Activation			
+HMGA1	INSR	->			Activation	->	1.0
+HMGA1	KL	->			Activation	->	1.0
+HMGA1	NUP210	->	complex; input (Complex interaction)	Activation			
+HMGA1	POU1F1	->			Activation	->	1.0
+HMGA1	PTGS2	->			Activation	->	1.0
+HMGA1	SLC2A3	->			Activation	->	1.0
+HMGA1	TWIST1	->			Activation	->	1.0
+HMGA1	XPA	-|			Repression	-|	1.0
+HMGA2	CDH1	->			Activation	->	1.0
+HMGA2	COL11A2	->			Activation	->	1.0
+HMGA2	POU1F1	->			Activation	->	1.0
+HMGB2	GFI1B	->			Activation	->	1.0
+HMGB2	TNF	->			Activation	->	1.0
+HS3ST5	AGRN	->	catalyzed by (Swapped)	Activation			
+HS3ST5	GPC1	->	catalyzed by (Swapped)	Activation			
+HS3ST5	GPC6	->	catalyzed by (Swapped)	Activation			
+HS3ST5	HSPG2	->	catalyze	Activation			
+HS3ST5	SDC2	->	catalyze	Activation			
+HS3ST5	SDC3	->	catalyze	Activation			
+HSPG2	DAG1	->	PPrel: activated by; complex; input (Swapped)	Activation			
+HSPG2	ITGA2	->	PPrel: activation; complex; input	Activation			
+HSPG2	KDR	->	complex; input (Complex interaction)	Activation			
+HSPG2	LAMA1	->	complex; input (Complex interaction)	Activation			
+HSPG2	LAMA3	->	complex; input (Complex interaction)	Activation			
+HSPG2	LAMA5	->	complex; input (Complex interaction)	Activation			
+HSPG2	LAMB2	->	complex; input (Complex interaction)	Activation			
+HSPG2	LAMC2	->	complex; input (Complex interaction)	Activation			
+HSPG2	NID2	->	complex; input (Complex interaction)	Activation			
+HSPG2	PDGFA	->	complex; input (Complex interaction)	Activation			
+HSPG2	PDGFB	->	complex; input (Complex interaction)	Activation			
+HSPG2	VEGFA	->	PPrel: activation	Activation			
+IBTK	SH3BP5	->	reaction (Complex interaction)	Activation			
+ICAM1	MSN	->	PPrel: binding/association (Binding/Association)	Activation			
+ICAM1	PLCG1	->	PPrel: activation	Activation			
+ID1	ZNF148	-|			Repression	-|	1.0
+IFNAR2	JAK1	->	PPrel: activation; PPrel: binding/association; catalyze; catalyzed by; complex; input (Bidirectional Activation)	Activation			
+IFNAR2	JUN	->	reaction (Complex interaction)	Activation			
+IFNAR2	NFATC1	->	reaction (Complex interaction)	Activation			
+IFNAR2	PDGFA	->	PPrel (Input/Compound interaction)	Activation			
+IFNAR2	PDGFB	->	PPrel (Input/Compound interaction)	Activation			
+IFNAR2	SOCS3	->	complex; input; reaction (Complex interaction)	Activation			
+IFNAR2	USP18	->	complex; input (Complex interaction)	Activation			
+IFNGR2	JAK1	->	PPrel: activation; PPrel: binding/association; catalyze; catalyzed by; complex; input (Bidirectional Activation)	Activation			
+IFNGR2	MARCKSL1	->	GErel: expression, indirect effect	Activation			
+IFNGR2	PDGFA	->	PPrel (Input/Compound interaction)	Activation			
+IFNGR2	PDGFB	->	PPrel (Input/Compound interaction)	Activation			
+IFNGR2	SOCS3	->	complex; input; reaction (Complex interaction)	Activation			
+IFNLR1	JAK1	->	PPrel: binding/association; complex; input (Binding/Association)	Activation			
+IFNLR1	PDGFA	->	PPrel (Input/Compound interaction)	Activation			
+IFNLR1	PDGFB	->	PPrel (Input/Compound interaction)	Activation			
+IFNLR1	STAT4	->	complex; input (Complex interaction)	Activation			
+IFT27	IFT43	->	complex; input (Complex interaction)	Activation			
+IFT27	KIF3A	->	complex; input (Complex interaction)	Activation			
+IFT43	KIF3A	->	complex; input (Complex interaction)	Activation			
+IGF2R	IRS1	->	catalyze	Activation			
+IGF2R	ITSN1	->	complex; input (Complex interaction)	Activation			
+IGF2R	RHOBTB3	->	complex; input (Complex interaction)	Activation			
+IGF2R	SYNJ1	->	complex; input (Complex interaction)	Activation			
+IGF2R	SYNJ2	->	complex; input (Complex interaction)	Activation			
+IHH	CDON	->	PPrel: activated by (Swapped)	Activation			
+IHH	PTCH2	->	PPrel: activation; complex; input	Activation			
+IL11	EPOR	->	PPrel: activated by (Swapped)	Activation			
+IL11	IFNAR2	->	PPrel: activated by (Swapped)	Activation			
+IL11	IFNGR2	->	PPrel: activated by (Swapped)	Activation			
+IL11	IFNLR1	->	PPrel: activated by (Swapped)	Activation			
+IL11	IL6R	->	PPrel: activation	Activation			
+IL11	JAK1	->	complex; input (Complex interaction)	Activation			
+IL11	LIFR	->	PPrel: activation	Activation			
+IL1A	IL1RAP	->	PPrel: activation; complex; input	Activation			
+IL1B	IL1RAP	->	PPrel: activation; complex; input	Activation			
+IL1B	SQSTM1	-|	inhibit	Inhibition			
+IL1RAP	ERBB3	->	activated by (Swapped)	Activation			
+IL1RAP	ERBB4	->	activated by (Swapped)	Activation			
+IL1RAP	EREG	->	activated by (Swapped)	Activation			
+IL1RAP	FGF20	->	activated by (Swapped)	Activation			
+IL1RAP	FGF5	->	activated by (Swapped)	Activation			
+IL1RAP	FGFR2	->	activated by (Swapped)	Activation			
+IL1RAP	IRS1	->	activate	Activation			
+IL1RAP	KITLG	->	activate	Activation			
+IL1RAP	KL	->	activate	Activation			
+IL1RAP	MAPK13	->	PPrel: activation, indirect effect	Activation			
+IL1RAP	NRG2	->	activate	Activation			
+IL1RAP	PDGFA	->	activate	Activation			
+IL1RAP	PDGFB	->	activate	Activation			
+IL1RAP	PIK3AP1	->	activate	Activation			
+IL1RAP	TGFA	->	activate	Activation			
+IL6	EPOR	->	PPrel: activated by (Swapped)	Activation			
+IL6	FOXO1	->	activated by (Swapped)	Activation			
+IL6	IFNAR2	->	PPrel: activated by (Swapped)	Activation			
+IL6	IFNGR2	->	PPrel: activated by (Swapped)	Activation			
+IL6	IFNLR1	->	PPrel: activated by (Swapped)	Activation			
+IL6	IL6R	->	PPrel: activation; catalyze; catalyzed by; complex; inhibited by; input; reaction	Activation			
+IL6	LIFR	->	PPrel: activation	Activation			
+IL6	SOCS3	->	activate; complex; input; reaction	Activation			
+IL6R	FOXO1	->	activated by (Swapped)	Activation			
+IL6R	PDGFA	->	PPrel (Input/Compound interaction)	Activation			
+IL6R	PDGFB	->	PPrel (Input/Compound interaction)	Activation			
+IL6R	PLCG1	->	PPrel: activation	Activation			
+IL6R	SHC3	->	PPrel: activation	Activation			
+IL6R	SOCS3	->	GErel: expression, indirect effect; activate; complex; input; reaction	Activation			
+INHBA	ACVR1C	->	PPrel: activated by; complex; input (Swapped)	Activation			
+INHBA	INHBB	->	complex; reaction (Input/Compound interaction)	Activation			
+INHBA	SMAD3	->	catalyze	Activation			
+INHBA	TGFB2	-|	PPrel: inhibition	Inhibition			
+INHBA	TGFB3	-|	PPrel: inhibition	Inhibition			
+INHBB	ACVR1C	->	PPrel; PPrel: activated by; complex; input (Swapped)	Activation			
+INHBB	BMPR1B	->	PPrel: activated by (Swapped)	Activation			
+INHBB	SMAD3	->	catalyze	Activation			
+INHBB	TGFB2	-|	PPrel: inhibition	Inhibition			
+INHBB	TGFB3	-|	PPrel: inhibition	Inhibition			
+INO80C	CUL4B	->	activated by (Swapped)	Activation			
+IRF5	IFNA1	->			Activation	->	1.0
+IRF5	IL1B	->	GErel: expression by (Swapped)	Activation			
+IRF5	IL6	->	GErel: expression by (Swapped)	Activation			
+IRF5	PDLIM7	-|			Repression	-|	1.0
+IRS1	CAV1	->	activated by (Swapped)	Activation			
+IRS1	CBL	->	activated by (Swapped)	Activation			
+IRS1	JAK1	->	complex; input (Complex interaction)	Activation			
+IRS1	MDK	->	complex; input (Complex interaction)	Activation			
+IRS1	NCK2	->	complex; input (Complex interaction)	Activation			
+IRS1	NGF	->	complex; input (Complex interaction)	Activation			
+IRS1	PTN	->	complex; input (Complex interaction)	Activation			
+ITGA2	ITGB3	->	complex (Complex interaction)	Activation			
+ITGA2	ITGB8	->	complex (Complex interaction)	Activation			
+ITGA2	ITGBL1	->	complex (Complex interaction)	Activation			
+ITGA2	LUM	->	complex; input (Complex interaction)	Activation			
+ITGA2	PTPN6	->	PPrel: activation	Activation			
+ITGA2	SDC2	->	complex; input (Complex interaction)	Activation			
+ITGA6	ITGB3	->	complex (Complex interaction)	Activation			
+ITGA6	ITGB8	->	complex (Complex interaction)	Activation			
+ITGA6	ITGBL1	->	complex (Complex interaction)	Activation			
+ITGA6	MDK	->	complex; input (Complex interaction)	Activation			
+ITGB3	IRS1	->	activated by (Swapped)	Activation			
+ITGB3	KDR	->	PPrel: activated, indirect effect; catalyze; catalyzed by; complex; input (Bidirectional Activation)	Activation			
+ITGB3	L1CAM	->	complex; input (Complex interaction)	Activation			
+ITGB3	PDGFB	->	complex; input (Complex interaction)	Activation			
+ITGB3	PLAU	->	complex; input (Complex interaction)	Activation			
+ITGB3	PLCD4	->	PPrel: activation, indirect effect	Activation			
+ITGB3	PLCE1	->	PPrel: activation, indirect effect	Activation			
+ITGB3	PLCG1	->	PPrel: activation, indirect effect	Activation			
+ITGB3	PRKCG	->	PPrel: binding/association (Binding/Association)	Activation			
+ITGB3	PTK2B	->	activate; complex; input	Activation			
+ITGB3	PVR	->	complex; input (Complex interaction)	Activation			
+ITGB3	SERPINE1	->	complex; input (Complex interaction)	Activation			
+ITGB3	TGFB3	->	complex; input (Complex interaction)	Activation			
+ITGB3	VEGFA	->	catalyze; catalyzed by; complex; input (Bidirectional Activation)	Activation			
+ITGB8	PRKCG	->	PPrel: binding/association (Binding/Association)	Activation			
+ITGB8	TGFB3	->	complex; input (Complex interaction)	Activation			
+ITGBL1	LAMA1	->	complex; input (Complex interaction)	Activation			
+ITGBL1	LAMA3	->	complex; input (Complex interaction)	Activation			
+ITGBL1	LAMA5	->	complex; input (Complex interaction)	Activation			
+ITGBL1	LAMB2	->	complex; input (Complex interaction)	Activation			
+ITGBL1	LAMC2	->	complex; input (Complex interaction)	Activation			
+ITSN1	CBL	->	activated by; complex; input (Swapped)	Activation			
+ITSN1	KIAA0319	->	complex; input (Complex interaction)	Activation			
+ITSN1	REPS2	->	complex; input (Complex interaction)	Activation			
+ITSN1	RHOB	->	catalyze	Activation			
+ITSN1	SCARB2	->	complex; input (Complex interaction)	Activation			
+ITSN1	SH3KBP1	->	complex; input (Complex interaction)	Activation			
+ITSN1	STAM	->	complex; input (Complex interaction)	Activation			
+ITSN1	SYNJ1	->	complex; input (Complex interaction)	Activation			
+ITSN1	SYNJ2	->	complex; input (Complex interaction)	Activation			
+ITSN1	SYT2	->	complex; input (Complex interaction)	Activation			
+ITSN1	TGFA	->	complex; input (Complex interaction)	Activation			
+JAK1	CAMK2D	->	activated by; catalyze (Bidirectional Activation)	Activation			
+JAK1	CBL	->	activated by; complex; input (Swapped)	Activation			
+JAK1	CSF3	->	PPrel: activation; catalyze; catalyzed by; complex; input (Bidirectional Activation)	Activation			
+JAK1	FOXO1	->	activated by (Swapped)	Activation			
+JAK1	IFNAR2	->	PPrel: activation; PPrel: binding/association; catalyze; catalyzed by; complex; input (Bidirectional Activation)	Activation			
+JAK1	IFNGR2	->	PPrel: activation; PPrel: binding/association; catalyze; catalyzed by; complex; input (Bidirectional Activation)	Activation			
+JAK1	IL6	->	PPrel: activation; catalyze; catalyzed by; complex; inhibit; input; reaction (Swapped)	Activation			
+JAK1	IL6R	->	PPrel: activation; PPrel: binding/association; catalyze; catalyzed by; complex; inhibit; input; reaction (Swapped)	Activation			
+JAK1	LIF	->	complex; input (Complex interaction)	Activation			
+JAK1	PTK2B	->	complex; input (Complex interaction)	Activation			
+JAK1	PTPN6	->	PPrel: inhibited by, dephosphorylation; activate; catalyzed by; complex; inhibited by; input; reaction	Activation			
+JAK1	SMPD1	->	activate	Activation			
+JAK1	SOCS3	->	PPrel: binding/association; PPrel: inhibited by; activate; complex; input; reaction (Source activates Target)	Activation			
+JAK1	STAT4	->	PPrel: activation; PPrel: activation, phosphorylation; complex; input	Activation			
+JDP2	ATF3	-|			Repression	-|	1.0
+JDP2	DDIT3	-|			Repression	-|	1.0
+JUN	ABCA1	->	expression regulated by (Swapped)	Activation			
+JUN	ABCB1	->			Activation	->	1.0
+JUN	ABL1	->	expression regulated by (Swapped)	Activation			
+JUN	AFAP1L2	->	expression regulated by (Swapped)	Activation			
+JUN	APOC3	->			Activation	->	1.0
+JUN	AR	-|			Repression	-|	1.0
+JUN	ARHGAP24	->	expression regulated by (Swapped)	Activation			
+JUN	ATF3	->			Activation	->	1.0
+JUN	ATP8B1	->	expression regulated by (Swapped)	Activation			
+JUN	BATF3	->	activated by; complex; input (Swapped)	Activation			
+JUN	BCHE	->	expression regulated by (Swapped)	Activation			
+JUN	BCL2L11	->	GErel: expression by (Swapped)	Activation			
+JUN	BECN1	->			Activation	->	1.0
+JUN	BEX2	->			Activation	->	1.0
+JUN	BRCA1	->			Activation	->	1.0
+JUN	CALCR	->	GErel: expression by (Swapped)	Activation			
+JUN	CBX5	->	expression regulated by (Swapped)	Activation			
+JUN	CCK	->			Activation	->	1.0
+JUN	CCL2	->			Activation	->	1.0
+JUN	CCND1	-|			Repression	-|	1.0
+JUN	CCND3	->	GErel: expression by (Swapped)	Activation			
+JUN	CD274	->	GErel: expression by (Swapped)	Activation			
+JUN	CD40	->	GErel: expression by (Swapped)	Activation			
+JUN	CD44	->	GErel: expression by (Swapped)	Activation			
+JUN	CD82	->			Activation	->	1.0
+JUN	CDKN1A	-|			Repression	-|	1.0
+JUN	CITED2	-|	activate; inhibited by (Target inhibits Source)	Inhibition			
+JUN	CLU	->	expression regulated by (Swapped)	Activation			
+JUN	CNTN1	->	expression regulated by (Swapped)	Activation			
+JUN	CREM	->			Activation	->	1.0
+JUN	CSF1	->			Activation	->	1.0
+JUN	CSPG4	->	expression regulated by (Swapped)	Activation			
+JUN	CTGF	-|			Repression	-|	1.0
+JUN	CTSL	->			Activation	->	1.0
+JUN	CXCL8	->			Activation	->	1.0
+JUN	CXCR4	->	expression regulated by (Swapped)	Activation			
+JUN	CYP11A1	->	expression regulated by (Swapped)	Activation			
+JUN	CYP19A1	-|			Repression	-|	1.0
+JUN	DAB2	->	expression regulated by (Swapped)	Activation			
+JUN	DCN	-|			Repression	-|	1.0
+JUN	DDAH1	->	expression regulated by (Swapped)	Activation			
+JUN	DDIT3	->			Activation	->	1.0
+JUN	DKK1	->	expression regulated by (Swapped)	Activation			
+JUN	DMD	->	expression regulated by (Swapped)	Activation			
+JUN	DPYSL3	->	expression regulated by (Swapped)	Activation			
+JUN	EDN1	->	GErel: expression by; expression regulated by (Swapped)	Activation			
+JUN	EGFR	->			Activation	->	1.0
+JUN	EGR1	-|	activate; expression regulates; inhibited by (Target inhibits Source)	Inhibition			
+JUN	ENTPD3	->	GErel: expression by (Swapped)	Activation			
+JUN	ERBB3	->	expression regulated by (Swapped)	Activation			
+JUN	ETS1	->			Activation	->	1.0
+JUN	ETV4	->	expression regulated by (Swapped)	Activation			
+JUN	EZR	->			Activation	->	1.0
+JUN	FAS	->			Activation	->	1.0
+JUN	FN1	->	expression regulated by (Swapped)	Activation			
+JUN	FOSL1	->			Activation	->	1.0
+JUN	FOXA2	->	expression regulated by (Swapped)	Activation			
+JUN	GATA3	->	GErel: expression by; complex; input; reaction (Swapped)	Activation			
+JUN	GJA1	->			Activation	->	1.0
+JUN	HEY1	->			Activation	->	1.0
+JUN	ICAM1	->	GErel: expression by; expression regulated by (Swapped)	Activation			
+JUN	ID1	->	expression regulated by (Swapped)	Activation			
+JUN	IFNG	->			Activation	->	1.0
+JUN	IL12B	->			Activation	->	1.0
+JUN	IL1A	->	GErel: expression by (Swapped)	Activation			
+JUN	IL1B	->	GErel: expression by; PPrel: activated by (Swapped)	Activation			
+JUN	IL2	-|			Repression	-|	1.0
+JUN	IL3	->			Activation	->	1.0
+JUN	IL6	->	GErel: expression by; PPrel: activated by (Swapped)	Activation	Activation	->	1.0
+JUN	ITGB3	->	GErel: expression by (Swapped)	Activation			
+JUN	JUN	->			Activation	->	1.0
+JUN	KRT16	->	expression regulates	Activation	Activation	->	1.0
+JUN	LBP	-|			Repression	-|	1.0
+JUN	LDHA	->			Activation	->	1.0
+JUN	LGALS3	->			Activation	->	1.0
+JUN	LMO2	->	expression regulates	Activation			
+JUN	LOR	->			Activation	->	1.0
+JUN	LOX	->	expression regulates	Activation			
+JUN	LPAR1	->	activated by; expression regulates (Bidirectional Activation)	Activation			
+JUN	MAPK8	->			Activation	->	1.0
+JUN	MAT2A	->	expression regulates	Activation	Activation	->	1.0
+JUN	MECOM	->	reaction (Complex interaction)	Activation			
+JUN	MEF2C	->	reaction (Complex interaction)	Activation			
+JUN	MEF2D	->			Activation	->	1.0
+JUN	MGP	->	expression regulates	Activation			
+JUN	MMP1	->			Activation	->	1.0
+JUN	MMP12	->	expression regulates	Activation			
+JUN	MMP13	->			Activation	->	1.0
+JUN	MMP2	->			Activation	->	1.0
+JUN	MMP3	->	expression regulates	Activation	Activation	->	1.0
+JUN	MMP7	->			Activation	->	1.0
+JUN	MMP9	-|			Repression	-|	1.0
+JUN	MSR1	->			Activation	->	1.0
+JUN	MT1A	->	expression regulates	Activation			
+JUN	MYC	->	GErel: expression; expression regulates	Activation	Repression	-|	1.0
+JUN	NAMPT	->			Activation	->	1.0
+JUN	NEFL	->			Activation	->	1.0
+JUN	NEIL1	->			Activation	->	1.0
+JUN	NEK6	->	expression regulates	Activation			
+JUN	NFATC1	->	GErel: expression; complex; inhibited by; input; reaction (Source activates Target)	Activation			
+JUN	NGF	->	expression regulates	Activation			
+JUN	NNMT	->	expression regulates	Activation			
+JUN	NOS2	->			Activation	->	1.0
+JUN	NOX5	->			Activation	->	1.0
+JUN	NR2F1	-|	activated by; inhibite (Source inhibits Target)	Inhibition			
+JUN	NR3C1	->	activate; complex; inhibited by; input; reaction (Source activates Target)	Activation			
+JUN	PDE5A	->	expression regulates	Activation			
+JUN	PDGFA	->	GErel: expression	Activation			
+JUN	PDGFB	->	GErel: expression	Activation			
+JUN	PGF	->	GErel: expression	Activation			
+JUN	PGR	-|			Repression	-|	1.0
+JUN	PLAT	->	expression regulates	Activation	Activation	->	1.0
+JUN	PLAUR	->			Activation	->	1.0
+JUN	PPARD	->			Activation	->	1.0
+JUN	PPARGC1A	-|	activated by; inhibit (Source inhibits Target)	Inhibition			
+JUN	PTGS2	->			Activation	->	1.0
+JUN	PTN	->			Activation	->	1.0
+JUN	PTPRB	->	expression regulates	Activation			
+JUN	RARA	-|			Repression	-|	1.0
+JUN	RARB	->			Activation	->	1.0
+JUN	RARG	-|			Repression	-|	1.0
+JUN	RHOB	->			Activation	->	1.0
+JUN	RNF128	->	activate; inhibited by (Source activates Target)	Activation			
+JUN	SEMA3A	->	expression regulates	Activation			
+JUN	SERPINE1	->	GErel: expression; expression regulates	Activation			
+JUN	SFRP1	->	expression regulates	Activation			
+JUN	SLC40A1	->	expression regulates	Activation			
+JUN	SLC7A11	->	expression regulates	Activation			
+JUN	SMAD7	->			Activation	->	1.0
+JUN	SMN1	-|			Repression	-|	1.0
+JUN	SNAI2	->	reaction (Complex interaction)	Activation			
+JUN	SOX7	->			Activation	->	1.0
+JUN	SPI1	->			Activation	->	1.0
+JUN	SPRR1B	->			Activation	->	1.0
+JUN	STAT4	->	activate; complex; inhibited by; input; reaction (Source activates Target)	Activation			
+JUN	STMN1	->			Activation	->	1.0
+JUN	TERT	-|			Repression	-|	1.0
+JUN	TFPI2	->	expression regulates	Activation			
+JUN	TLR4	->	PCrel: activated, indirect effect; expression regulates (Bidirectional Activation)	Activation			
+JUN	TNC	->			Activation	->	1.0
+JUN	TNF	->			Activation	->	1.0
+JUN	TNFAIP3	->	GErel: expression; expression regulates	Activation			
+JUN	TNFRSF1A	->	expression regulates	Activation			
+JUN	TNFRSF1B	->			Activation	->	1.0
+JUN	TOX2	->	expression regulates	Activation			
+JUN	TP53	-|			Repression	-|	1.0
+JUN	UGT2B15	->			Activation	->	1.0
+JUN	VCAM1	->			Activation	->	1.0
+JUN	VDR	->			Activation	->	1.0
+JUN	VEGFA	->	GErel: expression; expression regulates	Activation	Repression	-|	1.0
+JUN	ZEB1	->	expression regulates	Activation			
+JUN	ZSCAN31	->	expression regulates	Activation			
+JUP	LEF1	->	PPrel: activation; PPrel: binding/association	Activation			
+JUP	MYC	->	GErel: expression	Activation			
+JUP	PKP3	->	complex (Complex interaction)	Activation			
+JUP	TCF7	->	PPrel: activation; PPrel: binding/association	Activation			
+JUP	TCF7L2	->	PPrel: activation; PPrel: binding/association	Activation			
+KAZN	PPL	->	complex; input (Complex interaction)	Activation			
+KCNAB2	KCNH1	->	complex (Complex interaction)	Activation			
+KCNAB2	KCNS3	->	complex (Complex interaction)	Activation			
+KDR	CBL	-|	complex; inhibited by; input (Target inhibits Source)	Inhibition			
+KDR	IRS1	->	PPrel: activated by (Swapped)	Activation			
+KDR	ITGB3	->	PPrel: activated, indirect effect; catalyze; catalyzed by; complex; input (Bidirectional Activation)	Activation			
+KDR	JAK1	->	PPrel: activated by (Swapped)	Activation			
+KDR	MAPK13	->	catalyze	Activation			
+KDR	NCK2	->	complex; input (Complex interaction)	Activation			
+KDR	PAK2	->	complex; input (Complex interaction)	Activation			
+KDR	PECAM1	->	complex (Complex interaction)	Activation			
+KDR	PLCG1	->	PPrel: activation; activate; catalyze; complex; input	Activation			
+KDR	PTK2B	->	activate; catalyze; catalyzed by; complex; input (Bidirectional Activation)	Activation			
+KDR	SHC3	->	PPrel: activation	Activation			
+KDR	VEGFA	->	PPrel: activated by; PPrel: inhibited by; catalyze; catalyzed by; complex; inhibited by; input	Activation			
+KIAA0319	SYNJ1	->	complex; input (Complex interaction)	Activation			
+KIAA0319	SYNJ2	->	complex; input (Complex interaction)	Activation			
+KIF3A	GLI2	->	PPrel: activated by; activated by (Swapped)	Activation			
+KITLG	ERBB3	->	PPrel: activated by (Swapped)	Activation			
+KITLG	ERBB4	->	PPrel: activated by (Swapped)	Activation			
+KITLG	FGFR2	->	PPrel: activated by (Swapped)	Activation			
+KITLG	FLT1	->	PPrel: activated by (Swapped)	Activation			
+KITLG	KDR	->	PPrel: activated by (Swapped)	Activation			
+KITLG	NGFR	->	PPrel: activation	Activation			
+KITLG	NTRK2	->	PPrel: activation	Activation			
+KITLG	SNAI2	->	activate	Activation			
+KL	ATP1A3	->	PCrel: activated by (Swapped)	Activation			
+KL	ATP1B1	->	PCrel: activated by (Swapped)	Activation			
+KL	IRS1	-|	PPrel: inhibited by (Target inhibits Source)	Inhibition			
+KL	PLCG1	->	complex; input (Complex interaction)	Activation			
+KLC3	TUBA1A	->	PPrel: binding/association (Binding/Association)	Activation			
+KLC3	TUBB2A	->	PPrel: binding/association (Binding/Association)	Activation			
+KLC3	TUBB2B	->	PPrel: binding/association (Binding/Association)	Activation			
+KLF13	LDLR	-|			Repression	-|	1.0
+KLF2	CCR5	->			Activation	->	1.0
+KLF2	CDKN1A	->			Activation	->	1.0
+KLF2	CXCR4	-|			Repression	-|	1.0
+KLF2	FABP5	-|			Repression	-|	1.0
+KLF2	GSTM1	->	GErel: expression by (Swapped)	Activation			
+KLF2	GSTM2	->	GErel: expression by (Swapped)	Activation			
+KLF2	GSTM3	->	GErel: expression by (Swapped)	Activation			
+KLF2	GSTM4	->	GErel: expression by (Swapped)	Activation			
+KLF2	GSTP1	->	GErel: expression by (Swapped)	Activation			
+KLF2	MGST1	->	GErel: expression	Activation			
+KLF2	NOS3	->			Activation	->	1.0
+KLF2	PLAT	->	GErel: expression	Activation			
+KLF2	PPARG	-|			Repression	-|	1.0
+KLF2	SQSTM1	->	GErel: expression	Activation			
+KLF2	THBD	->			Activation	->	1.0
+KLF2	WEE1	-|			Repression	-|	1.0
+KRT14	KRT8	->	complex; input (Complex interaction)	Activation			
+KRT14	KRT81	->	complex; input (Complex interaction)	Activation			
+KRT14	KRT86	->	complex; input (Complex interaction)	Activation			
+KRT15	KRT8	->	complex; input (Complex interaction)	Activation			
+KRT15	KRT81	->	complex; input (Complex interaction)	Activation			
+KRT15	KRT86	->	complex; input (Complex interaction)	Activation			
+KRT16	KRT8	->	complex; input (Complex interaction)	Activation			
+KRT16	KRT81	->	complex; input (Complex interaction)	Activation			
+KRT16	KRT86	->	complex; input (Complex interaction)	Activation			
+KRT17	KRT8	->	complex; input (Complex interaction)	Activation			
+KRT17	KRT81	->	complex; input (Complex interaction)	Activation			
+KRT17	KRT86	->	complex; input (Complex interaction)	Activation			
+KRT18	KRT8	->	complex; input (Complex interaction)	Activation			
+KRT18	KRT81	->	complex; input (Complex interaction)	Activation			
+KRT18	KRT86	->	complex; input (Complex interaction)	Activation			
+KRT19	KRT8	->	complex; input (Complex interaction)	Activation			
+KRT19	KRT81	->	complex; input (Complex interaction)	Activation			
+KRT19	KRT86	->	complex; input (Complex interaction)	Activation			
+KRT32	KRT8	->	complex; input (Complex interaction)	Activation			
+KRT32	KRT81	->	complex; input (Complex interaction)	Activation			
+KRT32	KRT86	->	complex; input (Complex interaction)	Activation			
+KRT33B	KRT8	->	complex; input (Complex interaction)	Activation			
+KRT33B	KRT81	->	complex; input (Complex interaction)	Activation			
+KRT33B	KRT86	->	complex; input (Complex interaction)	Activation			
+KRT34	KRT8	->	complex; input (Complex interaction)	Activation			
+KRT34	KRT81	->	complex; input (Complex interaction)	Activation			
+KRT34	KRT86	->	complex; input (Complex interaction)	Activation			
+KRT8	KRT9	->	complex; input (Complex interaction)	Activation			
+KRT81	KRT9	->	complex; input (Complex interaction)	Activation			
+KRT86	KRT9	->	complex; input (Complex interaction)	Activation			
+KSR1	KIAA1549	-|	complex; inhibited by; input (Target inhibits Source)	Inhibition			
+L1CAM	LAMA1	->	complex; input (Complex interaction)	Activation			
+L1CAM	SPTB	->	complex; input (Complex interaction)	Activation			
+L1CAM	SPTBN5	->	complex; input (Complex interaction)	Activation			
+LAMA1	CD44	->	PPrel: activated by (Swapped)	Activation			
+LAMA1	DAG1	->	PPrel: activated by; PPrel: binding/association; complex; input (Swapped)	Activation			
+LAMA1	ITGA2	->	PPrel: activated by; complex; input (Swapped)	Activation			
+LAMA1	ITGA6	->	PPrel: activated by; PPrel: binding/association; complex; input (Swapped)	Activation			
+LAMA1	ITGB3	->	PPrel: activated by (Swapped)	Activation			
+LAMA1	ITGB8	->	PPrel: activated by; complex; input (Swapped)	Activation			
+LAMA1	LAMB2	->	complex (Complex interaction)	Activation			
+LAMA1	NID2	->	complex; input (Complex interaction)	Activation			
+LAMA1	PAK2	->	complex; input (Complex interaction)	Activation			
+LAMA1	PAK6	->	complex; input (Complex interaction)	Activation			
+LAMA1	PRNP	->	activate	Activation			
+LAMA1	SDC2	->	complex; input (Complex interaction)	Activation			
+LAMA3	CD44	->	PPrel: activated by (Swapped)	Activation			
+LAMA3	DAG1	->	PPrel: activated by; complex; input (Swapped)	Activation			
+LAMA3	ITGA2	->	PPrel: activated by; complex; input (Swapped)	Activation			
+LAMA3	ITGA6	->	PPrel: activated by; PPrel: binding/association; complex; input (Swapped)	Activation			
+LAMA3	ITGB3	->	PPrel: activated by (Swapped)	Activation			
+LAMA3	ITGB8	->	PPrel: activated by; complex; input (Swapped)	Activation			
+LAMA3	LAMB2	->	complex (Complex interaction)	Activation			
+LAMA3	LAMC2	->	complex (Complex interaction)	Activation			
+LAMA3	NID2	->	complex; input (Complex interaction)	Activation			
+LAMA3	PAK2	->	complex; input (Complex interaction)	Activation			
+LAMA3	PAK6	->	complex; input (Complex interaction)	Activation			
+LAMA3	PRNP	->	activate	Activation			
+LAMA3	SDC2	->	complex; input (Complex interaction)	Activation			
+LAMA5	CD44	->	PPrel: activated by (Swapped)	Activation			
+LAMA5	DAG1	->	PPrel: activated by; complex; input (Swapped)	Activation			
+LAMA5	ITGA2	->	PPrel: activated by; complex; input (Swapped)	Activation			
+LAMA5	ITGA6	->	PPrel: activated by; PPrel: binding/association; complex; input (Swapped)	Activation			
+LAMA5	ITGB3	->	PPrel: activated by (Swapped)	Activation			
+LAMA5	ITGB8	->	PPrel: activated by; complex; input (Swapped)	Activation			
+LAMA5	LAMB2	->	complex (Complex interaction)	Activation			
+LAMA5	LAMC2	->	complex (Complex interaction)	Activation			
+LAMA5	NID2	->	complex; input (Complex interaction)	Activation			
+LAMA5	PAK2	->	complex; input (Complex interaction)	Activation			
+LAMA5	PAK6	->	complex; input (Complex interaction)	Activation			
+LAMA5	PRNP	->	activate	Activation			
+LAMB2	CD44	->	PPrel: activated by (Swapped)	Activation			
+LAMB2	DAG1	->	PPrel: activated by (Swapped)	Activation			
+LAMB2	ITGA2	->	PPrel: activated by; complex; input (Swapped)	Activation			
+LAMB2	ITGA6	->	PPrel: activated by; PPrel: binding/association; complex; input (Swapped)	Activation			
+LAMB2	ITGB3	->	PPrel: activated by (Swapped)	Activation			
+LAMB2	ITGB8	->	PPrel: activated by; complex; input (Swapped)	Activation			
+LAMB2	LAMC2	->	complex (Complex interaction)	Activation			
+LAMB2	NID2	->	complex; input (Complex interaction)	Activation			
+LAMC2	CD44	->	PPrel: activated by (Swapped)	Activation			
+LAMC2	DAG1	->	PPrel: activated by (Swapped)	Activation			
+LAMC2	ITGA2	->	PPrel: activated by; complex; input (Swapped)	Activation			
+LAMC2	ITGA6	->	PPrel: activated by; PPrel: binding/association; complex; input (Swapped)	Activation			
+LAMC2	ITGB3	->	PPrel: activated by (Swapped)	Activation			
+LAMC2	ITGB8	->	PPrel: activated by; complex; input (Swapped)	Activation			
+LEF1	AXIN2	->	GErel: expression by; PPrel: activation (Bidirectional Activation)	Activation			
+LEF1	BIRC3	->	GErel: expression by (Swapped)	Activation			
+LEF1	CCND3	->	GErel: expression by (Swapped)	Activation			
+LEF1	CD1D	-|			Repression	-|	1.0
+LEF1	CLDN2	->			Activation	->	1.0
+LEF1	CYLD	-|			Repression	-|	1.0
+LEF1	DSG4	-|			Repression	-|	1.0
+LEF1	ELANE	->			Activation	->	1.0
+LEF1	JUN	->	GErel: expression by (Swapped)	Activation			
+LEF1	MITF	->			Activation	->	1.0
+LEF1	MMP7	->			Activation	->	1.0
+LEF1	MYC	->	GErel: expression; catalyze; expression regulates	Activation			
+LEF1	MYCBP	->			Activation	->	1.0
+LEF1	MYCL	->	catalyze	Activation			
+LEF1	NRCAM	->	expression regulates	Activation	Activation	->	1.0
+LEF1	NT5E	->	expression regulates	Activation			
+LEF1	OCA2	->			Activation	->	1.0
+LEF1	PITX2	->	complex; input (Complex interaction)	Activation			
+LEF1	SNAI2	->	GErel: expression	Activation			
+LEF1	SOX13	->	complex; input (Complex interaction)	Activation			
+LEF1	SOX4	->	complex; input (Complex interaction)	Activation			
+LEF1	TCF7L2	->	catalyze; input; reaction	Activation			
+LEF1	TLE1	->	complex; input (Complex interaction)	Activation			
+LEF1	TLE3	->	complex; input (Complex interaction)	Activation			
+LEF1	TLE4	->	complex; input (Complex interaction)	Activation			
+LIF	EPOR	->	PPrel: activated by (Swapped)	Activation			
+LIF	IFNAR2	->	PPrel: activated by (Swapped)	Activation			
+LIF	IFNGR2	->	PPrel: activated by (Swapped)	Activation			
+LIF	IFNLR1	->	PPrel: activated by (Swapped)	Activation			
+LIF	IL6R	->	PPrel: activated by (Swapped)	Activation			
+LIF	LIFR	->	PPrel: activation; complex; input	Activation			
+LIFR	JAK1	->	PPrel: activated by; PPrel: binding/association; complex; input (Swapped)	Activation			
+LIFR	PDGFA	->	PPrel (Input/Compound interaction)	Activation			
+LIFR	PDGFB	->	PPrel (Input/Compound interaction)	Activation			
+LMO2	CDH1	-|			Repression	-|	1.0
+LMO2	ERG	->			Activation	->	1.0
+LMO2	FGF2	->			Activation	->	1.0
+LMO2	GYPA	-|			Repression	-|	1.0
+LMO2	LEF1	-|			Repression	-|	1.0
+LMO2	NFATC1	->			Activation	->	1.0
+LMO2	ZEB1	-|			Repression	-|	1.0
+LPAR1	JUN	->	activated by; expression regulates (Bidirectional Activation)	Activation			
+LPAR1	PTK2B	->	activate	Activation			
+LPAR2	GNA15	->	activated by; complex; input (Swapped)	Activation			
+LPAR2	JUN	->	activated by (Swapped)	Activation			
+LPAR2	PTK2B	->	activate	Activation			
+LPAR2	SLC9A3R2	->	complex; input (Complex interaction)	Activation			
+LPAR4	RPS6KA5	->	activate	Activation			
+LRIG1	CBL	->	activated by (Swapped)	Activation			
+LRIG1	ERBB4	->	activated by (Swapped)	Activation			
+LRIG1	EREG	-|	inhibited by (Target inhibits Source)	Inhibition			
+LRIG1	TGFA	-|	inhibite	Inhibition			
+LRP1	AGRN	->	catalyzed by (Swapped)	Activation			
+LRP1	GPC1	->	catalyzed by (Swapped)	Activation			
+LRP1	GPC6	->	catalyzed by (Swapped)	Activation			
+LRP1	HSPG2	->	catalyzed by (Swapped)	Activation			
+LRP1	ITGB3	->	activated by (Swapped)	Activation			
+LRP1	PDGFB	->	complex; input (Complex interaction)	Activation			
+LRP1	PLAT	->	complex; input (Complex interaction)	Activation			
+LRP1	PLAU	->	activate	Activation			
+LRP1	SDC2	->	catalyze	Activation			
+LRP1	SDC3	->	catalyze	Activation			
+LRP1	SERPINE1	->	activate	Activation			
+LRP4	MUSK	->	complex (Complex interaction)	Activation			
+LRRC4	NTNG2	->	PPrel: activation; PPrel: binding/association	Activation			
+LTBP3	TGFB2	->	complex; input (Complex interaction)	Activation			
+LTBP3	TGFB3	->	complex; input (Complex interaction)	Activation			
+LUM	TGFB2	-|	PPrel: inhibition	Inhibition			
+MADD	BID	->	activated by (Swapped)	Activation			
+MADD	CHML	->	catalyzed by (Swapped)	Activation			
+MADD	RAB27A	->	catalyze	Activation			
+MADD	RAB3A	->	catalyze	Activation			
+MADD	SMPD1	->	activate	Activation			
+MADD	SMPD3	->	activate	Activation			
+MADD	TNFRSF1A	->	complex; input; reaction (Complex interaction)	Activation			
+MAGED1	NGF	-|	complex; inhibite; input	Inhibition			
+MAGED1	NGFR	-|	PPrel: binding/association; activated by; complex; inhibite; input (Source inhibits Target)	Inhibition			
+MAGEH1	NGF	->	complex; input (Complex interaction)	Activation			
+MAGEH1	NGFR	->	complex; input (Complex interaction)	Activation			
+MALT1	IL1B	->	catalyzed by (Swapped)	Activation			
+MALT1	MAPK13	->	PPrel: activation	Activation			
+MAML3	GATA3	->	GErel: expression by (Swapped)	Activation			
+MAML3	HES2	->	GErel: expression by (Swapped)	Activation			
+MAML3	HES7	->	GErel: expression by (Swapped)	Activation			
+MAML3	HEY1	->	GErel: expression by (Swapped)	Activation			
+MAPK13	CREB3L1	->	PPrel: activated, indirect effect (Swapped)	Activation			
+MAPK13	FOXO1	->	PPrel: activated by, phosphorylation; PPrel: activated, indirect effect (Swapped)	Activation			
+MAPK13	IL1A	->	GErel: expression, indirect effect (Swapped)	Activation			
+MAPK13	IL1B	->	GErel: expression, indirect effect (Swapped)	Activation			
+MAPK13	IL6	->	GErel: expression, indirect effect (Swapped)	Activation			
+MAPK13	JUN	->	PPrel: activated by; PPrel: activated by, phosphorylation; PPrel: activated, indirect effect (Swapped)	Activation			
+MAPK13	MEF2C	->	PPrel: phosphorylation; catalyze; reaction	Activation			
+MAPK13	MYC	->	catalyze; reaction	Activation			
+MAPK13	NFATC1	->	PPrel: activation, indirect effect	Activation			
+MAPK13	PLA2G4A	->	catalyze	Activation			
+MAPK13	PPARGC1A	->	PPrel: activation, phosphorylation	Activation			
+MAPK13	PPP2R2C	->	PPrel: activation, indirect effect	Activation			
+MAPK13	RPS6KA5	->	PPrel: indirect effect; PPrel: phosphorylation	Activation			
+MAPK13	SMAD3	->	PPrel: activation, phosphorylation, indirect effect	Activation			
+MAPK13	STMN1	->	activate	Activation			
+MARK4	TUBA1A	->	complex; input (Complex interaction)	Activation			
+MARVELD2	TUBA1A	->	PPrel: binding/association (Binding/Association)	Activation			
+MCF2L	RHOB	->	catalyze	Activation			
+MDK	NOTCH2	->	complex; input (Complex interaction)	Activation			
+MDK	PLCG1	->	complex; input (Complex interaction)	Activation			
+MDK	PTN	->	catalyze; catalyzed by; input (Bidirectional Activation)	Activation			
+MECOM	EGR1	-|	activate; inhibited by (Target inhibits Source)	Inhibition			
+MECOM	PPARG	-|	activated by; inhibite (Source inhibits Target)	Inhibition			
+MECOM	SNAI2	->	reaction (Complex interaction)	Activation			
+MEF2C	AFAP1L2	->	expression regulated by (Swapped)	Activation			
+MEF2C	AGR2	->	expression regulated by (Swapped)	Activation			
+MEF2C	BHLHE40	->	expression regulated by (Swapped)	Activation			
+MEF2C	CD74	->	expression regulated by (Swapped)	Activation			
+MEF2C	CELF2	->	expression regulated by (Swapped)	Activation			
+MEF2C	CIITA	->	expression regulated by (Swapped)	Activation			
+MEF2C	CPT1B	->			Activation	->	1.0
+MEF2C	GATA3	->	expression regulated by (Swapped)	Activation			
+MEF2C	JUN	->			Activation	->	1.0
+MEF2C	JUP	->	expression regulated by (Swapped)	Activation			
+MEF2C	KLF2	->	GErel: expression by (Swapped)	Activation			
+MEF2C	MAPK7	->			Activation	->	1.0
+MEF2C	NEK6	->	expression regulates	Activation			
+MEF2C	NFATC4	->	PPrel: binding/association (Binding/Association)	Activation			
+MEF2C	NR1D1	->	activate; inhibited by (Source activates Target)	Activation			
+MEF2C	NR3C1	->	activate	Activation			
+MEF2C	NR4A1	-|			Repression	-|	1.0
+MEF2C	PPARGC1A	->	activate; complex; input; reaction	Activation			
+MEF2C	PTPN6	->	expression regulates	Activation			
+MEF2C	RFTN1	->	expression regulates	Activation			
+MEF2C	SEMA3C	->	expression regulates	Activation			
+MEF2C	SEMA7A	->	expression regulates	Activation			
+MEF2C	SMAD3	->	complex; input (Complex interaction)	Activation			
+MEF2C	SOST	->	GErel: expression	Activation	Repression	-|	1.0
+MEF2C	TLR6	->	expression regulates	Activation			
+MEF2C	TNS4	->	expression regulates	Activation			
+MGAT4A	MGAT5	->	reaction (Complex interaction)	Activation			
+MMP12	COL12A1	->	catalyzed by (Swapped)	Activation			
+MMP12	LAMA3	->	catalyzed by (Swapped)	Activation			
+MMP12	LAMC2	->	catalyzed by (Swapped)	Activation			
+MMP15	ACTBL2	->	catalyzed by (Swapped)	Activation			
+MMP15	ACTC1	->	catalyzed by (Swapped)	Activation			
+MMP15	CD44	->	catalyzed by (Swapped)	Activation			
+MMP15	CDH1	->	catalyzed by (Swapped)	Activation			
+MMP15	HSPG2	->	catalyzed by (Swapped)	Activation			
+MMP15	JUP	->	catalyzed by (Swapped)	Activation			
+MMP15	LRP1	->	catalyzed by (Swapped)	Activation			
+MMP15	LRP4	->	catalyzed by (Swapped)	Activation			
+MMP15	LRP5	->	catalyzed by (Swapped)	Activation			
+MMP3	CDH1	->	activated by; catalyzed by (Swapped)	Activation			
+MMP3	HSPG2	->	catalyzed by (Swapped)	Activation			
+MMP3	JUP	->	activated by (Swapped)	Activation			
+MMP3	LAMA3	->	catalyzed by (Swapped)	Activation			
+MMP3	LAMC2	->	catalyzed by (Swapped)	Activation			
+MMP8	ACTBL2	->	catalyzed by (Swapped)	Activation			
+MMP8	ACTC1	->	catalyzed by (Swapped)	Activation			
+MMP8	CDH1	->	catalyzed by (Swapped)	Activation			
+MMP8	JUP	->	catalyzed by (Swapped)	Activation			
+MPP1	MSN	->	complex (Complex interaction)	Activation			
+MPP1	MYO7A	->	complex (Complex interaction)	Activation			
+MRC2	TGFB2	->	PPrel: activation, indirect effect	Activation			
+MRC2	TGFB3	->	PPrel: activation, indirect effect	Activation			
+MSN	MYO7A	->	complex (Complex interaction)	Activation			
+MSN	SLC9A3R1	->	PPrel: binding/association (Binding/Association)	Activation			
+MST1R	ICAM1	->	activated by (Swapped)	Activation			
+MST1R	PLCG1	->	PPrel: activation	Activation			
+MTM1	PIP4K2C	->	ECrel: compound (Input/Compound interaction)	Activation			
+MTM1	PLCD4	->	ECrel: compound (Input/Compound interaction)	Activation			
+MTM1	PLCE1	->	ECrel: compound (Input/Compound interaction)	Activation			
+MTM1	PLCG1	->	ECrel: compound (Input/Compound interaction)	Activation			
+MUSK	PAK2	->	complex (Complex interaction)	Activation			
+MUSK	PAK6	->	complex (Complex interaction)	Activation			
+MYBL1	TSC22D3	->	expression regulates	Activation			
+MYBL2	CLU	->	expression regulated by (Swapped)	Activation			
+MYBL2	MYC	->	expression regulates	Activation	Activation	->	1.0
+MYBL2	PLA2G6	->	expression regulates	Activation			
+MYBL2	PSG1	->	expression regulates	Activation			
+MYC	AGRN	->	expression regulated by (Swapped)	Activation			
+MYC	AKR1C3	->	expression regulated by (Swapped)	Activation			
+MYC	ASS1	->			Activation	->	1.0
+MYC	ATF1	->	expression regulated by (Swapped)	Activation			
+MYC	BCL2L11	->	expression regulated by (Swapped)	Activation			
+MYC	BMI1	->			Activation	->	1.0
+MYC	BRD7	-|			Repression	-|	1.0
+MYC	BRIP1	->	expression regulated by (Swapped)	Activation			
+MYC	CBX5	->	expression regulated by (Swapped)	Activation			
+MYC	CCND1	-|			Repression	-|	1.0
+MYC	CCND2	->			Activation	->	1.0
+MYC	CCNE1	->			Activation	->	1.0
+MYC	CD33	-|			Repression	-|	1.0
+MYC	CD38	->			Activation	->	1.0
+MYC	CDC25C	->			Activation	->	1.0
+MYC	CDC34	->			Activation	->	1.0
+MYC	CDK4	->			Activation	->	1.0
+MYC	CDK6	->			Activation	->	1.0
+MYC	CDKN1A	-|			Repression	-|	1.0
+MYC	CEBPA	-|			Repression	-|	1.0
+MYC	CFLAR	-|			Repression	-|	1.0
+MYC	CHEK1	->			Activation	->	1.0
+MYC	CHEK2	->			Activation	->	1.0
+MYC	CXCR4	->	expression regulated by (Swapped)	Activation	Activation	->	1.0
+MYC	CYB561	->	expression regulated by (Swapped)	Activation			
+MYC	DKK1	-|			Repression	-|	1.0
+MYC	EBNA1BP2	->			Activation	->	1.0
+MYC	EDN1	->	expression regulated by (Swapped)	Activation			
+MYC	ERBB3	->	PPrel: inhibition, indirect effect; expression regulated by (Target activates Source)	Activation			
+MYC	ETV4	->	expression regulated by (Swapped)	Activation			
+MYC	FASLG	->			Activation	->	1.0
+MYC	FN1	->	expression regulated by (Swapped)	Activation			
+MYC	FOXM1	->			Activation	->	1.0
+MYC	FTH1P18	-|			Repression	-|	1.0
+MYC	FUT3	->			Activation	->	1.0
+MYC	GATA1	-|			Repression	-|	1.0
+MYC	GATA4	->			Activation	->	1.0
+MYC	GLS2	->	GErel: expression by (Swapped)	Activation			
+MYC	HDAC2	->			Activation	->	1.0
+MYC	HKDC1	->	GErel: expression by (Swapped)	Activation			
+MYC	HLA-A	->			Activation	->	1.0
+MYC	HLA-B	->			Activation	->	1.0
+MYC	HLA-C	->			Activation	->	1.0
+MYC	HLA-E	->			Activation	->	1.0
+MYC	HLA-F	->			Activation	->	1.0
+MYC	HLA-G	->			Activation	->	1.0
+MYC	HNRNPA1	->			Activation	->	1.0
+MYC	HNRNPA2B1	->			Activation	->	1.0
+MYC	ID1	->	expression regulated by (Swapped)	Activation			
+MYC	IFNA1	-|			Repression	-|	1.0
+MYC	IGF2BP1	->			Activation	->	1.0
+MYC	IGK	->			Activation	->	1.0
+MYC	IPO7	->			Activation	->	1.0
+MYC	JUNB	-|			Repression	-|	1.0
+MYC	KRAS	->			Activation	->	1.0
+MYC	LDHA	->			Activation	->	1.0
+MYC	MAGEC2	->	expression regulated by (Swapped)	Activation			
+MYC	MAT2A	->	expression regulated by (Swapped)	Activation			
+MYC	MME	->			Activation	->	1.0
+MYC	MST1	-|			Repression	-|	1.0
+MYC	NDRG1	-|			Repression	-|	1.0
+MYC	NFE2	-|			Repression	-|	1.0
+MYC	NOL7	->			Activation	->	1.0
+MYC	NR1D1	->	expression regulates	Activation			
+MYC	ODC1	->			Activation	->	1.0
+MYC	PGF	->	GErel: expression	Activation			
+MYC	PMAIP1	->			Activation	->	1.0
+MYC	PRDX3	->			Activation	->	1.0
+MYC	PRODH	-|			Repression	-|	1.0
+MYC	PTBP1	->			Activation	->	1.0
+MYC	SFRP1	->	expression regulates	Activation	Repression	-|	1.0
+MYC	SGK1	->	expression regulates	Activation			
+MYC	SKAP1	->	expression regulates	Activation			
+MYC	SRSF1	->			Activation	->	1.0
+MYC	ST3GAL1	->			Activation	->	1.0
+MYC	ST3GAL3	->			Activation	->	1.0
+MYC	ST3GAL4	->			Activation	->	1.0
+MYC	SURF1	->			Activation	->	1.0
+MYC	SURF2	->			Activation	->	1.0
+MYC	TERT	->			Activation	->	1.0
+MYC	TFAP2C	->	complex; input (Complex interaction)	Activation			
+MYC	TFAP4	->	GErel: expression	Activation	Activation	->	1.0
+MYC	TFRC	->			Activation	->	1.0
+MYC	TNFRSF10B	->			Activation	->	1.0
+MYC	TP53	->			Activation	->	1.0
+MYC	TP73	->			Activation	->	1.0
+MYC	UBE2C	->			Activation	->	1.0
+MYC	VEGFA	->	GErel: expression	Activation	Activation	->	1.0
+MYC	WRN	->			Activation	->	1.0
+MYC	XPO1	->			Activation	->	1.0
+NCK2	MAPK13	->	catalyzed by (Swapped)	Activation			
+NCK2	PAK2	->	PPrel: activation; PPrel: activation, phosphorylation; PPrel: binding/association; complex; input	Activation			
+NCK2	PAK6	->	PPrel: activation; PPrel: activation, phosphorylation; PPrel: binding/association; complex	Activation			
+NCK2	PDGFA	->	complex; input (Complex interaction)	Activation			
+NCK2	RAC3	->	PPrel: activation	Activation			
+NCK2	RHOU	->	complex; input (Complex interaction)	Activation			
+NCK2	VEGFA	->	complex; input (Complex interaction)	Activation			
+NEAT1	CXCL8	-|			Repression	-|	1.0
+NEDD4L	FBXO2	->	catalyze; catalyzed by; input (Bidirectional Activation)	Activation			
+NEDD4L	FBXO27	->	catalyze; catalyzed by; input (Bidirectional Activation)	Activation			
+NEDD4L	FBXO44	->	catalyze; catalyzed by; input (Bidirectional Activation)	Activation			
+NEDD4L	FBXO6	->	catalyze; catalyzed by; input (Bidirectional Activation)	Activation			
+NEDD4L	NGF	->	complex; input (Complex interaction)	Activation			
+NEDD4L	RNF115	->	catalyze; catalyzed by; input (Bidirectional Activation)	Activation			
+NEDD4L	SCNN1A	->	PPrel: ubiquitination; catalyze	Activation			
+NEDD4L	SMAD3	->	complex; input (Complex interaction)	Activation			
+NEDD4L	SMAD7	->	complex; input (Complex interaction)	Activation			
+NEDD4L	TSC22D3	->	complex (Complex interaction)	Activation			
+NEK6	NUP210	->	catalyze	Activation			
+NEK7	NLRP3	->	PPrel: activation	Activation			
+NELL2	ROBO3	->	complex; input (Complex interaction)	Activation			
+NFAT5	CCL2	-|			Repression	-|	1.0
+NFATC1	ACTC1	->	catalyzed by (Swapped)	Activation			
+NFATC1	BATF3	->	activated by; complex; input (Swapped)	Activation			
+NFATC1	CALCR	->	GErel: expression by (Swapped)	Activation			
+NFATC1	CD274	->	GErel: expression by (Swapped)	Activation			
+NFATC1	CD3G	-|			Repression	-|	1.0
+NFATC1	CYP2E1	->			Activation	->	1.0
+NFATC1	EDN1	->	catalyzed by (Swapped)	Activation			
+NFATC1	F2R	->	GErel: expression by (Swapped)	Activation			
+NFATC1	GATA3	->	GErel: expression by; reaction (Swapped)	Activation			
+NFATC1	ICAM1	->			Activation	->	1.0
+NFATC1	ITGB3	->	GErel: expression by (Swapped)	Activation			
+NFATC1	JUN	-|	GErel: expression; complex; inhibited by; input; reaction (Target inhibits Source)	Inhibition			
+NFATC1	MEF2C	->	PPrel: binding/association; activated by; complex; input (Swapped)	Activation			
+NFATC1	NPPB	->	GErel: expression	Activation			
+NFATC1	NR3C1	->	activate; inhibited by (Source activates Target)	Activation			
+NFATC1	PPARG	->	activate; complex; input	Activation			
+NFATC1	PTGS2	->	GErel: expression	Activation			
+NFATC1	RNF128	->	activate; inhibited by (Source activates Target)	Activation			
+NFATC1	SP1	-|			Repression	-|	1.0
+NFATC1	STAT4	->	reaction (Complex interaction)	Activation			
+NFATC4	ACTC1	->	catalyzed by (Swapped)	Activation			
+NFATC4	EDN1	->	catalyzed by (Swapped)	Activation			
+NFATC4	NPPB	->	GErel: expression	Activation			
+NFATC4	PTGS2	->	GErel: expression	Activation			
+NGF	EPB41L1	->	activated by (Swapped)	Activation			
+NGF	ERBB3	->	PPrel: activated by (Swapped)	Activation			
+NGF	ERBB4	->	PPrel: activated by (Swapped)	Activation			
+NGF	FGFR2	->	PPrel: activated by (Swapped)	Activation			
+NGF	FLT1	->	PPrel: activated by (Swapped)	Activation			
+NGF	KDR	->	PPrel: activated by (Swapped)	Activation			
+NGF	MST1R	->	PPrel: activated by (Swapped)	Activation			
+NGF	NTRK2	->	PPrel: activation	Activation			
+NGF	PLCG1	->	complex; input (Complex interaction)	Activation			
+NGF	RIPK2	-|	complex; inhibite; input	Inhibition			
+NGF	SHC3	->	activate; complex; input	Activation			
+NGF	SQSTM1	-|	complex; inhibit; input	Inhibition			
+NGFR	IRS1	->	PPrel: activated by (Swapped)	Activation			
+NGFR	MAGED1	->	PPrel: binding/association; activated by; complex; inhibite; input (Target activates Source)	Activation			
+NGFR	NGF	->	PPrel: activation; PPrel: activation, binding/association; activated by; complex; inhibit; input (Swapped)	Activation			
+NGFR	NTRK2	-|	inhibit	Inhibition			
+NGFR	RIPK2	->	PPrel: binding/association; complex; input (Binding/Association)	Activation			
+NGFR	SHC3	->	PPrel: activation	Activation			
+NGFR	SQSTM1	->	complex; input (Complex interaction)	Activation			
+NHEJ1	XRCC4	->	complex; input (Complex interaction)	Activation			
+NKX3-1	ACTG2	->			Activation	->	1.0
+NKX3-1	AR	-|			Repression	-|	1.0
+NKX3-1	CCND1	-|			Repression	-|	1.0
+NKX3-1	FOS	-|			Repression	-|	1.0
+NKX3-1	IGF1R	-|			Repression	-|	1.0
+NLRP3	IL1B	->	PPrel: activated by (Swapped)	Activation			
+NOG	BMP5	-|	PPrel: inhibited by (Target inhibits Source)	Inhibition			
+NOG	BMP6	-|	PPrel: inhibited by (Target inhibits Source)	Inhibition			
+NOG	RGMB	->	input (Input/Compound interaction)	Activation			
+NOTCH2	HES2	->	GErel: expression by (Swapped)	Activation			
+NOTCH2	HES7	->	GErel: expression by (Swapped)	Activation			
+NOTCH2	HEY1	->	GErel: expression by (Swapped)	Activation			
+NOTCH2	MAML3	->	PPrel: activated by; complex; input (Swapped)	Activation			
+NOX3	RAC3	->	complex; input (Complex interaction)	Activation			
+NR1D1	ARNTL	-|			Repression	-|	1.0
+NR1D1	MEF2C	-|	activate; inhibited by (Target inhibits Source)	Inhibition			
+NR1D1	PER2	->	activate; inhibited by; reaction (Source activates Target)	Activation			
+NR1D1	PPARGC1A	-|	activated by; inhibit (Source inhibits Target)	Inhibition			
+NR2E3	RHO	->			Activation	->	1.0
+NR2F1	CYP17A1	-|			Repression	-|	1.0
+NR2F1	DR1	-|			Repression	-|	1.0
+NR2F1	JUN	->	activated by; inhibite (Target activates Source)	Activation			
+NR2F1	LHCGR	-|			Repression	-|	1.0
+NR2F1	MTTP	-|			Repression	-|	1.0
+NR2F1	SERPINC1	-|			Repression	-|	1.0
+NR3C1	ATF2	-|			Repression	-|	1.0
+NR3C1	ATP1B1	-|			Repression	-|	1.0
+NR3C1	BAD	->			Activation	->	1.0
+NR3C1	BAX	->			Activation	->	1.0
+NR3C1	BGLAP	-|			Repression	-|	1.0
+NR3C1	BHLHE40	->	expression regulated by (Swapped)	Activation			
+NR3C1	BRCA1	->			Activation	->	1.0
+NR3C1	CALD1	->			Activation	->	1.0
+NR3C1	CCND3	-|			Repression	-|	1.0
+NR3C1	CDK4	-|			Repression	-|	1.0
+NR3C1	CDK6	-|			Repression	-|	1.0
+NR3C1	CDKN1A	->			Activation	->	1.0
+NR3C1	CSF3	->	expression regulated by (Swapped)	Activation			
+NR3C1	CYP19A1	->			Activation	->	1.0
+NR3C1	ELK1	-|			Repression	-|	1.0
+NR3C1	ETS1	-|			Repression	-|	1.0
+NR3C1	GATA3	-|	activate; inhibited by (Target inhibits Source)	Inhibition			
+NR3C1	GPRC5A	->	expression regulated by (Swapped)	Activation			
+NR3C1	HES7	->	expression regulated by (Swapped)	Activation			
+NR3C1	HIP1	->	expression regulated by (Swapped)	Activation			
+NR3C1	ID1	->	expression regulated by (Swapped)	Activation			
+NR3C1	JUN	-|	activate; complex; inhibited by; input; reaction (Target inhibits Source)	Inhibition			
+NR3C1	MFSD2A	->	expression regulated by (Swapped)	Activation			
+NR3C1	NEDD9	->	expression regulated by (Swapped)	Activation			
+NR3C1	NFATC1	-|	activate; inhibited by (Target inhibits Source)	Inhibition			
+NR3C1	NFKB1	-|			Repression	-|	1.0
+NR3C1	NR3C2	->	input (Input/Compound interaction)	Activation			
+NR3C1	PBX1	-|	activated by; inhibit (Source inhibits Target)	Inhibition			
+NR3C1	PPARGC1A	-|	activated by; inhibit (Source inhibits Target)	Inhibition			
+NR3C1	RAPGEF3	->	expression regulates	Activation			
+NR3C1	RHOB	->	expression regulates	Activation			
+NR3C1	RPS6KA3	->			Activation	->	1.0
+NR3C1	SMAD3	->	activated by; complex; expression regulates; input; reaction (Bidirectional Activation)	Activation			
+NR3C1	SRF	-|			Repression	-|	1.0
+NR3C1	STAT1	-|			Repression	-|	1.0
+NR3C1	TNFRSF1A	->	expression regulates	Activation			
+NR3C1	TNS4	->	expression regulates	Activation			
+NR3C1	TP53	-|			Repression	-|	1.0
+NR3C1	TXNRD1	->	expression regulates	Activation			
+NR3C1	UGT1A1	->			Activation	->	1.0
+NR3C2	ATP1A3	->	GErel: expression by (Swapped)	Activation			
+NR3C2	ATP1B1	->	GErel: expression by (Swapped)	Activation	Repression	-|	1.0
+NR3C2	CABIN1	-|			Repression	-|	1.0
+NR3C2	CCR5	->			Activation	->	1.0
+NR3C2	CCR6	->			Activation	->	1.0
+NR3C2	CD40	->			Activation	->	1.0
+NR3C2	EGFR	->			Activation	->	1.0
+NR3C2	SCNN1A	->	GErel: expression	Activation			
+NR3C2	SGK1	->	GErel: expression	Activation			
+NR4A1	BABAM2	-|			Repression	-|	1.0
+NR4A1	CCNA2	-|			Repression	-|	1.0
+NR4A1	CDKN1B	->			Activation	->	1.0
+NR4A1	E2F1	->			Activation	->	1.0
+NR4A1	HSD3B2	->			Activation	->	1.0
+NR4A1	MDM2	-|			Repression	-|	1.0
+NR4A1	MMP2	->			Activation	->	1.0
+NR4A1	NCEH1	->	GErel: expression by (Swapped)	Activation			
+NR4A1	NR3C1	->	activated by; expression regulates; inhibit (Swapped)	Activation			
+NR4A1	RNF7	-|			Repression	-|	1.0
+NR4A1	TIMP2	->			Activation	->	1.0
+NR4A1	TNF	-|			Repression	-|	1.0
+NRCAM	SCN5A	->	complex; input (Complex interaction)	Activation			
+NRCAM	SPTB	->	complex (Complex interaction)	Activation			
+NRCAM	SPTBN5	->	complex (Complex interaction)	Activation			
+NRG2	ERBB3	->	PPrel: activated by; complex; input (Swapped)	Activation			
+NRG2	ERBB4	->	PPrel: activated by; complex; input (Swapped)	Activation			
+NRG2	RNF41	->	complex; input (Complex interaction)	Activation			
+NRXN3	SHANK2	->	complex; input (Complex interaction)	Activation			
+NRXN3	SYT12	->	complex; input (Complex interaction)	Activation			
+NRXN3	SYT2	->	complex; input (Complex interaction)	Activation			
+NTRK2	IRS1	->	PPrel: activated by; PPrel: activated by, phosphorylation; interaction (Swapped)	Activation			
+NTRK2	PLCG1	->	PPrel: activation; complex; input; interaction	Activation			
+NTRK2	SHC3	->	PPrel: activation; PPrel: activation, phosphorylation; activate; interaction	Activation			
+NUP210	GCKR	->	catalyzed by (Swapped)	Activation			
+NUP210	THOC6	->	activate; input	Activation			
+OCLN	PARD6A	->	complex (Complex interaction)	Activation			
+OCLN	TGFBR3	->	input (Input/Compound interaction)	Activation			
+PAG1	HLA-DPA1	->	catalyzed by (Swapped)	Activation			
+PAG1	HLA-DPB1	->	catalyzed by (Swapped)	Activation			
+PAG1	HLA-DRA	->	activate; catalyzed by (Bidirectional Activation)	Activation			
+PAG1	HLA-DRB1	->	activate; catalyzed by (Bidirectional Activation)	Activation			
+PAG1	HLA-DRB5	->	catalyzed by (Swapped)	Activation			
+PAK2	ARHGEF6	->	PPrel: phosphorylated by; complex (Swapped)	Activation			
+PAK2	JUP	->	catalyzed by (Swapped)	Activation			
+PAK2	MAPK13	->	catalyzed by (Swapped)	Activation			
+PAK2	MAPK4	->	catalyzed by (Swapped)	Activation			
+PAK2	MYC	->	activated by (Swapped)	Activation			
+PAK2	PLCG1	->	complex; input (Complex interaction)	Activation			
+PAK2	PLXNA1	->	complex; input (Complex interaction)	Activation			
+PAK2	PLXNA4	->	complex; input (Complex interaction)	Activation			
+PAK2	RAC3	->	PPrel: activated by; PPrel: activation; complex; input (Bidirectional Activation)	Activation			
+PAK2	SEMA3A	->	complex; input (Complex interaction)	Activation			
+PAK2	VEGFA	->	complex; input (Complex interaction)	Activation			
+PAK6	ARHGEF6	->	PPrel: phosphorylated by; complex (Swapped)	Activation			
+PAK6	MYLK	-|	PPrel: inhibited by, phosphorylated by (Target inhibits Source)	Inhibition			
+PAK6	RAC3	->	PPrel: activated by; PPrel: activation (Bidirectional Activation)	Activation			
+PAK6	RHOD	->	complex; input (Complex interaction)	Activation			
+PARD6A	PAK2	->	activated by (Swapped)	Activation			
+PARD6A	PRICKLE1	->	catalyze	Activation			
+PARD6A	RHOU	->	complex; input (Complex interaction)	Activation			
+PARD6A	TGFBR3	->	input (Input/Compound interaction)	Activation			
+PBX1	HOXB1	->			Activation	->	1.0
+PBX1	NANOG	->			Activation	->	1.0
+PBX1	NCEH1	->	GErel: expression by (Swapped)	Activation			
+PBX1	NR3C1	->	activated by; inhibit (Target activates Source)	Activation			
+PBX1	PF4	->			Activation	->	1.0
+PBX1	VCP	->			Activation	->	1.0
+PBX3	ADIRF	->	expression regulated by (Swapped)	Activation			
+PBX3	GFI1	->	expression regulated by (Swapped)	Activation			
+PBX3	JUP	->	expression regulated by (Swapped)	Activation			
+PBX3	POU2F2	->	expression regulates	Activation			
+PCDH1	PCDH7	->	input (Input/Compound interaction)	Activation			
+PCDH1	PCDH9	->	input (Input/Compound interaction)	Activation			
+PCDH7	PCDH9	->	input (Input/Compound interaction)	Activation			
+PCSK9	VLDLR	->	complex; input (Complex interaction)	Activation			
+PDGFA	ERBB3	->	PPrel: activated by (Swapped)	Activation			
+PDGFA	ERBB4	->	PPrel: activated by (Swapped)	Activation			
+PDGFA	FGFR2	->	PPrel: activated by (Swapped)	Activation			
+PDGFA	FLT1	->	PPrel: activated by (Swapped)	Activation			
+PDGFA	JAK1	->	catalyzed by (Swapped)	Activation			
+PDGFA	KDR	->	PPrel: activated by (Swapped)	Activation			
+PDGFA	MST1R	->	PPrel: activated by (Swapped)	Activation			
+PDGFA	NGFR	->	PPrel: activated by (Swapped)	Activation			
+PDGFA	NTRK2	->	PPrel: activated by (Swapped)	Activation			
+PDGFA	PDGFB	->	catalyze; catalyzed by; complex; input (Bidirectional Activation)	Activation			
+PDGFA	PLCG1	->	complex; input (Complex interaction)	Activation			
+PDGFA	THBS2	->	complex; input (Complex interaction)	Activation			
+PDGFB	ERBB3	->	PPrel: activated by (Swapped)	Activation			
+PDGFB	ERBB4	->	PPrel: activated by (Swapped)	Activation			
+PDGFB	FGFR2	->	PPrel: activated by (Swapped)	Activation			
+PDGFB	FLT1	->	PPrel: activated by (Swapped)	Activation			
+PDGFB	KDR	->	PPrel: activated by (Swapped)	Activation			
+PDGFB	MST1R	->	PPrel: activated by (Swapped)	Activation			
+PDGFB	NCK2	->	activated by; complex; input (Swapped)	Activation			
+PDGFB	NGFR	->	PPrel: activated by (Swapped)	Activation			
+PDGFB	NTRK2	->	PPrel: activated by (Swapped)	Activation			
+PDGFB	PAG1	->	activated by (Swapped)	Activation			
+PDGFB	PDGFA	->	catalyze; catalyzed by; complex; input (Bidirectional Activation)	Activation			
+PDGFB	PLCG1	->	complex; input (Complex interaction)	Activation			
+PDGFB	S1PR1	->	complex; input (Complex interaction)	Activation			
+PDGFB	SLC9A3R1	->	complex; input (Complex interaction)	Activation			
+PDGFB	SLC9A3R2	->	complex; input (Complex interaction)	Activation			
+PDGFB	THBS2	->	complex; input (Complex interaction)	Activation			
+PDGFD	ERBB3	->	PPrel: activated by (Swapped)	Activation			
+PDGFD	ERBB4	->	PPrel: activated by (Swapped)	Activation			
+PDGFD	FGFR2	->	PPrel: activated by (Swapped)	Activation			
+PDGFD	FLT1	->	PPrel: activated by (Swapped)	Activation			
+PDGFD	JAK1	->	catalyzed by (Swapped)	Activation			
+PDGFD	KDR	->	PPrel: activated by (Swapped)	Activation			
+PDGFD	MST1R	->	PPrel: activated by (Swapped)	Activation			
+PDGFD	NGFR	->	PPrel: activated by (Swapped)	Activation			
+PDGFD	NTRK2	->	PPrel: activated by (Swapped)	Activation			
+PDLIM5	SIPA1L1	->	complex; input (Complex interaction)	Activation			
+PECAM1	ITGB3	->	PPrel: activated, indirect effect; complex; input (Swapped)	Activation			
+PECAM1	PLCG1	->	complex; input (Complex interaction)	Activation			
+PECAM1	PTPN6	->	complex; input (Complex interaction)	Activation			
+PER2	NR1D1	-|	activate; inhibited by; reaction (Target inhibits Source)	Inhibition			
+PER2	SNAI2	-|			Repression	-|	1.0
+PER2	TWIST1	-|			Repression	-|	1.0
+PGF	ERBB3	->	PPrel: activated by; interaction (Swapped)	Activation			
+PGF	ERBB4	->	PPrel: activated by; interaction (Swapped)	Activation			
+PGF	FGFR2	->	PPrel: activated by; interaction (Swapped)	Activation			
+PGF	FLT1	->	PPrel: activated by; complex; input; interaction (Swapped)	Activation			
+PGF	KDR	->	PPrel: activated by; complex; input; interaction (Swapped)	Activation			
+PGF	NGFR	->	PPrel: activated by; interaction (Swapped)	Activation			
+PGF	NTRK2	->	PPrel: activated by; interaction (Swapped)	Activation			
+PGF	PLCG1	->	activate	Activation			
+PGF	VEGFA	->	complex (Complex interaction)	Activation			
+PINK1	NDUFC2	-|	PPrel: inhibited by (Target inhibits Source)	Inhibition			
+PIP4K2C	GSN	-|	PPrel: inhibited by (Target inhibits Source)	Inhibition			
+PIP4K2C	PLCD4	->	ECrel: compound (Input/Compound interaction)	Activation			
+PIP4K2C	PLCE1	->	ECrel: compound (Input/Compound interaction)	Activation			
+PIP4K2C	PLCG1	->	ECrel: compound (Input/Compound interaction)	Activation			
+PIP4K2C	SYNJ1	->	ECrel: compound (Input/Compound interaction)	Activation			
+PIP4K2C	SYNJ2	->	ECrel: compound (Input/Compound interaction)	Activation			
+PITX2	GNRH1	-|			Repression	-|	1.0
+PITX2	LEF1	->			Activation	->	1.0
+PITX2	LHX6	->			Activation	->	1.0
+PITX2	PRL	->			Activation	->	1.0
+PLAT	PDGFD	->	catalyzed by (Swapped)	Activation			
+PLAU	VTN	->	complex; input (Complex interaction)	Activation			
+PLCD4	PRKCG	->	PPrel: compound (Input/Compound interaction)	Activation			
+PLCD4	SYNJ1	->	ECrel: compound (Input/Compound interaction)	Activation			
+PLCD4	SYNJ2	->	ECrel: compound (Input/Compound interaction)	Activation			
+PLCE1	PRKCG	->	PPrel: compound (Input/Compound interaction)	Activation			
+PLCE1	SYNJ1	->	ECrel: compound (Input/Compound interaction)	Activation			
+PLCE1	SYNJ2	->	ECrel: compound (Input/Compound interaction)	Activation			
+PLCG1	ABL1	->	activate; activated by (Bidirectional Activation)	Activation			
+PLCG1	GSN	->	activated by (Swapped)	Activation			
+PLCG1	PLA2G4A	->	PPrel: compound, activated (Swapped)	Activation			
+PLCG1	PLA2G4D	->	PPrel: compound, activated (Swapped)	Activation			
+PLCG1	PPP3CC	->	ECrel: compound; PPrel: compound, activation	Activation			
+PLCG1	PRKCG	->	ECrel: activation; ECrel: compound; PPrel: activation, indirect effect; PPrel: compound; PPrel: compound, activation; catalyze	Activation			
+PLCG1	PTN	->	complex; input (Complex interaction)	Activation			
+PLCG1	RASGRP1	->	PPrel: compound (Input/Compound interaction)	Activation			
+PLCG1	SHC3	->	complex; input (Complex interaction)	Activation			
+PLCG1	STAT4	->	complex; input (Complex interaction)	Activation			
+PLCG1	SYNJ1	->	ECrel: compound (Input/Compound interaction)	Activation			
+PLCG1	SYNJ2	->	ECrel: compound (Input/Compound interaction)	Activation			
+PLCG1	TGFA	->	complex; input (Complex interaction)	Activation			
+PLEKHA7	CAMSAP3	->	activated by (Swapped)	Activation			
+PLOD1	PLOD2	->	catalyze; catalyzed by; input (Bidirectional Activation)	Activation			
+PLOD2	PLOD1	->	catalyze; catalyzed by; input (Bidirectional Activation)	Activation			
+PLXNA1	DPYSL2	->	catalyzed by; complex; input (Swapped)	Activation			
+PLXNA1	DPYSL3	->	catalyzed by; complex; input (Swapped)	Activation			
+PLXNA1	RAC3	->	PPrel: activation	Activation			
+PLXNA1	RHOD	->	PPrel: binding/association; complex; input (Binding/Association)	Activation			
+PLXNA1	SEMA3A	->	complex; input (Complex interaction)	Activation			
+PLXNA4	DPYSL2	->	catalyzed by; complex; input (Swapped)	Activation			
+PLXNA4	DPYSL3	->	catalyzed by; complex; input (Swapped)	Activation			
+PLXNA4	RAC3	->	PPrel: activation	Activation			
+PLXNA4	RHOD	->	PPrel: binding/association (Binding/Association)	Activation			
+PLXNA4	SEMA3A	->	complex; input (Complex interaction)	Activation			
+POFUT2	ADAMTS7	->	catalyzed by (Swapped)	Activation			
+POFUT2	ADAMTSL4	->	catalyzed by (Swapped)	Activation			
+POFUT2	CFP	->	catalyzed by (Swapped)	Activation			
+PORCN	WNT7B	->	PPrel: activation; catalyze	Activation			
+PORCN	WNT8B	->	PPrel: activation	Activation			
+POU2F2	ADIRF	->	expression regulated by (Swapped)	Activation			
+POU2F2	CD74	->	expression regulated by (Swapped)	Activation			
+POU2F2	CIITA	->	expression regulated by (Swapped)	Activation			
+POU2F2	EGR1	->	expression regulated by; expression regulates (Bidirectional Activation)	Activation			
+POU2F2	EHF	->	expression regulated by (Swapped)	Activation			
+POU2F2	GATA3	->	expression regulated by (Swapped)	Activation			
+POU2F2	GFI1	->	expression regulated by (Swapped)	Activation			
+POU2F2	GRHL2	->	expression regulated by (Swapped)	Activation			
+POU2F2	HLA-DRA	->	expression regulated by (Swapped)	Activation			
+POU2F2	JUP	->	expression regulated by (Swapped)	Activation			
+POU2F2	LITAF	->	expression regulated by (Swapped)	Activation			
+POU2F2	MYC	->	expression regulated by (Swapped)	Activation			
+POU2F2	SP140	->	expression regulates	Activation			
+POU2F2	TET2	->	expression regulates	Activation			
+POU2F2	TK1	->			Activation	->	1.0
+POU2F2	TLR6	->	expression regulates	Activation			
+POU3F2	GNRH1	->			Activation	->	1.0
+POU3F2	PDE5A	-|			Repression	-|	1.0
+PPARG	ABCG2	->			Activation	->	1.0
+PPARG	ACAT1	->			Activation	->	1.0
+PPARG	ACSL1	->	GErel: expression by (Swapped)	Activation			
+PPARG	ADIPOQ	->			Activation	->	1.0
+PPARG	AGER	-|			Repression	-|	1.0
+PPARG	ANGPTL4	->			Activation	->	1.0
+PPARG	APOB	-|			Repression	-|	1.0
+PPARG	APOBR	-|			Repression	-|	1.0
+PPARG	BAD	->			Activation	->	1.0
+PPARG	BCL2	-|			Repression	-|	1.0
+PPARG	BCL2L1	-|			Repression	-|	1.0
+PPARG	BRS3	->			Activation	->	1.0
+PPARG	CCND1	-|			Repression	-|	1.0
+PPARG	CCNE1	-|			Repression	-|	1.0
+PPARG	CD36	->			Activation	->	1.0
+PPARG	CD83	->	expression regulated by (Swapped)	Activation	Activation	->	1.0
+PPARG	CDKN1A	->			Activation	->	1.0
+PPARG	CFLAR	-|			Repression	-|	1.0
+PPARG	CIITA	-|			Repression	-|	1.0
+PPARG	CPT1B	->			Activation	->	1.0
+PPARG	CSF1	-|			Repression	-|	1.0
+PPARG	EDN1	->	expression regulated by (Swapped)	Activation			
+PPARG	EGFR	-|			Repression	-|	1.0
+PPARG	ERO1A	->			Activation	->	1.0
+PPARG	ERP44	-|			Repression	-|	1.0
+PPARG	FABP4	->			Activation	->	1.0
+PPARG	FASLG	->			Activation	->	1.0
+PPARG	GADD45B	->	expression regulated by (Swapped)	Activation			
+PPARG	GK	->			Activation	->	1.0
+PPARG	ICAM1	-|			Repression	-|	1.0
+PPARG	LIPA	->	expression regulated by (Swapped)	Activation			
+PPARG	LIPE	->			Activation	->	1.0
+PPARG	MECOM	->	activated by; inhibite (Target activates Source)	Activation			
+PPARG	MMP9	-|			Repression	-|	1.0
+PPARG	MYC	-|			Repression	-|	1.0
+PPARG	NR1D1	->	expression regulated by (Swapped)	Activation			
+PPARG	OLR1	->	GErel: expression by (Swapped)	Activation			
+PPARG	PDK2	-|			Repression	-|	1.0
+PPARG	PLIN2	->			Activation	->	1.0
+PPARG	POU2F1	->			Activation	->	1.0
+PPARG	PPARGC1A	->	complex; expression regulates; input	Activation			
+PPARG	PTEN	->			Activation	->	1.0
+PPARG	PTGS2	->			Activation	->	1.0
+PPARG	PTHLH	->	expression regulates	Activation			
+PPARG	RARB	->	expression regulates	Activation	Activation	->	1.0
+PPARG	REN	-|			Repression	-|	1.0
+PPARG	RETN	->			Activation	->	1.0
+PPARG	SAT1	->			Activation	->	1.0
+PPARG	SLC27A1	->	GErel: expression	Activation			
+PPARG	SLC2A4	-|			Repression	-|	1.0
+PPARG	SLC5A5	->			Activation	->	1.0
+PPARG	SLC9A1	-|			Repression	-|	1.0
+PPARG	SMAD3	->	expression regulates	Activation			
+PPARG	SNAI2	->	activate; inhibited by (Source activates Target)	Activation			
+PPARG	TG	-|			Repression	-|	1.0
+PPARG	TNFRSF11B	->	expression regulates	Activation			
+PPARG	TP53	->			Activation	->	1.0
+PPARG	TSHR	-|			Repression	-|	1.0
+PPARG	UGT1A9	->			Activation	->	1.0
+PPARG	VEGFA	->	expression regulates	Activation			
+PPARG	VLDLR	->			Activation	->	1.0
+PPARGC1A	ALDOB	->			Activation	->	1.0
+PPARGC1A	APOA5	->			Activation	->	1.0
+PPARGC1A	APOC3	->			Activation	->	1.0
+PPARGC1A	CYP7A1	->			Activation	->	1.0
+PPARGC1A	JUN	->	activated by; inhibit (Target activates Source)	Activation			
+PPARGC1A	MFN2	->			Activation	->	1.0
+PPARGC1A	NR1D1	->	activated by; inhibit (Target activates Source)	Activation			
+PPARGC1A	NR3C1	->	activated by; inhibit (Target activates Source)	Activation			
+PPARGC1A	OTC	->			Activation	->	1.0
+PPARGC1A	PCK2	->			Activation	->	1.0
+PPFIA2	PTPRS	->	complex; input (Complex interaction)	Activation			
+PPFIA2	RIMS1	->	complex (Complex interaction)	Activation			
+PPFIBP2	PTPRS	->	complex; input (Complex interaction)	Activation			
+PPL	SPRR2D	->	complex; input (Complex interaction)	Activation			
+PPM1F	CAMK2D	->	catalyzed by (Swapped)	Activation			
+PPP2R2C	CACNA2D1	-|	PPrel: inhibited by, dephosphorylation (Target inhibits Source)	Inhibition			
+PPP2R2C	CACNB4	-|	PPrel: inhibited by, dephosphorylation (Target inhibits Source)	Inhibition			
+PPP2R2C	CACNG4	-|	PPrel: inhibited by, dephosphorylation (Target inhibits Source)	Inhibition			
+PPP2R2C	CACNG6	-|	PPrel: inhibited by, dephosphorylation (Target inhibits Source)	Inhibition			
+PPP2R2C	CACNG7	-|	PPrel: inhibited by, dephosphorylation (Target inhibits Source)	Inhibition			
+PPP2R2C	CACNG8	-|	PPrel: inhibited by, dephosphorylation (Target inhibits Source)	Inhibition			
+PPP2R2C	OCLN	-|	PPrel: inhibited by, dephosphorylation (Target inhibits Source)	Inhibition			
+PPP2R3A	CACNA2D1	-|	PPrel: inhibited by, dephosphorylation (Target inhibits Source)	Inhibition			
+PPP2R3A	CACNB4	-|	PPrel: inhibited by, dephosphorylation (Target inhibits Source)	Inhibition			
+PPP2R3A	CACNG4	-|	PPrel: inhibited by, dephosphorylation (Target inhibits Source)	Inhibition			
+PPP2R3A	CACNG6	-|	PPrel: inhibited by, dephosphorylation (Target inhibits Source)	Inhibition			
+PPP2R3A	CACNG7	-|	PPrel: inhibited by, dephosphorylation (Target inhibits Source)	Inhibition			
+PPP2R3A	CACNG8	-|	PPrel: inhibited by, dephosphorylation (Target inhibits Source)	Inhibition			
+PPP3CC	NFATC1	->	PPrel: activated by, dephosphorylation; PPrel: dephosphorylated; activated by; catalyzed by (Swapped)	Activation			
+PPP3CC	NFATC4	->	PPrel: activated by, dephosphorylation; PPrel: dephosphorylated; catalyzed by (Swapped)	Activation			
+PPP3CC	SSH3	->	PPrel: activation	Activation			
+PRKCG	CREB3L1	->	PPrel: activated by (Swapped)	Activation			
+PRKCG	GRIN2A	->	PPrel: indirect effect; catalyzed by (Swapped)	Activation			
+PRKCG	GRIP1	->	catalyzed by (Swapped)	Activation			
+PRKCG	PLA2G4A	->	PCrel: activated by; PPrel: compound; catalyzed by (Swapped)	Activation			
+PRKCG	PLA2G4D	->	PCrel: activated by; PPrel: compound (Swapped)	Activation			
+PRKCG	PLA2G6	->	PPrel: activated by (Swapped)	Activation			
+PRKCG	PLD1	->	PCrel: activated by; activated by; catalyzed by (Swapped)	Activation			
+PRKCG	PRKG1	->	reaction (Complex interaction)	Activation			
+PRKCG	PTK2B	->	PPrel: activation, indirect effect; activate	Activation			
+PRKCG	SLC9A3R1	->	PPrel: activation, phosphorylation	Activation			
+PRKCG	TRPC3	-|	PPrel: inhibition	Inhibition			
+PRKCH	GRIN2A	->	catalyzed by (Swapped)	Activation			
+PRKCH	PRKG1	->	reaction (Complex interaction)	Activation			
+PRKCH	PTK2B	->	activate	Activation			
+PRKG1	ATP1A3	->	PPrel: activated by (Swapped)	Activation			
+PRKG1	ATP1B1	->	PPrel: activated by (Swapped)	Activation			
+PRKG1	ATP2B4	->	PPrel: activated by (Swapped)	Activation			
+PRKG1	CREB3L1	->	PPrel: activated by, phosphorylation (Swapped)	Activation			
+PRKG1	MAPK13	->	PPrel: activated by; PPrel: activated by, phosphorylation (Swapped)	Activation			
+PRKG1	RAP1GAP2	->	catalyze	Activation			
+PRKG1	TRPC3	->	reaction (Complex interaction)	Activation			
+PRNP	CAV1	->	PPrel: activated by (Swapped)	Activation			
+PRNP	GRIN2A	->	PPrel: activated, indirect effect (Swapped)	Activation			
+PRNP	RYR3	->	PPrel: activation, indirect effect	Activation			
+PRSS3	F2R	->	PPrel: activated by (Swapped)	Activation			
+PRSS3	F2RL1	->	PPrel: activated by (Swapped)	Activation			
+PRSS3	F2RL2	->	PPrel: activated by (Swapped)	Activation			
+PRSS3	F2RL3	->	PPrel: activated by (Swapped)	Activation			
+PRSS3	TCN1	->	catalyze	Activation			
+PSG1	SDC2	->	complex; input (Complex interaction)	Activation			
+PSG1	SDC3	->	complex; input (Complex interaction)	Activation			
+PTK2B	ACTBL2	->	catalyzed by; complex; input (Swapped)	Activation			
+PTK2B	AR	-|	activate; inhibited by (Target inhibits Source)	Inhibition			
+PTK2B	COL12A1	->	catalyzed by; complex; input (Swapped)	Activation			
+PTK2B	COL17A1	->	catalyzed by; complex; input (Swapped)	Activation			
+PTK2B	COL27A1	->	catalyzed by; complex; input (Swapped)	Activation			
+PTK2B	COL3A1	->	catalyzed by; complex; input (Swapped)	Activation			
+PTK2B	COL4A3	->	catalyzed by; complex; input (Swapped)	Activation			
+PTK2B	COL4A4	->	catalyzed by; complex; input (Swapped)	Activation			
+PTK2B	COL4A5	->	catalyzed by; complex; input (Swapped)	Activation			
+PTK2B	COL4A6	->	catalyzed by; complex; input (Swapped)	Activation			
+PTK2B	COL5A1	->	catalyzed by; complex; input (Swapped)	Activation			
+PTK2B	COL6A2	->	catalyzed by; complex; input (Swapped)	Activation			
+PTK2B	COL6A3	->	catalyzed by; complex; input (Swapped)	Activation			
+PTK2B	COL8A1	->	catalyzed by; complex; input (Swapped)	Activation			
+PTK2B	DMBT1	->	catalyzed by; complex; input (Swapped)	Activation			
+PTK2B	FLNB	->	catalyzed by; complex; input (Swapped)	Activation			
+PTK2B	FN1	->	catalyzed by; complex; input (Swapped)	Activation			
+PTK2B	ITGA2	->	catalyzed by; complex; input (Swapped)	Activation			
+PTK2B	ITGA6	->	catalyzed by; complex; input (Swapped)	Activation			
+PTK2B	ITGB8	->	catalyzed by; complex; input (Swapped)	Activation			
+PTK2B	ITGBL1	->	catalyzed by; complex; input (Swapped)	Activation			
+PTK2B	KDR	->	activate; catalyze; catalyzed by; complex; input (Bidirectional Activation)	Activation			
+PTK2B	LAMA1	->	catalyzed by; complex; input (Swapped)	Activation			
+PTK2B	LAMA3	->	catalyzed by; complex; input (Swapped)	Activation			
+PTK2B	LAMA5	->	catalyzed by; complex; input (Swapped)	Activation			
+PTK2B	LAMB2	->	catalyzed by; complex; input (Swapped)	Activation			
+PTK2B	LAMC2	->	catalyzed by; complex; input (Swapped)	Activation			
+PTK2B	RAC3	->	PPrel: activation	Activation			
+PTK2B	RHOU	->	complex; input (Complex interaction)	Activation			
+PTK2B	VEGFA	->	activated by; catalyze; catalyzed by; complex; input (Bidirectional Activation)	Activation			
+PTN	MDK	->	catalyze; catalyzed by; input (Bidirectional Activation)	Activation			
+PTN	SDC3	->	activate	Activation			
+PTPN22	HLA-DPA1	->	catalyzed by (Swapped)	Activation			
+PTPN22	HLA-DPB1	->	catalyzed by (Swapped)	Activation			
+PTPN22	HLA-DRA	->	catalyzed by (Swapped)	Activation			
+PTPN22	HLA-DRB1	->	catalyzed by (Swapped)	Activation			
+PTPN22	HLA-DRB5	->	catalyzed by (Swapped)	Activation			
+PTPN3	CBL	->	catalyzed by (Swapped)	Activation			
+PTPN3	EREG	->	catalyzed by (Swapped)	Activation			
+PTPN3	SH3KBP1	->	catalyze	Activation			
+PTPN3	STAM	->	catalyze	Activation			
+PTPN3	TGFA	->	catalyze	Activation			
+PTPN6	BATF3	->	GErel: expression, indirect effect (Swapped)	Activation			
+PTPN6	EPOR	-|	activate; inhibited by (Target inhibits Source)	Inhibition			
+PTPN6	HLA-DPA1	->	catalyzed by (Swapped)	Activation			
+PTPN6	HLA-DPB1	->	catalyzed by (Swapped)	Activation			
+PTPN6	HLA-DRA	->	activate; activated by; catalyzed by (Bidirectional Activation)	Activation			
+PTPN6	HLA-DRB1	->	activate; activated by; catalyzed by (Bidirectional Activation)	Activation			
+PTPN6	HLA-DRB5	->	catalyzed by (Swapped)	Activation			
+PTPN6	IFNGR2	->	catalyzed by; reaction (Swapped)	Activation			
+PTPN6	KITLG	-|	complex; inhibited by; input (Target inhibits Source)	Inhibition			
+PTPN6	MDK	->	catalyzed by (Swapped)	Activation			
+PTPN6	PTN	->	catalyzed by (Swapped)	Activation			
+PTPN6	SOCS3	-|	inhibite; reaction	Inhibition			
+PTPN6	VEGFA	->	activate	Activation			
+PTPRR	MAPK13	-|	PPrel: inhibited by, dephosphorylation (Target inhibits Source)	Inhibition			
+PYGL	GYG2	->	catalyzed by (Swapped)	Activation			
+RAB3A	PPFIA2	->	catalyzed by; complex; input (Swapped)	Activation			
+RAB3A	RIMS1	->	PPrel: binding/association; catalyze; complex; input	Activation			
+RAB3A	UNC13B	->	activated by; catalyze; complex; input (Bidirectional Activation)	Activation			
+RAB9B	RHOBTB3	->	complex; input (Complex interaction)	Activation			
+RAC3	ABI2	-|	PPrel: inhibited by (Target inhibits Source)	Inhibition			
+RAC3	CYFIP2	-|	PPrel: inhibited by (Target inhibits Source)	Inhibition			
+RAC3	PAK2	->	PPrel: activated by; PPrel: activation; complex; input (Bidirectional Activation)	Activation			
+RAC3	PAK6	->	PPrel: activated by; PPrel: activation (Bidirectional Activation)	Activation			
+RAC3	PARD6A	->	PPrel: activated by (Swapped)	Activation			
+RAC3	WASF3	->	PPrel: activation; PPrel: activation, indirect effect	Activation			
+RAP1GAP2	RAP1GAP	-|	inhibited by (Target inhibits Source)	Inhibition			
+RAPGEF3	MAPK13	->	PPrel: activated by (Swapped)	Activation			
+RARB	CETP	->	expression regulated by (Swapped)	Activation			
+RARB	JUN	->	expression regulated by (Swapped)	Activation			
+RARB	KRT19	->	expression regulated by (Swapped)	Activation			
+RARB	PTHLH	->	expression regulated by (Swapped)	Activation			
+RARB	RARB	->			Activation	->	1.0
+RARB	THRB	->	complex (Complex interaction)	Activation			
+RASGRF2	RHOB	->	catalyze	Activation			
+RASGRP1	PLA2G4A	->	PPrel: activated, indirect effect (Swapped)	Activation			
+RASGRP1	PLA2G4D	->	PPrel: activated, indirect effect (Swapped)	Activation			
+RASGRP2	PLA2G4A	->	PPrel: activated, indirect effect (Swapped)	Activation			
+RASGRP2	PLA2G4D	->	PPrel: activated, indirect effect (Swapped)	Activation			
+REPS2	SYNJ1	->	complex; input (Complex interaction)	Activation			
+REPS2	SYNJ2	->	complex; input (Complex interaction)	Activation			
+REPS2	TGFA	->	complex (Complex interaction)	Activation			
+RGMB	SMAD6	->	activate; inhibited by (Source activates Target)	Activation			
+RGMB	SMAD7	->	complex; input (Complex interaction)	Activation			
+RHOB	RHPN2	->	complex; input (Complex interaction)	Activation			
+RHOJ	ACTBL2	->	catalyzed by (Swapped)	Activation			
+RHOJ	ACTC1	->	catalyzed by (Swapped)	Activation			
+RIMS1	SYT2	->	complex; input (Complex interaction)	Activation			
+RIMS2	RAB3A	->	PPrel: activated by (Swapped)	Activation			
+RIN1	ABL1	->	PPrel: activated by (Swapped)	Activation			
+RIN1	CHML	->	catalyzed by (Swapped)	Activation			
+RIN3	CHML	->	catalyzed by (Swapped)	Activation			
+RIPK2	CARD11	->	catalyzed by (Swapped)	Activation			
+RIPK2	MAPK13	->	PPrel: activated, indirect effect (Swapped)	Activation			
+RIPK2	SQSTM1	->	complex; input (Complex interaction)	Activation			
+RIPK2	STAT4	->	activate	Activation			
+RNF115	FBXO2	->	catalyze; catalyzed by; input (Bidirectional Activation)	Activation			
+RNF115	FBXO27	->	catalyze; catalyzed by; input (Bidirectional Activation)	Activation			
+RNF115	FBXO44	->	catalyze; catalyzed by; input (Bidirectional Activation)	Activation			
+RNF115	FBXO6	->	catalyze; catalyzed by; input (Bidirectional Activation)	Activation			
+RNF115	NEDD4L	->	catalyze; catalyzed by; input (Bidirectional Activation)	Activation			
+RNF128	JUN	-|	activate; inhibited by (Target inhibits Source)	Inhibition			
+RNF128	NFATC1	-|	activate; inhibited by (Target inhibits Source)	Inhibition			
+RNF41	ERBB3	->	activated by; complex; input (Swapped)	Activation			
+ROBO1	NCK2	->	PPrel: activated by; complex; input (Swapped)	Activation			
+ROBO1	PAK2	->	PPrel: activated by (Swapped)	Activation			
+ROBO1	PAK6	->	PPrel: activated by (Swapped)	Activation			
+ROBO1	SRGAP2	->	PPrel: activation; complex; input	Activation			
+ROBO3	ROBO1	-|	PPrel: inhibited by (Target inhibits Source)	Inhibition			
+RPS6KA2	L1CAM	->	catalyzed by; complex; input (Swapped)	Activation			
+RPS6KA5	ATF1	->	activated by; catalyzed by (Swapped)	Activation			
+RPS6KA5	CREB3L1	->	PPrel: activated by; PPrel: activated by, phosphorylation (Swapped)	Activation			
+RPS6KA5	L1CAM	->	catalyzed by; complex; input (Swapped)	Activation			
+RPS6KA5	MYC	->	GErel: expression by (Swapped)	Activation			
+S1PR1	PLCG1	->	activated by (Swapped)	Activation			
+SARM1	TLR4	->	complex; input; reaction (Complex interaction)	Activation			
+SATB1	BCL2	->			Activation	->	1.0
+SATB1	CDK4	->			Activation	->	1.0
+SATB1	CYBB	-|			Repression	-|	1.0
+SATB1	GATA3	->			Activation	->	1.0
+SATB1	HBE1	->			Activation	->	1.0
+SATB1	IL4	->			Activation	->	1.0
+SATB1	IL5	-|			Repression	-|	1.0
+SATB1	MKI67	->			Activation	->	1.0
+SATB1	SPARC	->			Activation	->	1.0
+SATB1	SPI1	->			Activation	->	1.0
+SCARB2	SYNJ1	->	complex; input (Complex interaction)	Activation			
+SCARB2	SYNJ2	->	complex; input (Complex interaction)	Activation			
+SCN5A	SPTB	->	complex; input (Complex interaction)	Activation			
+SCN5A	SPTBN5	->	complex; input (Complex interaction)	Activation			
+SDC2	CAV1	->	PPrel: activated, indirect effect (Swapped)	Activation			
+SDC2	JUN	->	activated by (Swapped)	Activation			
+SDC2	MSN	->	PPrel: activated by (Swapped)	Activation			
+SDC2	PLCG1	->	activated by (Swapped)	Activation			
+SDC2	VTN	->	complex; input (Complex interaction)	Activation			
+SEMA3A	DPYSL2	->	catalyzed by; complex; input (Swapped)	Activation			
+SEMA3A	DPYSL3	->	catalyzed by; complex; input (Swapped)	Activation			
+SEMA4D	RHOB	->	catalyzed by (Swapped)	Activation			
+SEMA7A	PLXNC1	->	PPrel: activated by; complex; input (Swapped)	Activation			
+SERPINA5	F13A1	-|	inhibited by (Target inhibits Source)	Inhibition			
+SERPINE1	PLAU	->	catalyzed by; complex; input (Swapped)	Activation			
+SERPINE1	VTN	->	complex; input (Complex interaction)	Activation			
+SFRP1	FZD1	-|	PPrel: inhibited by; inhibited by (Target inhibits Source)	Inhibition			
+SFRP1	FZD3	-|	PPrel: inhibited by (Target inhibits Source)	Inhibition			
+SFRP1	FZD5	-|	PPrel: inhibited by (Target inhibits Source)	Inhibition			
+SFRP1	FZD8	-|	PPrel: inhibited by (Target inhibits Source)	Inhibition			
+SFRP1	SOST	->	reaction (Complex interaction)	Activation			
+SFRP1	WNT7B	-|	PPrel: inhibition	Inhibition			
+SFRP1	WNT8B	-|	PPrel: inhibition; inhibit	Inhibition			
+SGK1	FOXO1	-|	PPrel: inhibited by, phosphorylated by (Target inhibits Source)	Inhibition			
+SGK1	NEDD4L	-|	PPrel: inhibited by, phosphorylated by; complex (Target inhibits Source)	Inhibition			
+SGK1	SCNN1A	->	catalyzed by (Swapped)	Activation			
+SGK1	TSC22D3	->	complex (Complex interaction)	Activation			
+SH3KBP1	SPRY1	->	complex; input (Complex interaction)	Activation			
+SH3KBP1	STAM	->	complex; input (Complex interaction)	Activation			
+SH3KBP1	SYNJ1	->	complex; input; reaction (Complex interaction)	Activation			
+SH3KBP1	SYNJ2	->	complex; input (Complex interaction)	Activation			
+SH3KBP1	TGFA	->	complex; input (Complex interaction)	Activation			
+SH3KBP1	VLDLR	->	complex; input (Complex interaction)	Activation			
+SHC3	PRKCG	->	catalyzed by (Swapped)	Activation			
+SHC3	STAT4	->	complex; input (Complex interaction)	Activation			
+SIGIRR	CD14	-|	inhibited by (Target inhibits Source)	Inhibition			
+SIGIRR	TLR1	-|	inhibite	Inhibition			
+SIGIRR	TLR4	-|	inhibite	Inhibition			
+SIGIRR	TLR6	-|	inhibit	Inhibition			
+SIM2	BCL2	-|			Repression	-|	1.0
+SIM2	CASP3	->			Activation	->	1.0
+SIX1	CDH1	-|			Repression	-|	1.0
+SIX1	VEGFC	->			Activation	->	1.0
+SLC9A3R1	DNM1	-|	activate; inhibited by (Target inhibits Source)	Inhibition			
+SMAD3	AKR1B1	->	expression regulated by (Swapped)	Activation			
+SMAD3	ANGPTL4	->			Activation	->	1.0
+SMAD3	APOC3	->			Activation	->	1.0
+SMAD3	AR	->	complex; expression regulated by; input (Swapped)	Activation			
+SMAD3	BAMBI	->			Activation	->	1.0
+SMAD3	BMPR1B	->	PPrel: activated by, phosphorylation (Swapped)	Activation			
+SMAD3	CCND2	->			Activation	->	1.0
+SMAD3	CDH1	-|	GErel: repressed by (Target inhibits Source)	Inhibition			
+SMAD3	CDKN1A	->			Activation	->	1.0
+SMAD3	COL3A1	->	expression regulated by (Swapped)	Activation			
+SMAD3	COL6A3	->	expression regulated by (Swapped)	Activation			
+SMAD3	CYP17A1	-|			Repression	-|	1.0
+SMAD3	CYP7A1	-|			Repression	-|	1.0
+SMAD3	EDN1	->	expression regulated by (Swapped)	Activation			
+SMAD3	FOXP3	->			Activation	->	1.0
+SMAD3	FST	->			Activation	->	1.0
+SMAD3	GADD45B	->	expression regulated by (Swapped)	Activation			
+SMAD3	JUN	->	complex; expression regulated by; input; reaction (Swapped)	Activation			
+SMAD3	LEF1	->	expression regulated by (Swapped)	Activation			
+SMAD3	MMP9	-|			Repression	-|	1.0
+SMAD3	NR3C1	->	activated by; complex; expression regulates; input; reaction (Bidirectional Activation)	Activation			
+SMAD3	PITX2	->	GErel: expression by (Swapped)	Activation			
+SMAD3	PTHLH	->	expression regulated by (Swapped)	Activation	Activation	->	1.0
+SMAD3	SERPINE1	->	GErel: expression by (Swapped)	Activation	Activation	->	1.0
+SMAD3	SMAD7	-|			Repression	-|	1.0
+SMAD3	TERT	-|			Repression	-|	1.0
+SMAD3	TGFB1	-|			Repression	-|	1.0
+SMAD3	TNC	->			Activation	->	1.0
+SMAD3	VDR	->			Activation	->	1.0
+SMAD3	VEGFA	->	expression regulates	Activation			
+SMAD6	BMPR1B	-|	activate; complex; inhibited by; input (Target inhibits Source)	Inhibition			
+SMAD6	RGMB	-|	activate; inhibited by (Target inhibits Source)	Inhibition			
+SMAD6	SMAD3	-|	PPrel: inhibited by (Target inhibits Source)	Inhibition			
+SMAD7	CDK1	-|			Repression	-|	1.0
+SMAD7	CDKN1A	-|			Repression	-|	1.0
+SMAD7	CDKN2B	-|			Repression	-|	1.0
+SMAD7	KRT14	-|			Repression	-|	1.0
+SMAD7	LEF1	->	expression regulated by (Swapped)	Activation			
+SMAD7	MET	->			Activation	->	1.0
+SMAD7	MYC	->			Activation	->	1.0
+SMAD7	SMAD3	-|	GErel: expression; PPrel: inhibited by; activate; inhibite; inhibited by; input (Target inhibits Source)	Inhibition			
+SMAD7	TGFB1	->			Activation	->	1.0
+SMAD7	TGFBR1	-|			Repression	-|	1.0
+SNAI2	CD44	->			Activation	->	1.0
+SNAI2	CDH1	-|			Repression	-|	1.0
+SNAI2	CXADR	-|			Repression	-|	1.0
+SNAI2	CXCL12	->			Activation	->	1.0
+SNAI2	CXCR4	->			Activation	->	1.0
+SNAI2	EGR1	-|	activate; inhibited by (Target inhibits Source)	Inhibition			
+SNAI2	HPGD	-|			Repression	-|	1.0
+SNAI2	JAG1	->			Activation	->	1.0
+SNAI2	LPAR2	-|			Repression	-|	1.0
+SNAI2	MMP9	->			Activation	->	1.0
+SNAI2	POU5F1	->			Activation	->	1.0
+SNAI2	PPARG	-|	activate; inhibited by (Target inhibits Source)	Inhibition			
+SNAI2	UBE2D3	-|			Repression	-|	1.0
+SNAI2	VDR	-|			Repression	-|	1.0
+SOCS2	IRS1	-|	PPrel: inhibited by (Target inhibits Source)	Inhibition			
+SOCS2	JAK1	-|	PPrel: inhibited by; complex; input (Target inhibits Source)	Inhibition			
+SOCS2	SOCS3	->	complex; input (Complex interaction)	Activation			
+SOCS3	CBL	-|	inhibited by (Target inhibits Source)	Inhibition			
+SOCS3	IRS1	-|	PPrel: inhibited by; PPrel: inhibited, indirect effect; inhibited by (Target inhibits Source)	Inhibition			
+SOCS3	JAK1	-|	PPrel: binding/association; PPrel: inhibited by; activate; complex; input; reaction (Target inhibits Source)	Inhibition			
+SOST	FZD1	-|	inhibited by (Target inhibits Source)	Inhibition			
+SOST	LRP5	-|	PPrel: inhibited by (Target inhibits Source)	Inhibition			
+SOST	WNT8B	-|	inhibite	Inhibition			
+SOX13	TCF7L2	->	complex; input (Complex interaction)	Activation			
+SOX4	HDAC8	->			Activation	->	1.0
+SOX4	NCAM1	->			Activation	->	1.0
+SOX4	TCF7L2	->	complex; input (Complex interaction)	Activation			
+SPDEF	AGR2	->			Activation	->	1.0
+SPDEF	CDH1	->			Activation	->	1.0
+SPDEF	MMP9	-|			Repression	-|	1.0
+SPDEF	MUC2	->			Activation	->	1.0
+SPDEF	PLAUR	-|			Repression	-|	1.0
+SPDEF	RETNLB	->			Activation	->	1.0
+SPDEF	SERPINB5	->			Activation	->	1.0
+SPDEF	SPINK4	->			Activation	->	1.0
+SPDEF	SQSTM1	->			Activation	->	1.0
+SPRY1	CBL	-|	catalyze; complex; inhibited by; input (Target inhibits Source)	Inhibition			
+SPRY1	STAM	->	complex; input (Complex interaction)	Activation			
+SQSTM1	TNFRSF1A	->	complex; input (Complex interaction)	Activation			
+ST14	FLG	->	catalyzed by (Swapped)	Activation			
+STAM	JAK1	->	PPrel: activated by; complex; input (Swapped)	Activation			
+STAM	SYNJ1	->	complex; input (Complex interaction)	Activation			
+STAM	SYNJ2	->	complex; input (Complex interaction)	Activation			
+STAM	TGFA	->	complex; input (Complex interaction)	Activation			
+STAT4	AOX1	->	GErel: expression by (Swapped)	Activation			
+STAT4	CCND3	->	GErel: expression by (Swapped)	Activation			
+STAT4	JUN	-|	activate; complex; inhibited by; input; reaction (Target inhibits Source)	Inhibition			
+STAT4	MYC	->	GErel: expression by (Swapped)	Activation	Activation	->	1.0
+STAT4	PRF1	->			Activation	->	1.0
+STAT4	PRKCG	->	catalyzed by (Swapped)	Activation			
+STAT4	S100A4	->			Activation	->	1.0
+STAT4	SOCS2	->	GErel: expression by (Swapped)	Activation			
+STAT4	SOCS3	->	GErel: expression by (Swapped)	Activation	Repression	-|	1.0
+STAT4	ZNF395	->	expression regulates	Activation			
+SUN2	SYNE1	->	complex; input (Complex interaction)	Activation			
+SYNJ1	SYT2	->	complex; input (Complex interaction)	Activation			
+SYNJ1	TGFA	->	complex; input (Complex interaction)	Activation			
+SYNJ2	SYT2	->	complex; input (Complex interaction)	Activation			
+SYNJ2	TGFA	->	complex; input (Complex interaction)	Activation			
+SYT2	UNC13B	->	complex; input (Complex interaction)	Activation			
+TCF4	ABCB1	->			Activation	->	1.0
+TCF4	AR	-|	activate; inhibited by (Target inhibits Source)	Inhibition			
+TCF4	CCND1	->			Activation	->	1.0
+TCF4	CLEC4C	->			Activation	->	1.0
+TCF4	CNTNAP2	->			Activation	->	1.0
+TCF4	HECA	-|			Repression	-|	1.0
+TCF4	MITF	-|			Repression	-|	1.0
+TCF4	MYC	->			Activation	->	1.0
+TCF4	NOTUM	->			Activation	->	1.0
+TCF4	NRXN1	->			Activation	->	1.0
+TCF4	PLD1	->			Activation	->	1.0
+TCF4	PTEN	-|			Repression	-|	1.0
+TCF4	TLE1	->	complex (Complex interaction)	Activation			
+TCF4	VEGFA	->			Activation	->	1.0
+TCF4	VIM	->			Activation	->	1.0
+TCF7	AXIN2	->	GErel: expression by; PPrel: activation (Bidirectional Activation)	Activation			
+TCF7	BIRC3	->	GErel: expression by (Swapped)	Activation			
+TCF7	CCND3	->	GErel: expression by (Swapped)	Activation			
+TCF7	JUN	->	GErel: expression by (Swapped)	Activation			
+TCF7	MYC	->	GErel: expression by (Swapped)	Activation			
+TCF7	SNAI2	->	GErel: expression by (Swapped)	Activation			
+TCF7L2	ACVR1C	->	expression regulated by (Swapped)	Activation			
+TCF7L2	ATOH8	->	expression regulated by (Swapped)	Activation			
+TCF7L2	AXIN2	->	GErel: expression by; PPrel: activation; expression regulated by (Bidirectional Activation)	Activation			
+TCF7L2	BHLHE40	->	expression regulated by (Swapped)	Activation			
+TCF7L2	BIRC3	->	GErel: expression by (Swapped)	Activation			
+TCF7L2	BIRC5	->			Activation	->	1.0
+TCF7L2	CBX5	->	expression regulated by (Swapped)	Activation			
+TCF7L2	CCND3	->	GErel: expression by (Swapped)	Activation			
+TCF7L2	DKK1	->	expression regulated by (Swapped)	Activation			
+TCF7L2	ETV4	->	expression regulated by (Swapped)	Activation			
+TCF7L2	GDF15	->	expression regulated by (Swapped)	Activation			
+TCF7L2	HECA	-|			Repression	-|	1.0
+TCF7L2	ID1	->	expression regulated by (Swapped)	Activation			
+TCF7L2	IGFBP1	->	expression regulated by (Swapped)	Activation			
+TCF7L2	JUN	->	GErel: expression by; complex; input (Swapped)	Activation			
+TCF7L2	MYC	->	GErel: expression by; catalyzed by; input (Swapped)	Activation			
+TCF7L2	MYCL	->	catalyzed by; input (Swapped)	Activation			
+TCF7L2	NR1D1	->	expression regulated by (Swapped)	Activation			
+TCF7L2	NR4A1	->	expression regulated by (Swapped)	Activation			
+TCF7L2	SMAD3	->	expression regulated by (Swapped)	Activation			
+TCF7L2	SMAD6	->	expression regulated by (Swapped)	Activation			
+TCF7L2	SNAI2	->	GErel: expression by (Swapped)	Activation			
+TCF7L2	STARD7	->			Activation	->	1.0
+TCF7L2	TCF7	->	expression regulated by (Swapped)	Activation			
+TCF7L2	TLE1	->	complex; input; reaction (Complex interaction)	Activation			
+TCF7L2	TLE3	->	complex; expression regulates; input; reaction	Activation			
+TCF7L2	TLE4	->	complex; input; reaction (Complex interaction)	Activation			
+TCF7L2	TNIK	->	complex; input (Complex interaction)	Activation			
+TCF7L2	ZMIZ1	->	expression regulates	Activation			
+TCF7L2	ZNF175	->	expression regulates	Activation			
+TCF7L2	ZNF703	->	expression regulates	Activation			
+TCF7L2	ZNF827	->	expression regulates	Activation			
+TFAP2C	CDKN1A	-|			Repression	-|	1.0
+TFAP2C	CRABP2	->			Activation	->	1.0
+TFAP2C	ECM1	->			Activation	->	1.0
+TFAP2C	EFNA1	->	expression regulated by (Swapped)	Activation			
+TFAP2C	ERBB3	->	expression regulated by (Swapped)	Activation			
+TFAP2C	ESR1	->			Activation	->	1.0
+TFAP2C	GATA2	->	expression regulated by (Swapped)	Activation			
+TFAP2C	GPX1	->			Activation	->	1.0
+TFAP2C	ID1	->	expression regulated by (Swapped)	Activation			
+TFAP2C	MAGEC2	->	expression regulated by (Swapped)	Activation			
+TFAP2C	NR4A1	->	expression regulated by (Swapped)	Activation			
+TFAP2C	SKAP1	->	expression regulated by (Swapped)	Activation			
+TFAP2C	SULT1E1	->			Activation	->	1.0
+TFAP4	CDKN1A	->			Activation	->	1.0
+TFAP4	MDM2	-|			Repression	-|	1.0
+TFAP4	PPP2R2B	-|			Repression	-|	1.0
+TFAP4	SALL2	->			Activation	->	1.0
+TGFA	ERBB3	->	PPrel: activated by; complex; input (Swapped)	Activation			
+TGFA	ERBB4	->	PPrel: activated by; catalyzed by (Swapped)	Activation			
+TGFA	FGFR2	->	PPrel: activated by (Swapped)	Activation			
+TGFA	FLT1	->	PPrel: activated by (Swapped)	Activation			
+TGFA	KDR	->	PPrel: activated by (Swapped)	Activation			
+TGFA	NGFR	->	PPrel: activated by (Swapped)	Activation			
+TGFA	NTRK2	->	PPrel: activated by (Swapped)	Activation			
+TGFA	PAG1	->	catalyzed by (Swapped)	Activation			
+TGFA	SPRY1	->	catalyzed by; complex; input (Swapped)	Activation			
+TGFB2	SMAD3	->	PPrel: activated, indirect effect (Swapped)	Activation			
+TGFB2	SMAD6	->	activated by (Swapped)	Activation			
+TGFB3	SMAD3	->	PPrel: activated, indirect effect (Swapped)	Activation			
+THBS2	ITGA2	->	PPrel: activated by (Swapped)	Activation			
+THBS2	ITGA6	->	PPrel: activated by; complex; input (Swapped)	Activation			
+THBS2	ITGB3	->	PPrel: activated by (Swapped)	Activation			
+THBS2	ITGB8	->	PPrel: activated by (Swapped)	Activation			
+THRB	CGA	-|			Repression	-|	1.0
+THRB	MYC	->	GErel: expression by (Swapped)	Activation			
+TLE3	RUNX1	-|			Repression	-|	1.0
+TLR4	JUN	->	PCrel: activated, indirect effect; expression regulates (Bidirectional Activation)	Activation			
+TLR4	TLR6	->	complex (Complex interaction)	Activation			
+TNFAIP3	IRF7	-|			Repression	-|	1.0
+TNFAIP3	JUN	-|			Repression	-|	1.0
+TNFAIP3	NFKB1	-|			Repression	-|	1.0
+TNFAIP3	RELA	-|			Repression	-|	1.0
+TNFAIP3	RIPK2	->	PPrel: activated by; catalyzed by; input (Swapped)	Activation			
+TNFAIP3	TNIP1	->	complex; input (Complex interaction)	Activation			
+TNFRSF1A	BID	->	activated by (Swapped)	Activation			
+TNFRSF1A	BIRC3	->	PPrel: activated by; activated by; catalyze; catalyzed by; complex; input; reaction (Bidirectional Activation)	Activation			
+TNFRSF1A	NRK	->	activated by (Swapped)	Activation			
+TNFRSF1A	PPARG	->	activated by (Swapped)	Activation			
+TNFRSF1A	SMPD1	->	activated by (Swapped)	Activation			
+TNFRSF1A	SMPD3	->	activated by; complex; input (Swapped)	Activation			
+TNFRSF1A	TNFAIP3	->	activate; activated by; catalyze; complex; inhibite; input (Swapped)	Activation			
+TNFRSF1A	TNFRSF1B	->	input (Input/Compound interaction)	Activation			
+TNFRSF1A	TNIK	->	activate	Activation			
+TNFRSF1B	DAB2IP	->	PPrel: activated by (Swapped)	Activation			
+TNFSF10	BIRC3	->	activated by (Swapped)	Activation			
+TNFSF10	CFLAR	->	activated by; complex; inhibit; input; reaction (Target activates Source)	Activation			
+TNFSF10	SMPD1	->	activated by (Swapped)	Activation			
+TRIM16	DES	-|			Repression	-|	1.0
+TRIM16	E2F1	-|			Repression	-|	1.0
+TRIM16	VIM	-|			Repression	-|	1.0
+TSC22D3	CCND1	->			Activation	->	1.0
+TSC22D3	CDKN1A	-|			Repression	-|	1.0
+TSC22D3	FOXO1	-|			Repression	-|	1.0
+TSC22D3	FOXO3	-|			Repression	-|	1.0
+TSC22D3	FOXO4	-|			Repression	-|	1.0
+TSC22D3	SCNN1A	->	catalyzed by (Swapped)	Activation			
+TUBA1A	TUBB2A	->	PPrel: binding/association; complex; input (Binding/Association)	Activation			
+TUBA1A	TUBB2B	->	PPrel: binding/association; complex; input (Binding/Association)	Activation			
+UHRF1	ABCB1	-|			Repression	-|	1.0
+UHRF1	PPARG	-|			Repression	-|	1.0
+UHRF1	RB1	->			Activation	->	1.0
+UNC13B	PPFIA2	->	activated by; complex; input (Swapped)	Activation			
+UNC13B	RAB3A	->	activated by; catalyze; complex; input (Bidirectional Activation)	Activation			
+UNC13B	RIMS1	->	activated by; complex; input (Swapped)	Activation			
+USP18	JAK1	->	catalyzed by (Swapped)	Activation			
+USP18	PLCG1	->	catalyzed by (Swapped)	Activation			
+USP33	ROBO1	->	catalyzed by (Swapped)	Activation			
+VEGFA	CBL	-|	complex; inhibited by; input (Target inhibits Source)	Inhibition			
+VEGFA	ERBB3	->	PPrel: activated by (Swapped)	Activation			
+VEGFA	ERBB4	->	PPrel: activated by (Swapped)	Activation			
+VEGFA	FGFR2	->	PPrel: activated by (Swapped)	Activation			
+VEGFA	FLT1	->	PCrel: activated by; PPrel: activated by; complex; input (Swapped)	Activation			
+VEGFA	ITGB3	->	catalyze; catalyzed by; complex; input (Bidirectional Activation)	Activation			
+VEGFA	MAPK13	->	catalyzed by (Swapped)	Activation			
+VEGFA	MST1R	->	PPrel: activated by (Swapped)	Activation			
+VEGFA	NGFR	->	PPrel: activated by (Swapped)	Activation			
+VEGFA	NTRK2	->	PPrel: activated by (Swapped)	Activation			
+VEGFA	PLCG1	->	activated by; complex; input (Swapped)	Activation			
+VEGFA	PTK2B	->	activated by; catalyze; catalyzed by; complex; input (Bidirectional Activation)	Activation			
+VLDLR	NCK2	->	activated by (Swapped)	Activation			
+VLDLR	PLAU	->	activated by (Swapped)	Activation			
+VLDLR	SERPINE1	->	activated by (Swapped)	Activation			
+VTN	F11R	->	activated by (Swapped)	Activation			
+VTN	ITGA2	->	PPrel: activated by (Swapped)	Activation			
+VTN	ITGA6	->	PPrel: activated by (Swapped)	Activation			
+VTN	ITGB3	->	PPrel: activated by; activated by; complex; input; reaction (Swapped)	Activation			
+VTN	ITGB8	->	PPrel: activated by; complex; input (Swapped)	Activation			
+VTN	KDR	->	activated by; complex; input (Swapped)	Activation			
+VTN	PTK2B	->	activated by (Swapped)	Activation			
+VTN	VEGFA	->	activated by; complex; input (Swapped)	Activation			
+WASF3	ACTR3C	->	PPrel: activated by (Swapped)	Activation			
+WNT7B	FZD1	->	PPrel: activated by; PPrel: activated by, phosphorylation; complex; input (Swapped)	Activation			
+WNT7B	FZD3	->	PPrel: activated by; PPrel: activated by, phosphorylation; complex; input (Swapped)	Activation			
+WNT7B	FZD5	->	PPrel: activated by; PPrel: activated by, phosphorylation; complex; input (Swapped)	Activation			
+WNT7B	FZD8	->	PPrel: activated by; PPrel: activated by, phosphorylation; complex; input (Swapped)	Activation			
+WNT7B	LRP5	->	PPrel: activated by; complex; input (Swapped)	Activation			
+WNT8B	FZD1	->	PPrel: activated by; PPrel: activated by, phosphorylation; complex; input (Swapped)	Activation			
+WNT8B	FZD3	->	PPrel: activated by; PPrel: activated by, phosphorylation; complex; input (Swapped)	Activation			
+WNT8B	FZD5	->	PPrel: activated by; PPrel: activated by, phosphorylation; complex; input (Swapped)	Activation			
+WNT8B	FZD8	->	PPrel: activated by; PPrel: activated by, phosphorylation; complex; input (Swapped)	Activation			
+WNT8B	LRP5	->	PPrel: activated by; complex; input (Swapped)	Activation			
+ZEB1	BCL6	-|			Repression	-|	1.0
+ZEB1	CD44	->	expression regulated by (Swapped)	Activation			
+ZEB1	CDH1	-|			Repression	-|	1.0
+ZEB1	CXADR	-|			Repression	-|	1.0
+ZEB1	EHF	->	expression regulated by (Swapped)	Activation			
+ZEB1	EPCAM	-|			Repression	-|	1.0
+ZEB1	GRHL2	-|			Repression	-|	1.0
+ZEB1	IFI27	->	expression regulated by (Swapped)	Activation			
+ZEB1	IL1A	->	expression regulated by (Swapped)	Activation			
+ZEB1	IL1B	->	expression regulated by (Swapped)	Activation			
+ZEB1	MUC1	-|			Repression	-|	1.0
+ZEB1	NFATC4	->	expression regulated by (Swapped)	Activation			
+ZEB1	PKP3	-|			Repression	-|	1.0
+ZEB1	POU2F2	->	expression regulated by (Swapped)	Activation			
+ZEB1	POU5F1	->			Activation	->	1.0
+ZEB1	PTPN6	->	expression regulated by (Swapped)	Activation			
+ZEB1	SP140	->	expression regulated by (Swapped)	Activation			
+ZEB1	SPRR1B	->			Activation	->	1.0
+ZEB2	CDH1	-|			Repression	-|	1.0
+ZEB2	CXADR	-|			Repression	-|	1.0
+ZEB2	ITGA5	->			Activation	->	1.0
+ZEB2	MEOX2	-|			Repression	-|	1.0
+ZEB2	POU5F1	->			Activation	->	1.0
+ZEB2	VIM	->			Activation	->	1.0
+ZHX2	AFP	-|			Repression	-|	1.0
+ZHX2	CCNA2	-|			Repression	-|	1.0
+ZHX2	CCNE1	-|			Repression	-|	1.0
+ZMIZ1	AR	->	activated by (Swapped)	Activation			
+ZNF175	NTF3	->			Activation	->	1.0

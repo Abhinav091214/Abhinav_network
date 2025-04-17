@@ -1,0 +1,61 @@
+This file serves as documentation to explain the functionality of each script and the contents of the associated files.
+There are 7 code files listed in order of use:
+
+REACTOME CODES:
+reactome_filter.py - Filter the interactions for each gene with all other genes in input list (filtered_log2fc_0.5_GSE72141.txt,reactome_interactions.txt). imported as a module in reactome_network_pipeline.py
+edge_interactions.py - Processes the edge interactions as per requirement (Activation: -> ,Inhibition: -|, removing predicted entries). imported as a module in reactome_network_pipeline.py.
+reactome_network_pipeline.py - Main driver code which calls the first 2 codes in the script to run. Final output is (finalized_interactions_with_regulation.tsv,reactome_filtered_interactions_edges_ready.tsv
+reactome_filtered_interactions.tsv) in results dir
+
+TRUSST CODES:
+trusst_interactions16apr.py- Fiter the interactions common in (trrust_rawdata.tsv, filtered_log2fc_0.5_GSE72141.txt) file and check and remove duplicates. Generates two files
+			(trusst_interactions_with_duplicates.csv, trrust_final_interactions.csv) in results dir  
+trusst_reactome_combined.py - Combine the interactions of reactome and trrust and check if any duplicates (None found). Input: (finalized_interactions_with_regulation.tsv, trrust_final_interactions.csv)
+
+SFA_CODES:
+basal_log_transform_trrust_reactome.py - Transform the basal normalized counts to log vals. (Input: /results/SFA/data/basal_expressions.csv; Output: /results/SFA/data/trusst_reactome_basal_exp.csv)
+SFA_SIM1.py - SFA first simulation code - Multiple outputs all saved in different dirs in main dir (/results/SFA/SIM1/)
+
+
+
+The folder structure is as follows:
+	Abhinav_network/
+		data/
+			1. duplicate_entries- Dataframe with all duplicates (from TRRUST manually)  
+			2. duplicates_required- Dataframe with a single instance of the duplicate (searched and referenced in literature which can be found in google docs; Manually filtereddone)				 
+			3. filtered_log2fc_0.5_GSE72141.txt- Text file which is the gene list from CIstrome-GO having 1901 filtered genes (Input for reactome_filter.py)
+			4. reactome_interactions.txt- Reactome interactions file (Input for reactome_filter.py)
+			5. trrust_rawdata.tsv- This is the entire raw data of TRRUST without headers
+		
+		cytoscape/
+			1. main_reactome_trrust.sif- SIF file of exported network from cytoscape
+			2. nodes_trrust_reactome - Text file containing the nodes in the network
+
+		SFA/
+			data/ 
+				basal_expressions.csv - Basal normalized expressions before log transformation. Input for code file: basal_log_transform_trrust_reactome.py
+				trusst_reactome_basal_exp.csv - Contains the log transformed values which is ready for layering in SFA. Output of code file: basal_log_transform_trrust_reactome.py
+				new_GSE72141_DESEQ2_results.csv - DESEQ2 results obtained from RNA-seq analysis
+			sfa/
+			All the main sfa codes from paper: https://www.nature.com/articles/s41598-018-23643-5	 
+			
+			SIM1/
+				All the results of the simulation run (nodal_vals, signal_flow, val)
+			
+		results/
+			1. finalized_interactions_with_regulation.tsv - Has the final processed interactions from reactome. Output of main driver code- reactome_network_pipeline.py
+			2. reactome_filtered_interactions_edges_ready.tsv - Intermediate interactions 1. Output of main driver code- reactome_network_pipeline.py
+			3. reactome_filtered_interactions.tsv - Intermediate interactions 2. Output of main driver code- reactome_network_pipeline.py
+			
+			4. trusst_interactions_with_duplicates.csv - All trrust interactions in filtered in our list with duplicates. Output of trusst_interactions16apr.py
+			5. trrust_final_interactions.csv - Final trrust interactions filtered and duplicates removed. Output of trusst_interactions16apr.py	
+			6. merged_interactions.tsv - Merged interactions of both reactome and trrust. Output of trusst_reactome_combined.py. Export this into cytoscape to get a network of 1111 nodes and 3177
+			 edges after removing singleton and disconnected nodes
+			 
+			
+		
+		
+	
+
+
+	

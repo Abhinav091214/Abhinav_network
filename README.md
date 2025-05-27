@@ -4,9 +4,10 @@ This repository contains a pipeline for processing gene interaction data from **
 
 ## Table of Contents
 1. [Reactome Codes](#reactome-codes)
-2. [TRUST Codes](#trusst-codes)
+2. [TRRUST Codes](#trusst-codes)
 3. [SFA Codes](#sfa-codes)
-4. [Folder Structure](#folder-structure)
+4. [Other codes](#Other-codes)
+5. [Folder Structure](#folder-structure)
 
 ---
 
@@ -58,7 +59,7 @@ This repository contains a pipeline for processing gene interaction data from **
 
 ---
 
-## Other codes
+## Other Codes
 1. **network_analysis.py**
    - Basic network analysis mainly code for obtaining source and target from edge table is in available in this code
    - Outputs: `/results/cytoscape`

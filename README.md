@@ -33,7 +33,7 @@ This repository contains a pipeline for processing gene interaction data from **
 
 ## TRRUST Codes
 
-1. **trusst_interactions16apr.py**  
+1. **trusst_interactions_main.py**  
    - Filters and removes duplicates from the TRRUST interactions using `trrust_rawdata.tsv` and `filtered_log2fc_0.5_GSE72141.txt`.  
    - Outputs:  
      - `trusst_interactions_with_duplicates.csv`  
@@ -58,13 +58,26 @@ This repository contains a pipeline for processing gene interaction data from **
 
 ---
 
+## Other codes
+1. **network_analysis.py**
+   - Basic network analysis mainly code for obtaining source and target from edge table is in available in this code
+   - Outputs: `/results/cytoscape`
+     
+2. **pathway_analysis.py**
+   - Pathway enrichment analysis using expression values shows enriched pathways along with plot.
+   - Output: `results/SFA/pathway_analysis/`
+
+3. **path_traversal.py**
+   - Path traversal analysis from GATA3 and other hubs
+---
+
 ## Folder Structure
 Refer to the documentation file for the folder structure
 
 ## Running the pipeline:
 
 Start by running the Reactome-related code using reactome_network_pipeline.py.
-Then run the TRRUST interaction filtering using trusst_interactions16apr.py.
+Then run the TRRUST interaction filtering using trusst_interactions_main.py.
 Combine Reactome and TRRUST interactions with trusst_reactome_combined.py.
 Use basal_log_transform_trrust_reactome.py to perform log transformation.
 Run the SFA simulation with SFA_SIM1.py.
